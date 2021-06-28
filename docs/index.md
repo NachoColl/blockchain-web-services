@@ -1,6 +1,6 @@
 # A New Generation of Web Services.
 
-// triggering white-paper work in progress
+// white-paper work in progress
 
 Blockchain technology is rising at an incredible rate. 
 
