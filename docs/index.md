@@ -4,16 +4,20 @@
 
 Blockchain technology is rising at an incredible rate.
 
-The 1st generation (aka Bitcoin) supported trust for *financial* transactions; Just a few years later a 2nd generation (aka Ethereum) stretched to countless scenarios through the use of Smart Contracts; Now, a 3rd generation set of initiatives is already pushing hard to support scalability and mature growth.
+The 1st generation (aka Bitcoin) delivered the required trust for *financial* transactions; Just a few years later a 2nd generation (aka Ethereum) stretched to countless scenarios through the use of Smart Contracts; Now, a 3rd generation set of initiatives is already pushing hard to support scalability and mature growth.
 
-But how easy is to use Blockchain services? it's still too complex.
+But how easy is to use Blockchain services? it's still too complex. 
 
-**Blockchain Web Services** is an initiative to offer a consistent, simplified and well-documented API architecture to interact with best-in-class blockchain initiatives. 
+// extend
+
+**Blockchain Web Services** is an initiative to offer a consistent, simplified and well-documented API-oriented architecture to interact with best-in-class blockchain initiatives. 
+
+// examples + high level schema
 
 So we end extending Blockchain adoption.
 
-// become a founder
+## Become a Founder
 
-Do you want to become a founder of the initiative? Get in touch with the initial guardians.
+Do you find the initiative exciting and want to help driving it? Get in touch with a member:
 
 [Nacho Coll](https://www.linkedin.com/in/nacho-coll/)
