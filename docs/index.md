@@ -1,4 +1,4 @@
-# A New Generation of Web Services.
+# A New Generation of Web Services
 
 // white-paper work in progress
 
