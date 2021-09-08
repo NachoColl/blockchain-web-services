@@ -14,6 +14,12 @@ But how easy is to use Blockchain services?
 
 So we end extending Blockchain adoption.
 
+## An Example
+
+Blockchain is a distributed database right? Let's get some easy to use database-like API operations to save some data.
+
+[Blockchain Web Services API Example](example.md)
+
 ## Become a Founder
 
 Do you find the initiative exciting and want to help driving it? Get in touch with a member:
