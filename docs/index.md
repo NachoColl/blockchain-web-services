@@ -12,7 +12,13 @@ But how easy is to use Blockchain services?
 
 ![Blockchain Web Services API](img/API_BlockchainWS.png)
 
-So we end extending Blockchain adoption.
+As simple usage workflow:
+
+- User creates an account, getting an API KEY.
+- As interacting with Blockchains requires gas (money), the user buys some USD credits (similar as paying for API usage).
+- Using those credits, the user starts calling required smart-contracts using his credits.
+
+The general idea is to be able to interact with blockchains services as with any other regular API out-there.
 
 ## An Example
 
