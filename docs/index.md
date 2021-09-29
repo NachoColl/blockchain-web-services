@@ -20,6 +20,11 @@ A simple usage workflow:
 
 The general idea is to be able to interact with blockchains services as with any other regular API out-there.
 
+## An Example
+
+Blockchain is a distributed database right? Let's get some easy to use database-like API operations to save data.
+
+[Blockchain Web Services API Example](example.md)
 
 
 ## Become a Founder
