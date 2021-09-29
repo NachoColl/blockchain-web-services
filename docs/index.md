@@ -16,15 +16,9 @@ A simple usage workflow:
 
 - User creates an account, getting an API KEY.
 - As interacting with Blockchains requires gas (money), the user buys some USD credits (similar as paying for API usage).
-- Using those credits, the user starts calling required smart-contracts using his credits.
+- Using those credits, the user starts calling required Blockchain Web Services smart-contracts.
 
-The general idea is to be able to interact with blockchains services as with any other regular API out-there.
-
-## An Example
-
-Blockchain is a distributed database right? Let's get some easy to use database-like API operations to save data.
-
-[Blockchain Web Services API Example](example.md)
+The general idea is to be able to interact with blockchains services the same way devs uses any other regular API out-there.
 
 
 ## Become a Founder
