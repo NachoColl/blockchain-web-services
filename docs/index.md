@@ -12,7 +12,7 @@ But how easy is to use Blockchain services?
 
 ![Blockchain Web Services API](img/API_BlockchainWS.png)
 
-As simple usage workflow:
+A simple usage workflow:
 
 - User creates an account, getting an API KEY.
 - As interacting with Blockchains requires gas (money), the user buys some USD credits (similar as paying for API usage).
@@ -20,11 +20,7 @@ As simple usage workflow:
 
 The general idea is to be able to interact with blockchains services as with any other regular API out-there.
 
-## An Example
 
-Blockchain is a distributed database right? Let's get some easy to use database-like API operations to save some data.
-
-[Blockchain Web Services API Example](example.md)
 
 ## Become a Founder
 
