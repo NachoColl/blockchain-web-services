@@ -1,0 +1,12 @@
+{
+  "rapsten": {
+    "network": "https://ropsten.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
+    "private": "affb2f02b0e858c324dcca252df44f773249ac437685e21de4986c377931f8ec",
+    "address": "0x9089Db83F0590EC2eD01A5Eb4F8584Dd6F4bDaC7"
+  },
+  "local": {
+    "network": "http://127.0.0.1:7545",
+    "private": "4d6ca7a5259e6020b3094e63f97011e3a382f6f26d24d941ed1646d588a27b50",
+    "address": "0x2656811B4C0128CF5F03Abc207dCa2c2b2A6426A"
+  }
+}
