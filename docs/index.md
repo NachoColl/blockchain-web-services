@@ -14,17 +14,9 @@ But how easy is to use Blockchain services?
 
 A simple usage workflow:
 
-- User creates an account, getting an API KEY.
+- User creates an account, getting some key(s).
 - As interacting with Blockchains requires gas (money), the user buys some USD credits (similar as paying for API usage).
-- Using those credits, the user starts calling required Blockchain Web Services smart-contracts.
-
-The general idea is to be able to interact with blockchains services the same way devs uses any other regular API out-there.
-
-## An Example
-
-Blockchain is a distributed database right? Let's get some easy to use database-like API operations to save data.
-
-[Blockchain Web Services API Example](example.md)
+- Using those credits, the user starts calling required Blockchain Web Services smart-contracts (as an initial approach Blockchain Web Services will impersonate access to blockchains [Reddit Community Open Topic](https://www.reddit.com/r/BlockchainWebServices/comments/pztqhc/question_on_blockchains_apiinterface_architecture/?utm_source=share&utm_medium=web2x&context=3))
 
 ## Become a Founder
 
