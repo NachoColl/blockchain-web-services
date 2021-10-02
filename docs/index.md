@@ -16,7 +16,7 @@ A simple usage workflow:
 
 - User creates an account, getting some key(s).
 - As interacting with Blockchains requires gas (money), the user buys some USD credits (similar as paying for API usage).
-- Using those credits, the user starts calling required Blockchain Web Services smart-contracts (as an initial approach Blockchain Web Services will impersonate access to blockchains [Reddit Community Open Topic](https://www.reddit.com/r/BlockchainWebServices/comments/pztqhc/question_on_blockchains_apiinterface_architecture/?utm_source=share&utm_medium=web2x&context=3))
+- Using those credits, the user starts calling required Blockchain Web Services smart-contracts (as an initial approach Blockchain Web Services will impersonate access to blockchains [Reddit Community Open Topic](https://www.reddit.com/r/BlockchainWebServices/comments/q00eaq/api_architecture_for_blockchain_web_services/?utm_source=share&utm_medium=web2x&context=3))
 
 ## Become a Founder
 
