@@ -20,7 +20,8 @@ A simple usage workflow:
 
 ## Roadmap
 
-- [In Process] Define middleware architecture
+- [In process] Brainstorming on limitations (e.g. impersonation)
+- [In process] Define middleware architecture
 - one smart-contract API interface for ETHEREUM
 - one smart-contract API interface for CARDANO
 
