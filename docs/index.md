@@ -8,15 +8,15 @@ The 1st generation (aka Bitcoin) delivered the required trust for *financial* tr
 
 But how easy is to use Blockchain services?
 
-**Blockchain Web Services** is an initiative to offer a consistent, simplified and well-documented API-oriented architecture to interact with best-in-class blockchain initiatives.
+**Blockchain Web Services** dnd goal is to offer a simplified API approach to interact with well-documented smart contracts without requiring to register or get the full blockchain know-hows.
 
 ![Blockchain Web Services API](img/API_BlockchainWS.png)
 
 A simple usage workflow:
 
-- User creates an account, getting some key(s).
+- User creates an account (a single account to interact with multiple blockchain initiatives)
 - As interacting with Blockchains requires gas (money), the user buys some USD credits (similar as paying for API usage).
-- Using those credits, the user starts calling required Blockchain Web Services smart-contracts (as an initial approach Blockchain Web Services will impersonate access to blockchains [Reddit Community Open Topic](https://www.reddit.com/r/BlockchainWebServices/comments/q00eaq/api_architecture_for_blockchain_web_services/?utm_source=share&utm_medium=web2x&context=3))
+- Using those credits, the user calls Blockchain Web Services smart-contracts (as an initial approach Blockchain Web Services will impersonate access to blockchains [Reddit Community Open Topic](https://www.reddit.com/r/BlockchainWebServices/comments/q00eaq/api_architecture_for_blockchain_web_services/?utm_source=share&utm_medium=web2x&context=3))
 
 ## Become a Founder
 
