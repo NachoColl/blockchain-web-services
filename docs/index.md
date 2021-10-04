@@ -18,6 +18,12 @@ A simple usage workflow:
 - as interacting with Blockchains requires gas (money), the user buys some USD credits (similar as paying for API usage),
 - using those credits when required, the user calls Blockchain Web Services well-documented smart-contracts (as an initial approach Blockchain Web Services will impersonate access to blockchains [Reddit Community Open Topic](https://www.reddit.com/r/BlockchainWebServices/comments/q00eaq/api_architecture_for_blockchain_web_services/?utm_source=share&utm_medium=web2x&context=3))
 
+## Roadmap
+
+- [In Process] Define middleware architecture
+- one smart-contract API interface for ETHEREUM
+- one smart-contract API interface for CARDANO
+
 ## Become a Founder
 
 Do you find the initiative exciting and want to help driving it? Get in touch with a member:
