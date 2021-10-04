@@ -8,7 +8,7 @@ The 1st generation (aka Bitcoin) delivered the required trust for *financial* tr
 
 But how easy is to use Blockchain services?
 
-**Blockchain Web Services** dnd goal is to offer a simplified API approach to interact with well-documented smart contracts without requiring to register or get the full blockchain know-hows.
+**Blockchain Web Services** end goal is to offer a simplified API approach to interact with well-documented smart contracts without requiring to get multiple blockchain accounts or get the full blockchain know-hows.
 
 ![Blockchain Web Services API](img/API_BlockchainWS.png)
 
