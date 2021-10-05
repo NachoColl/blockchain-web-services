@@ -20,6 +20,7 @@ A simple usage workflow:
 
 - [In process] Brainstorming on limitations (e.g. impersonation)
 - [In process] Define middleware architecture
+- [In process] Middleware implementation for account creation, funding credits and smart-contracts calling.
 - one smart-contract API interface for ETHEREUM
 - one smart-contract API interface for CARDANO
 
