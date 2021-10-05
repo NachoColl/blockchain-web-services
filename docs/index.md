@@ -26,6 +26,6 @@ A simple usage workflow:
 
 ## Become a Founder
 
-Do you find the initiative exciting and want to help driving it? Get in touch with a member:
+Do you find the initiative exciting and want to help driving it? Get in touch with a member.
 
 [Nacho Coll](https://www.linkedin.com/in/nacho-coll/)
