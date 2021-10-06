@@ -36,7 +36,7 @@ The **MOON MISSION**
 
 The **MARS LANDING**
 
-- SaaS sites for specific smart-contract sets/features
+- SaaS sites examples for specific smart-contract sets/features
 
 ## Become a Founder
 
