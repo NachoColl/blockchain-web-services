@@ -16,7 +16,7 @@ A simple usage workflow:
 
 - user creates an account (a single account to interact with multiple blockchain initiatives),
 - as interacting with Blockchains requires gas (money), the user buys some USD credits (similar as paying for API usage),
-- using those credits when required, the user calls Blockchain Web Services well-documented smart-contracts (as an initial approach Blockchain Web Services will impersonate access to blockchains [Reddit Community Open Topic](https://www.reddit.com/r/BlockchainWebServices/comments/q00eaq/api_architecture_for_blockchain_web_services/?utm_source=share&utm_medium=web2x&context=3))
+- using those credits when required, the user calls Blockchain Web Services well-documented smart-contracts.
 
 ## Roadmap
 
@@ -24,7 +24,7 @@ The initial milestones.
 
 the **ROCKET**,
 
-- [In process] Brainstorming on limitations (e.g. impersonation)
+- [In process] Brainstorming on limitations (e.g. impersonation  [Reddit Community Open Topic](https://www.reddit.com/r/BlockchainWebServices/comments/q00eaq/api_architecture_for_blockchain_web_services/?utm_source=share&utm_medium=web2x&context=3))
 - [In process] Define middleware architecture
 - [In process] Middleware implementation for account creation, funding credits and smart-contracts calling
 - one smart-contract API interface for ETHEREUM
