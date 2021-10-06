@@ -20,11 +20,23 @@ A simple usage workflow:
 
 ## Roadmap
 
+The initial milestones are:
+
+The **ROCKET STAGE**
+
 - [In process] Brainstorming on limitations (e.g. impersonation)
 - [In process] Define middleware architecture
 - [In process] Middleware implementation for account creation, funding credits and smart-contracts calling.
 - one smart-contract API interface for ETHEREUM
 - one smart-contract API interface for CARDANO
+
+The **MOON MISSION**
+
+- initial smart-contracts services list
+
+The **MARS LANDING**
+
+- SaaS sites for specific smart-contract sets/features.
 
 ## Become a Founder
 
