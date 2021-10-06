@@ -26,7 +26,7 @@ The **ROCKET STAGE**
 
 - [In process] Brainstorming on limitations (e.g. impersonation)
 - [In process] Define middleware architecture
-- [In process] Middleware implementation for account creation, funding credits and smart-contracts calling.
+- [In process] Middleware implementation for account creation, funding credits and smart-contracts calling
 - one smart-contract API interface for ETHEREUM
 - one smart-contract API interface for CARDANO
 
@@ -36,7 +36,7 @@ The **MOON MISSION**
 
 The **MARS LANDING**
 
-- SaaS sites for specific smart-contract sets/features.
+- SaaS sites for specific smart-contract sets/features
 
 ## Become a Founder
 
