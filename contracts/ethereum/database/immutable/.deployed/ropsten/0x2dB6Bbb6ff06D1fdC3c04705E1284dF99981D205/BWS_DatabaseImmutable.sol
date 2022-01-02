@@ -2,8 +2,10 @@
 pragma solidity ^0.8.7;
 
 
-// gas estimate: 
-// deploy: 329429
+/* 
+ * Blockkchain Web Services::ETHEREUM::Database::Immutable
+ * version 0.1
+ */
 contract BWS_DatabaseImmutable {
   
     // These will be assigned at the construction
