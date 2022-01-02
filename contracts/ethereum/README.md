@@ -64,7 +64,7 @@ Run ```truffle develop``` to start environment and run ```test``` command.
 
 You will get something like:
 
-![Jest run example](.assets\images\truffle_test_results_example.jpg)
+![Jest run example](.assets/images/truffle_test_results_example.jpg)
 
 ### Web3
 
@@ -76,13 +76,13 @@ To test web3 code we use [jest](https://jestjs.io/) and [Ganache](https://www.tr
 
 You should get something like:
 
-![Jest run example](.assets\images\jest_test_results_example.jpg)
+![Jest run example](.assets/images/jest_test_results_example.jpg)
 
 ## Notes
 
 ### Configure secrets.json
 
-In order to run/test smart contracts locally you need to configure the relevant secrets in ```secrets.json``` file. Check your local [Ganache](https://www.trufflesuite.com/ganache) setup.
+In order to run/test smart contracts locally you need to create and configure the relevant secrets in ```secrets.json``` file. Check your local [Ganache](https://www.trufflesuite.com/ganache) for getting the values for local testing.
 
 ```json
 {
