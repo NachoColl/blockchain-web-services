@@ -20,7 +20,7 @@ beforeAll(async () => {
   let secretsFile = fs.readFileSync(path.join(__dirname, '../../../..', 'secrets.json'));
   secrets = JSON.parse(secretsFile).ropsten;
 
-  /* check .deployed\ropsten contracts */
+  /* check deploy\ropsten contracts */
   var contractAddress = "0x2dB6Bbb6ff06D1fdC3c04705E1284dF99981D205";
 
   /* init web3 object */
@@ -32,7 +32,7 @@ beforeAll(async () => {
   account = web3.eth.accounts.privateKeyToAccount(secrets.private);
 
   /* create the web3 contract object */
-  let contractFile = fs.readFileSync(path.join(__dirname, '../../.deployed/ropsten/0x2dB6Bbb6ff06D1fdC3c04705E1284dF99981D205/BWS_DatabaseImmutable.json'));
+  let contractFile = fs.readFileSync(path.join(__dirname, '../../deploy/ropsten/0x2dB6Bbb6ff06D1fdC3c04705E1284dF99981D205/BWS_DatabaseImmutable.json'));
   contract = new web3.eth.Contract(JSON.parse(contractFile).abi, contractAddress);
 
   insertKey = web3.utils.randomHex(32)

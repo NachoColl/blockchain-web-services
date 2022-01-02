@@ -1,6 +1,6 @@
 # Blockchain Web Services ETHEREUM Contracts
 
-Folder contains the ETHEREUM contracts you can call using Blockchain Web Services.
+ETHEREUM contracts you can call using Blockchain Web Services.
 
 ## Contracts List
 
@@ -56,9 +56,9 @@ returns (bytes32)
 
 ## Build & Test
 
-We use  [truffle](https://www.trufflesuite.com/docs/truffle/overview) to build and initial contract(s) tests. We also use [web3](https://web3js.readthedocs.io/en/v1.2.11/index.html#) and [nethereum](https://nethereum.com/) for extra testings.
+We use  [truffle](https://www.trufflesuite.com/docs/truffle/overview) to build and initial contract(s) tests. We also use [web3](https://web3js.readthedocs.io/en/v1.2.11/index.html#) for extra usage testing.
 
-## Truffle
+### Truffle
 
 Run ```truffle develop``` to start environment and run ```test``` command.
 
@@ -66,7 +66,7 @@ You will get something like:
 
 ![Jest run example](.assets\images\truffle_test_results_example.jpg)
 
-## Web3
+### Web3
 
 To test web3 code we use [jest](https://jestjs.io/) and [Ganache](https://www.trufflesuite.com/ganache) as the local blockchain network
 
@@ -78,6 +78,23 @@ You should get something like:
 
 ![Jest run example](.assets\images\jest_test_results_example.jpg)
 
-## HOW TO Deploy
+## Notes
+
+### Configure secrets.json
+
+In order to run/test smart contracts locally you need to configure the relevant secrets in ```secrets.json``` file. Check your local [Ganache](https://www.trufflesuite.com/ganache) setup.
+
+```json
+{
+  "local": {
+    "endpoint": "http://127.0.0.1:7545",
+    "address": "0x2656811B4C0128CF5F03388493Ca2c2b2A6426A",
+    "private": "4d6ca7a5259e6020b3094e63f9733004382f6f26d24d941ed1646d588a27b50",
+    "mnemonic": "local advice wait monday tide bike regret circle uncle armed indoor sheriff"
+  }
+}
+```
+
+### Deployment
 
 Check [deploying smart contracts with Truffle](https://medium.com/coinmonks/5-minute-guide-to-deploying-smart-contracts-with-truffle-and-ropsten-b3e30d5ee1e)
