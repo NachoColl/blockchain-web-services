@@ -1,0 +1,11 @@
+{
+  "notes": {
+    "instructions": "Replace those from your local Ganache network.",
+    "important": "!!! DO NOT PUBLISH YOUR PRIVATE KEYS !!!"
+  },
+  "local": {
+    "network": "http://127.0.0.1:7545",
+    "private": "4d6ca7a5259e6020b3094e63f97011e3a382f6f26d24d941ed1646d588a27b50",
+    "address": "0x2656811B4C0128CF5F03Abc207dCa2c2b2A6426A"
+  }
+}

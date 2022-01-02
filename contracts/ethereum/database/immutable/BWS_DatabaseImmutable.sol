@@ -4,13 +4,13 @@ pragma solidity ^0.8.7;
 
 // gas estimate: 
 // deploy: 329429
-contract DatabaseImmutableBytes32 {
+contract BWS_DatabaseImmutable {
+  
     // These will be assigned at the construction
     // phase, where `msg.sender` is the account
     // creating this contract.
     address private immutable owner;
     
-
     // "table" definition
     struct bytes32Column {
         bool created;
@@ -41,7 +41,7 @@ contract DatabaseImmutableBytes32 {
         _;
     }
 
-    // identity represents th "user" that owns the "database"
+    // identity represents the "user" that owns the "database"
     // and is (for now) generated and stored by Blockchain Web Services.
     function insertBytes32(bytes32 identity, bytes32 key, bytes32 data)
         public

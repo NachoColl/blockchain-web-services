@@ -1,7 +1,7 @@
 const Migrations = artifacts.require("Migrations");
-const DBImmutableBytes32 = artifacts.require("DatabaseImmutableBytes32");
+const BWS_DatabaseImmutable = artifacts.require("BWS_DatabaseImmutable");
 
 module.exports = function (deployer) {
   deployer.deploy(Migrations);
-  deployer.deploy(DBImmutableBytes32);
+  deployer.deploy(BWS_DatabaseImmutable);
 };
