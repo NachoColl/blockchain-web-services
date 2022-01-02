@@ -22,19 +22,29 @@ A simple usage workflow:
 
 The initial milestones.
 
-the **ROCKET**,
+the **MOON MISSION**,
 
-- [In process] Brainstorming on limitations (e.g. impersonation  [Reddit Community Open Topic](https://www.reddit.com/r/BlockchainWebServices/comments/q00eaq/api_architecture_for_blockchain_web_services/?utm_source=share&utm_medium=web2x&context=3))
-- [In process] Define middleware architecture
-- [In process] Middleware implementation for account creation, funding credits and smart-contracts calling
+- [done] Define middleware architecture
+- [done] Middleware implementation for account creation, funding credits and ETHEREUM smart-contracts calling
+  - [staging.bweb.services](https://staging.bweb.services/)
 - one smart-contract API interface for ETHEREUM
+  - Ropsten: [First Database operation](https://github.com/NachoColl/blockchain-web-services/tree/Ethereum.Database.Immutable/contracts/ethereum).
+  - Ethereum: [Pending]
+
+the **MOON LANDING**
+
+- initial smart-contracts services list for ETHEREUM
+
+the **MARS MISSION**,
+
+- define middleware for CARDANO smart-contracts calling
 - one smart-contract API interface for CARDANO
 
-the **MOON MISSIONS**
+the **MARS LANDING**,
 
-- initial smart-contracts services list
+- initial smart-contracts service list for CARDANO
 
-the **MARS LANDING**
+the **THE COLONY**
 
 - SaaS sites examples for specific smart-contract sets/features
 
