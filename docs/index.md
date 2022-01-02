@@ -20,29 +20,30 @@ A simple usage workflow:
 
 ## Roadmap
 
-### **THE ROCKET** [IN PROGRESS]
+### [Q4 2021] **THE ROCKET**
 
 - Define middleware architecture
 - Middleware implementation for account creation, funding credits and ETHEREUM smart-contracts calling
   - [staging.bweb.services](https://staging.bweb.services/)
-- one smart-contract API interface for ETHEREUM
+- Single smart-contract operation API interface for ETHEREUM
   - Ropsten: [first Database operation](https://github.com/NachoColl/blockchain-web-services/tree/Ethereum.Database.Immutable/contracts/ethereum).
   - Ethereum: [In Progress]
+- Initial API documentation at [doc.bweb.services](https://doc.bweb.services/)
 
-### **MOON LANDING** [Q1 2022]
+### [Q1 2022] **MOON LANDING**
 
-- initial smart-contracts services list for ETHEREUM
+- Initial smart-contracts set of services for ETHEREUM
 
-### **GOING TO MARS** [Q2 2022]
+### [Q2 2022] **GOING TO MARS**
 
 - define middleware for CARDANO smart-contracts calling
 - one smart-contract API interface for CARDANO
 
-### **THE COLONY** [Q3 2022]
+### [Q3 2022] **THE COLONY**
 
 - initial smart-contracts service list for CARDANO
 
-### **HOME SWEET HOME** [Q4 2022/2023]
+### [Q4 2022/2023] **HOME SWEET HOME**
 
 - SaaS sites examples for specific smart-contract sets/features
 
