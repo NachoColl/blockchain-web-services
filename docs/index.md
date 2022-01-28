@@ -2,7 +2,7 @@
 
 Blockchain technologies are rising at an incredible rate.
 
-The 1st generation (aka Bitcoin) delivered the required trust for *financial* transactions; Just a few years later a 2nd generation (aka Ethereum) stretched to countless scenarios through the use of Smart Contracts; Now, a 3rd generation set of initiatives is already pushing hard to support scalability and mature growth.
+The 1st generation (aka Bitcoin) delivered the required trust for _financial_ transactions; Just a few years later a 2nd generation (aka Ethereum) stretched to countless scenarios through the use of Smart Contracts; Now, a 3rd generation set of initiatives is already pushing hard to support scalability and mature growth.
 
 But how easy is to use Blockchain services?
 
@@ -18,7 +18,7 @@ A simple usage workflow:
 - as interacting with Blockchains requires gas (money), the user buys some USD credits (similar as paying for API usage),
 - using those credits when required, the user calls Blockchain Web Services well-documented smart-contracts.
 
-## Roadmap
+## <a name="roadmap"></a>Roadmap
 
 ### [Q4 2021] **THE ROCKET**
 
