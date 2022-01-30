@@ -11,13 +11,6 @@ But how easy is to use Blockchain services?
 <p align="center">
   <img src="img/BWS_API_Layer_small.png" />
 </p>
-
-A simple usage workflow:
-
-- user creates an account (a single account to interact with multiple blockchain initiatives),
-- as interacting with Blockchains requires gas (money), the user buys some USD credits (similar as paying for API usage),
-- using those credits when required, the user calls Blockchain Web Services well-documented smart-contracts.
-
 ## <a name="roadmap"></a>Roadmap
 
 ### [Q4 2021] **THE ROCKET**
