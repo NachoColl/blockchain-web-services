@@ -17,11 +17,13 @@ But how easy is to use Blockchain services?
 
 - Define middleware architecture
 - Middleware implementation for account creation, funding credits and ETHEREUM smart-contracts calling
-  - [staging.bweb.services](https://staging.bweb.services/)
+  - [bweb.services](https://bweb.services/)
 - Single smart-contract operation API interface for ETHEREUM
   - Ropsten: [first Database operation](https://github.com/NachoColl/blockchain-web-services/tree/Ethereum.Database.Immutable/contracts/ethereum).
   - Ethereum: [In Progress]
 - Initial API documentation at [doc.bweb.services](https://doc.bweb.services/)
+- Simple use-case to show how the API can be used
+  - [MegaLock.ninja](https://megalock.ninja) Save your most important password securely on Ethereum for ever.
 
 ### [Q1 2022] **MOON LANDING**
 
