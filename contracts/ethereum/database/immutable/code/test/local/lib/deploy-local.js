@@ -3,7 +3,7 @@ const path = require('path');
 const Web3 = require('web3');
 const HDWalletProvider = require("@truffle/hdwallet-provider");
 
-const gaspriceInGWei = 50;
+const gaspriceInGWei = 500;
 const args = getArgs();
 
 async function deploy(contract, secrets) {
@@ -26,11 +26,11 @@ async function deploy(contract, secrets) {
    * build contract from ABI
    */
   const contractsBuildPath = path.join(__dirname, '../../../build');
-  const data = fs.readFileSync(contractsBuildPath + "/" + contract + ".json", 'utf8');
-  const contractJsonFile = JSON.parse(data);
-  const myContract = new web3.eth.Contract(contractJsonFile.abi)
+  const abi = JSON.parse(fs.readFileSync(contractsBuildPath + "/" + contract + ".abi", 'utf8'));
+  const bin = fs.readFileSync(contractsBuildPath + "/" + contract + ".bin", 'utf8');
+  const myContract = new web3.eth.Contract(abi)
     .deploy({
-      data: contractJsonFile.bytecode,
+      data: bin,
       arguments: []
     });
 
@@ -38,29 +38,37 @@ async function deploy(contract, secrets) {
    * deploy contract
    */
   console.log(" ###  DEPLOYING " + contract + " to network " + secrets.endpoint + " using ACCOUNT " + account.address);
-  return await (new Promise(resolve => {
+  return await (new Promise(async (resolveDeployContract, rejectDeployContract) => {
     myContract
       .send({
         from: account.address,
-        gas: 500000,
+        gas: 6721975,
         gasPrice: gaspriceInGWei * 10 * 10 ** 8
       }, async function (error, transactionHash) {
         if (error) {
           console.log(" #### ERROR : ", error);
+          await localKeyProvider.engine.stop();
+          rejectDeployContract(error);
         }
         else {
-          await (new Promise(resolve => {
+          await (new Promise(resolveTransaction => {
+
+            /**********************/
+            /* check transaction */
             const checkTransaction = setInterval(() => {
               web3.eth.getTransactionReceipt(transactionHash, (error, result) => {
                 if (result && result.contractAddress && result.cumulativeGasUsed) {
                   clearInterval(checkTransaction);
-                  resolve(result.contractAddress)
+                  resolveTransaction(result.contractAddress)
                 } else {
                   process.stdout.write(".")
                 }
               });
-            }, 1000)
-          })).then(contractAddress => { localKeyProvider.engine.stop(); resolve(contractAddress); });
+            }, 1000);
+            /* END check transaction */
+            /*************************/
+
+          })).then(async contractAddress => { await localKeyProvider.engine.stop(); resolveDeployContract(contractAddress); });
         }
       });
   }));
@@ -80,7 +88,7 @@ function getArgs() {
 
 if (require.main == module) {
   (async () => {
-    await deploy('BWS_DatabaseImmutable').then(contractAddress => { console.log(" #### Contract created at: ", contractAddress) });
+    await deploy('BWS_DatabaseImmutableV2').then(contractAddress => { console.log(" #### Contract created at: ", contractAddress) });
   })();
 }
 

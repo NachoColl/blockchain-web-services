@@ -1,22 +1,26 @@
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.8.7;
+pragma solidity ^0.8.13;
 
-
-// gas estimate: 
-// deploy: 329429
-contract BWS_DatabaseImmutable {
+contract BWS_DatabaseImmutableV2 {
   
     // These will be assigned at the construction
     // phase, where `msg.sender` is the account
     // creating this contract.
     address private immutable owner;
     
-    // "table" definition
+    // bytes32 "table" definition
     struct bytes32Column {
         bool created;
         bytes32 value;
     }
     mapping (bytes32 => mapping(bytes32 => bytes32Column)) public myBytes32Table;
+
+     // string "table" definition
+    struct stringColumn {
+        bool created;
+        string value;
+    }
+    mapping (bytes32 => mapping(bytes32 => stringColumn)) public myStringTable;
 
     // events
     event LogOwner (address indexed owner);
@@ -63,6 +67,30 @@ contract BWS_DatabaseImmutable {
         if (!myBytes32Table[identity][key].created)
           revert NoData();     
         return myBytes32Table[identity][key].value; 
+    }
+
+    // identity represents the "user" that owns the "database"
+    // and is (for now) generated and stored by Blockchain Web Services.
+    function insertString(bytes32 identity, bytes32 key, string memory data)
+        public
+        onlyBy(owner)
+    {
+        if (!myStringTable[identity][key].created){
+          myStringTable[identity][key].created = true;
+          myStringTable[identity][key].value = data;
+        }
+        else
+          revert RowKeyInUse();
+    }
+
+    function selectString(bytes32 identity,  bytes32 key)
+        public view 
+        onlyBy(owner)
+        returns (string memory)
+    {
+        if (!myStringTable[identity][key].created)
+          revert NoData();     
+        return myStringTable[identity][key].value; 
     }
 
 }
