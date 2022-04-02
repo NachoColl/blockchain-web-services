@@ -19,7 +19,8 @@ But how easy is to use Blockchain services?
 - Middleware implementation for account creation, funding credits and ETHEREUM smart-contracts calling
   - [bweb.services](https://bweb.services/)
 - Single smart-contract operation API interface for ETHEREUM
-  - Ropsten: [first Database operation](https://github.com/NachoColl/blockchain-web-services/tree/Ethereum.Database.Immutable/contracts/ethereum).
+  - Ropsten: [Database operations](https://github.com/NachoColl/blockchain-web-services/tree/Ethereum.Database.Immutable/contracts/ethereum).
+  - **NEW!** Polygon (Ropsten not providing good rates for Smart Contract execution) [In Progress]
   - Ethereum: [In Progress]
 - Initial API documentation at [doc.bweb.services](https://doc.bweb.services/)
 - Simple use-case to show how the API can be used
