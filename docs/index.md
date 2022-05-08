@@ -30,10 +30,11 @@ The same way AWS and the cloud era is transforming how companies interact with I
 
 ### [Q2 2022] **THE ROCKET**
 
-- First Blockchain Web Service (Ethereum/Ropsten)
+- First Blockchain Web Services service:
   - [Ethereum.Database](https://github.com/NachoColl/blockchain-web-services/tree/Ethereum.Database.Immutable/contracts/ethereum)
-- BWS Ethereum.Database service use-case demo.
+- BWS Ethereum.Database service use-case demo:
   - [MegaLock.ninja](https://megalock.ninja)
+- Shares/Stock model to attrack talent.
 
 ### [Q3 2022] **COUNT DOWN**
 
@@ -48,7 +49,7 @@ The same way AWS and the cloud era is transforming how companies interact with I
 ### [Q4 2022] **MOON LANDING**
 
 - Implement a new BWS service:
-  - Ethereum.Trace
+  - **BWS.Trace** for Supply Chain Management
 - First real customer consuming Blockchain Web Services.
 
 ### [Qx 2023] **MARS MISSION**
