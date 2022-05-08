@@ -1,4 +1,4 @@
-# A New Generation of Web Services
+# BWS: Blockchain Web Services
 
 Blockchain technologies are rising at an incredible rate.
 
@@ -6,45 +6,68 @@ The 1st generation (aka Bitcoin) delivered the required trust for _financial_ tr
 
 But how easy is to use Blockchain services?
 
-**Blockchain Web Services** end goal is to offer a simplified API approach to interact with well-documented smart contracts without requiring to get multiple blockchain accounts or get the full blockchain know-hows.
+**Blockchain Web Services** offers a set of services on top of blockchain(s) to enable companies, individuals and governments embrace a new era of trusted services while keeping the focus on their business models and how they add value.
+
+The same way AWS and the cloud era is transforming how companies interact with IT infrastructure, BWS will transform how companies interact with Blockchain.
+
+<br/>
 
 <p align="center">
   <img src="img/BWS_API_Layer_small.png" />
 </p>
+
+<br/>
+
 ## <a name="roadmap"></a>Roadmap
 
-### [Q4 2021] **THE ROCKET**
+### [Q1 2022] **BASE STATION**
 
-- Define middleware architecture
-- Middleware implementation for account creation, funding credits and ETHEREUM smart-contracts calling
-  - [bweb.services](https://bweb.services/)
-- Single smart-contract operation API interface for ETHEREUM
-  - Ropsten: [Database operations](https://github.com/NachoColl/blockchain-web-services/tree/Ethereum.Database.Immutable/contracts/ethereum).
-  - **NEW!** Polygon (Ropsten not providing good rates for Smart Contract execution) [In Progress]
-  - Ethereum: [In Progress]
-- Initial API documentation at [doc.bweb.services](https://doc.bweb.services/)
-- Simple use-case to show how the API can be used
-  - [MegaLock.ninja](https://megalock.ninja) Save your most important password securely on Ethereum for ever.
+- Define middleware architecture.
+- Middleware implementation for account creation, funding credits and smart-contracts calling:
+  - [bweb.services backoffice](https://bweb.services/)
+- Initial API documentation:
+  - [doc.bweb.services](https://doc.bweb.services/)
 
-### [Q1 2022] **MOON LANDING**
+### [Q2 2022] **THE ROCKET**
 
-- Initial smart-contracts set of services for ETHEREUM
+- First Blockchain Web Service (Ethereum/Ropsten)
+  - [Ethereum.Database](https://github.com/NachoColl/blockchain-web-services/tree/Ethereum.Database.Immutable/contracts/ethereum)
+- BWS Ethereum.Database service use-case demo.
+  - [MegaLock.ninja](https://megalock.ninja)
 
-### [Q2 2022] **GOING TO MARS**
+### [Q3 2022] **COUNT DOWN**
 
-- define middleware for CARDANO smart-contracts calling
-- one smart-contract API interface for CARDANO
+- (move nomenclature e.g. Ethereum.Database => BWS.Database)
+- Ropsten mining for users to freely test BWS services.
+- Deploy [Ethereum.Database] to:
+  - Ethereum
+  - Polygon
+- Website initial iteration.
+  - [bweb.services](https://bweb.services/) copy & design
 
-### [Q3 2022] **THE COLONY**
+### [Q4 2022] **MOON LANDING**
 
-- initial smart-contracts service list for CARDANO
+- Implement a new BWS service:
+  - Ethereum.Trace
+- First real customer consuming Blockchain Web Services.
 
-### [Q4 2022/2023] **HOME SWEET HOME**
+### [Qx 2023] **MARS MISSION**
 
-- SaaS sites examples for specific smart-contract sets/features
+- Add new BWS services.
+- ICO:
+  - Finance intiatives to promote Blockchain Web Services.
+- Launch Blockchain Web Services blockchain.
+
+<br/>
 
 ## Become a Founder
 
 Do you find the initiative exciting and want to help driving it? Get in touch with a member.
 
-[Nacho Coll](https://www.linkedin.com/in/nacho-coll/)
+[Nacho Coll](https://www.linkedin.com/in/nacho-coll/) - coding cloud & smart contracts
+
+[Alex Miera](https://www.linkedin.com/in/alex-miera/) -
+
+[] - copy, marketing and socials
+
+[] - coding smart contracts
