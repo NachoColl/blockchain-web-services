@@ -13,7 +13,7 @@ The same way AWS and the cloud era is transforming how companies interact with I
 <br/>
 
 <p align="center">
-  <img src="img/BWS_API_Layer_small.png" />
+  <img src="img/BWS_API_Layer.jpeg" />
 </p>
 
 <br/>
