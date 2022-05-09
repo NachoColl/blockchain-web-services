@@ -67,7 +67,7 @@ Do you find the initiative exciting and want to help driving it? Get in touch wi
 
 [Nacho Coll](https://www.linkedin.com/in/nacho-coll/) - coding cloud & smart contracts
 
-[Alex Miera](https://www.linkedin.com/in/alex-miera-0052a9/) -
+[Alex Miera](https://www.linkedin.com/in/alex-miera-0052a9/) - funding, talent network and business development
 
 [] - copy, marketing and socials
 
