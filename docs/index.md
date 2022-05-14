@@ -40,6 +40,7 @@ The same way AWS and the cloud era is transforming how companies interact with I
 
 - (move nomenclature e.g. Ethereum.Database => BWS.Database)
 - Ropsten mining for users to freely test BWS services.
+  - [BWS Ropsten Address mining](https://ropsten.etherscan.io/address/0x9089Db83F0590EC2eD01A5Eb4F8584Dd6F4bDaC7#mine)
 - Deploy [Ethereum.Database] to:
   - Ethereum
   - Polygon
