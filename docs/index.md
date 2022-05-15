@@ -58,7 +58,6 @@ The same way AWS and the cloud era is transforming how companies interact with I
 - Add new BWS services.
 - ICO:
   - Finance intiatives to promote Blockchain Web Services.
-- Launch Blockchain Web Services blockchain.
 
 <br/>
 
