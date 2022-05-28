@@ -24,38 +24,37 @@ The same way AWS and the cloud era is transforming how companies interact with I
 
 - Define middleware architecture.
 - Middleware implementation for account creation, funding credits and smart-contracts calling:
-  - [bweb.services backoffice](https://bweb.services/)
+  - [bws.ninja backoffice](https://bws.ninja/)
 - Initial API documentation:
-  - [doc.bweb.services](https://doc.bweb.services/)
+  - [doc.bws.ninja](https://doc.bws.ninja/)
 
 ### [Q2 2022] **THE ROCKET**
 
-- First Blockchain Web Services service:
-  - [Ethereum.Database](https://github.com/NachoColl/blockchain-web-services/tree/Ethereum.Database.Immutable/contracts/ethereum)
-- BWS Ethereum.Database service use-case demo:
+- First Blockchain Web Services Product Service:
+  - Database: [Ethereum.Database](https://github.com/NachoColl/blockchain-web-services/tree/Ethereum.Database.Immutable/contracts/ethereum)
+- BWS Database product service use-case demo:
   - [MegaLock.ninja](https://megalock.ninja)
 - Shares/Stock model to attrack talent.
 
 ### [Q3 2022] **COUNT DOWN**
 
-- (move nomenclature e.g. Ethereum.Database => BWS.Database)
 - Ropsten mining for users to freely test BWS services.
   - [BWS Ropsten Address mining](https://ropsten.etherscan.io/address/0x9089Db83F0590EC2eD01A5Eb4F8584Dd6F4bDaC7#mine)
 - Deploy [Ethereum.Database] to:
   - Ethereum
   - Polygon
 - Website initial iteration.
-  - [bweb.services](https://bweb.services/) copy & design
+  - [bws.nina](https://bws.ninja/) copy & design
 
 ### [Q4 2022] **MOON LANDING**
 
-- Implement a new BWS service:
-  - **BWS.Trace** for Supply Chain Management
-- First real customer consuming Blockchain Web Services.
+- Implement new Product Services
+  - **NFT** for NFT use cases.
+  - **Trace** for Supply Chain Management
+- First online service consuming Blockchain Web Services products.
 
 ### [Qx 2023] **MARS MISSION**
 
-- Add new BWS services.
 - ICO:
   - Finance intiatives to promote Blockchain Web Services.
 
@@ -68,7 +67,3 @@ Do you find the initiative exciting and want to help driving it? Get in touch wi
 [Nacho Coll](https://www.linkedin.com/in/nacho-coll/) - coding cloud & smart contracts
 
 [Alex Miera](https://www.linkedin.com/in/alex-miera-0052a9/) - funding, talent network and business development
-
-[] - copy, marketing and socials
-
-[] - coding smart contracts
