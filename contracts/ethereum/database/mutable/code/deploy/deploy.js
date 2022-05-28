@@ -3,7 +3,7 @@ const path = require('path');
 const Web3 = require('web3');
 const HDWalletProvider = require("@truffle/hdwallet-provider");
 
-const gaspriceInGWei = 500;
+const gaspriceInGWei = 20;
 const args = getArgs();
 
 async function deploy() {
@@ -40,16 +40,21 @@ async function deploy() {
       data: bin,
       arguments: []
     });
-
+  const estimate = await web3.eth.estimateGas({
+    data: bin
+  });
   /*
    * deploy contract
    */
-  console.log(" ###  DEPLOYING " + contract + " to network " + secrets.endpoint + " using ACCOUNT " + account.address);
+  console.log(" ###  DEPLOYING " + contract + " to network " + secrets.endpoint + " using ACCOUNT " + account.address + " estimate Gas: " + estimate);
+
   return await (new Promise(async (resolveDeployContract, rejectDeployContract) => {
+
+
     myContract
       .send({
         from: account.address,
-        gas: 1193448, /* 2 ETH @ 20th March 2022 */
+        gas: estimate * 2,
         gasPrice: gaspriceInGWei * 10 * 10 ** 8
       }, async function (error, transactionHash) {
         if (error) {

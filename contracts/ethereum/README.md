@@ -2,13 +2,25 @@
 
 ETHEREUM contracts you can call using Blockchain Web Services.
 
-## BWS_DatabaseImmutable (Version 2)
+## Database
 
-### ropsten
+### BWS_DatabaseImmutable (Version 2)
+
+#### Network(s) Contract Addresses
 
 | Account Owner                              | Contract                                                                                                |
 | ------------------------------------------ | ------------------------------------------------------------------------------------------------------- |
 | 0x9089Db83F0590EC2eD01A5Eb4F8584Dd6F4bDaC7 | [ropsten.etherscan.io](https://ropsten.etherscan.io/address/0x81D575b53239BcB4332bb1608a21F1A17035deeA) |
+| 0x9089Db83F0590EC2eD01A5Eb4F8584Dd6F4bDaC7 | [etherscan.io](https://etherscan.io/address/0x58ca3f44cf5c84c1c29591a483be3288d0a01b7c)                 |
+
+### BWS_DatabaseMmutable (Version 1)
+
+#### Network(s) Contract Addresses
+
+| Account Owner                              | Contract                                                                                                |
+| ------------------------------------------ | ------------------------------------------------------------------------------------------------------- |
+| 0x9089Db83F0590EC2eD01A5Eb4F8584Dd6F4bDaC7 | [ropsten.etherscan.io](https://ropsten.etherscan.io/address/0x9089Db83F0590EC2eD01A5Eb4F8584Dd6F4bDaC7) |
+| 0x9089Db83F0590EC2eD01A5Eb4F8584Dd6F4bDaC7 | [etherscan.io](https://etherscan.io/address/0x1aFEe6DD9A1D4af90c39CD8B09296FC505beA00d)                 |
 
 ## How To
 
@@ -39,6 +51,8 @@ We use web3 code to deploy contracts,
 - Go to `deploy` folder,
 - run `npm install`if required,
 - execute `node deploy network=network-name contract=contract-name`.
+
+e.g. `node deploy network=mainnet contract=BWS_DatabaseImmutableV2`
 
 The network name should match on `secrets.json` file (check Notes), and contract-name must match contract file name on `build` folder.
 

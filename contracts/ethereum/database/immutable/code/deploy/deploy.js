@@ -3,7 +3,7 @@ const path = require('path');
 const Web3 = require('web3');
 const HDWalletProvider = require("@truffle/hdwallet-provider");
 
-const gaspriceInGWei = 500;
+const gaspriceInGWei = 20;
 const args = getArgs();
 
 async function deploy() {
@@ -12,7 +12,7 @@ async function deploy() {
   let contract = args["contract"];
 
   /* get config for network and account to use */
-  let secretsFile = fs.readFileSync(path.join(__dirname, '../../../', 'secrets.json'));
+  let secretsFile = fs.readFileSync(path.join(__dirname, '../../../../', 'secrets.json'));
   let secrets = JSON.parse(secretsFile)[network];
 
   /*
@@ -32,24 +32,29 @@ async function deploy() {
   /*
    * build contract from ABI
    */
-  const contractsBuildPath = path.join(__dirname, './build');
-  const data = fs.readFileSync(contractsBuildPath + "/" + contract + ".json", 'utf8');
-  const contractJsonFile = JSON.parse(data);
-  const myContract = new web3.eth.Contract(contractJsonFile.abi)
+  const contractsBuildPath = path.join(__dirname, '../build');
+  const abi = JSON.parse(fs.readFileSync(contractsBuildPath + "/" + contract + ".abi", 'utf8'));
+  const bin = fs.readFileSync(contractsBuildPath + "/" + contract + ".bin", 'utf8');
+  const myContract = new web3.eth.Contract(abi)
     .deploy({
-      data: contractJsonFile.bytecode,
+      data: bin,
       arguments: []
     });
-
+  const estimate = await web3.eth.estimateGas({
+    data: bin
+  });
   /*
    * deploy contract
    */
-  console.log(" ###  DEPLOYING " + contract + " to network " + secrets.endpoint + " using ACCOUNT " + account.address);
+  console.log(" ###  DEPLOYING " + contract + " to network " + secrets.endpoint + " using ACCOUNT " + account.address + " estimate Gas: " + estimate);
+
   return await (new Promise(async (resolveDeployContract, rejectDeployContract) => {
+
+
     myContract
       .send({
         from: account.address,
-        gas: 1193448, /* 2 ETH @ 20th March 2022 */
+        gas: estimate * 2,
         gasPrice: gaspriceInGWei * 10 * 10 ** 8
       }, async function (error, transactionHash) {
         if (error) {
