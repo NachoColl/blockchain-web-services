@@ -34,7 +34,7 @@ The same way AWS and the cloud era is transforming how companies interact with I
   - Database: [Ethereum.Database](https://github.com/NachoColl/blockchain-web-services/tree/Ethereum.Database.Immutable/contracts/ethereum)
 - BWS Database product service use-case demo:
   - [MegaLock.ninja](https://megalock.ninja)
-- Shares/Stock model to attrack talent.
+- Blockchain Web Services DAO
 
 ### [Q3 2022] **COUNT DOWN**
 
@@ -52,18 +52,3 @@ The same way AWS and the cloud era is transforming how companies interact with I
   - **NFT** for NFT use cases.
   - **Trace** for Supply Chain Management
 - First online service consuming Blockchain Web Services products.
-
-### [Qx 2023] **MARS MISSION**
-
-- ICO:
-  - Finance intiatives to promote Blockchain Web Services.
-
-<br/>
-
-## Become a Founder
-
-Do you find the initiative exciting and want to help driving it? Get in touch with a member.
-
-[Nacho Coll](https://www.linkedin.com/in/nacho-coll/) - coding cloud & smart contracts
-
-[Alex Miera](https://www.linkedin.com/in/alex-miera-0052a9/) - funding, talent network and business development
