@@ -20,7 +20,7 @@ The same way AWS and the cloud era is transforming how companies interact with I
 
 ## <a name="roadmap"></a>Roadmap
 
-### [Q1 2022] **BASE STATION**
+### [Q1 2022] **BASE STATION** [COMPLETED :rocket:]
 
 - Define middleware architecture.
 - Middleware implementation for account creation, funding credits and smart-contracts calling:
@@ -28,27 +28,29 @@ The same way AWS and the cloud era is transforming how companies interact with I
 - Initial API documentation:
   - [doc.bws.ninja](https://doc.bws.ninja/)
 
-### [Q2 2022] **THE ROCKET**
-
-- First Blockchain Web Services Product Service:
-  - Database: [Ethereum.Database](https://github.com/NachoColl/blockchain-web-services/tree/Ethereum.Database.Immutable/contracts/ethereum)
-- BWS Database product service use-case demo:
-  - [MegaLock.ninja](https://megalock.ninja)
-- Blockchain Web Services DAO
-
-### [Q3 2022] **COUNT DOWN**
+### [Q2 2022] **THE ROCKET** [COMPLETED :rocket:]
 
 - Ropsten mining for users to freely test BWS services.
   - [BWS Ropsten Address mining](https://ropsten.etherscan.io/address/0x9089Db83F0590EC2eD01A5Eb4F8584Dd6F4bDaC7#mine)
+- First Blockchain Web Services Product Service:
+  - Database: [Ethereum.Database](https://github.com/NachoColl/blockchain-web-services/tree/Ethereum.Database.Immutable/contracts/ethereum)
 - Deploy [Ethereum.Database] to:
   - Ethereum
+- BWS Database product service use-case demo:
+  - [MegaLock.ninja](https://megalock.ninja)
+
+### [Q3 2022] **COUNT DOWN**
+
+- Deploy [Ethereum.Database] to:
   - Polygon
+- Implement new Product Services
+  - **NFT** for NFT use cases.
 - Website initial iteration.
   - [bws.nina](https://bws.ninja/) copy & design
 
 ### [Q4 2022] **MOON LANDING**
 
 - Implement new Product Services
-  - **NFT** for NFT use cases.
   - **Trace** for Supply Chain Management
+- Blockchain Web Services DAO
 - First online service consuming Blockchain Web Services products.
