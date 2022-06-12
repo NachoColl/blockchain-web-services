@@ -22,15 +22,15 @@ The same way AWS and the cloud era is transforming how companies interact with I
 
 ## <a name="roadmap"></a>Roadmap
 
-### [Q1 2022] **BASE STATION** - <i class="fa-solid fa-check-double"></i>
+### [Q1 2022] **BASE STATION** - <i class="fa-solid fa-check"></i>
 
-- Define middleware architecture - <i class="fa-solid fa-check"></i>
-- Middleware implementation for account creation, funding credits and smart-contracts calling - <i class="fa-solid fa-check"></i>
+- Define middleware architecture.
+- Middleware implementation for account creation, funding credits and smart-contracts calling:
   - [bws.ninja backoffice](https://bws.ninja/)
-- Initial API documentation - <i class="fa-solid fa-check"></i>
+- Initial API documentation:
   - [doc.bws.ninja](https://doc.bws.ninja/)
 
-### [Q2 2022] **THE ROCKET** - <i class="fa-solid fa-check-double"></i>
+### [Q2 2022] **THE ROCKET** - <i class="fa-solid fa-check"></i>
 
 - Ropsten mining for users to freely test BWS services.
   - [BWS Ropsten Address mining](https://ropsten.etherscan.io/address/0x9089Db83F0590EC2eD01A5Eb4F8584Dd6F4bDaC7#mine)
