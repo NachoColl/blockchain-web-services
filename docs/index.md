@@ -22,22 +22,22 @@ The same way AWS and the cloud era is transforming how companies interact with I
 
 ## <a name="roadmap"></a>Roadmap
 
-### [Q1 2022] **BASE STATION** - <i class="fa-solid fa-check"></i>
+### [Q1 2022] **BASE STATION** - <i class="fa-solid fa-check-double"></i>
 
-- Define middleware architecture.
-- Middleware implementation for account creation, funding credits and smart-contracts calling:
+- Define middleware architecture - <i class="fa-solid fa-check"></i>
+- Middleware implementation for account creation, funding credits and smart-contracts calling - <i class="fa-solid fa-check"></i>
   - [bws.ninja backoffice](https://bws.ninja/)
-- Initial API documentation:
+- Initial API documentation - <i class="fa-solid fa-check"></i>
   - [doc.bws.ninja](https://doc.bws.ninja/)
 
-### [Q2 2022] **THE ROCKET** - COMPLETED <i class="fa-solid fa-check"></i>
+### [Q2 2022] **THE ROCKET** - <i class="fa-solid fa-check-double"></i>
 
 - Ropsten mining for users to freely test BWS services.
   - [BWS Ropsten Address mining](https://ropsten.etherscan.io/address/0x9089Db83F0590EC2eD01A5Eb4F8584Dd6F4bDaC7#mine)
 - First Blockchain Web Services Product Service:
   - Database: [Ethereum.Database](https://github.com/NachoColl/blockchain-web-services/tree/Ethereum.Database.Immutable/contracts/ethereum)
-- Deploy [Ethereum.Database] to:
-  - Ethereum
+- Deploy [Ethereum.Database](https://doc.bws.ninja/#database) to:
+  - Ethereum (ropsten + mainnet)
 - BWS Database product service use-case demo:
   - [MegaLock.ninja](https://megalock.ninja)
 
