@@ -38,13 +38,13 @@ The same way AWS and the cloud era is transforming how companies interact with I
   - Ethereum (ropsten + mainnet)
 - BWS Database product service use-case demo:
   - [MegaLock.ninja](https://megalock.ninja) (ropsten)
+
+### [Q3 2022] **COUNT DOWN**
+
 - Implement ETH trading to call mainnet Smart contracts
   - Setup Stripe payments in bws.ninja production
   - Setup FTX.us partnership
   - Implement Trading middleware
-
-### [Q3 2022] **COUNT DOWN**
-
 - Deploy [Ethereum.Database] to:
   - Polygon
 - Implement new Product Services
