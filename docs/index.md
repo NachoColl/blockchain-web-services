@@ -12,13 +12,9 @@ But how easy is to use Blockchain services?
 
 The same way AWS and the cloud era is transforming how companies interact with IT infrastructure, BWS will transform how companies interact with Blockchain.
 
-<br/>
-
 <p align="center">
   <img src="img/BWS_HL_Components.jpeg" />
 </p>
-
-<br/>
 
 ## <a name="roadmap"></a>Roadmap
 
