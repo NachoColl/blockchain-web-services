@@ -4,7 +4,7 @@
 
 Blockchain technologies are rising at an incredible rate. The 1st generation (aka Bitcoin) delivered the required trust for _financial_ transactions; Just a few years later a 2nd generation (aka Ethereum) stretched to countless scenarios through the use of Smart Contracts; Now, a 3rd generation set of initiatives is already pushing hard to support scalability and mature growth.
 
-We believe **blockchain should transform the entire society** and while cryptos have raised worldwide attention, the real win must come from Infinite Games founded on a global and trusted framework based on decentralized models and transparency: **blockchain beyond cryptos** must shift power from a few to everyone.
+We believe **blockchain should transform society for the better** and while cryptos have raised worldwide attention, the real win must come from Infinite Games founded on a global and trusted framework based on decentralized models and transparency: **blockchain beyond cryptos** must wake up shifts from-a-few to everyone.
 
 ## Blockchain Web Services
 
