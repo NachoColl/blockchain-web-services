@@ -1,7 +1,5 @@
 <script src="https://kit.fontawesome.com/ed4fd3e862.js" crossorigin="anonymous"></script>
 
-# BWS: Blockchain Web Services
-
 Blockchain technologies are rising at an incredible rate.
 
 The 1st generation (aka Bitcoin) delivered the required trust for _financial_ transactions; Just a few years later a 2nd generation (aka Ethereum) stretched to countless scenarios through the use of Smart Contracts; Now, a 3rd generation set of initiatives is already pushing hard to support scalability and mature growth.
