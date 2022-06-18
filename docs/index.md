@@ -25,6 +25,8 @@ The same way AWS and the cloud era is transforming how companies interact with I
   - [bws.ninja backoffice](https://bws.ninja/)
 - Initial API documentation:
   - [doc.bws.ninja](https://doc.bws.ninja/)
+- Activate Stripe for customers to buy USD credits.
+  - Setup for bws.ninja staging [staging.bws.ninja](https://staging.bws.ninja)
 
 ### [Q2 2022] **THE ROCKET** - <i class="fa-solid fa-check"></i>
 
@@ -35,7 +37,11 @@ The same way AWS and the cloud era is transforming how companies interact with I
 - Deploy [Ethereum.Database](https://doc.bws.ninja/#database) to:
   - Ethereum (ropsten + mainnet)
 - BWS Database product service use-case demo:
-  - [MegaLock.ninja](https://megalock.ninja)
+  - [MegaLock.ninja](https://megalock.ninja) (ropsten)
+- Implement ETH trading to call mainnet Smart contracts
+  - Setup Stripe payments in bws.ninja production
+  - Setup FTX.us partnership
+  - Implement Trading middleware
 
 ### [Q3 2022] **COUNT DOWN**
 
