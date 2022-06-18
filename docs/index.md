@@ -6,19 +6,17 @@ Blockchain technologies are rising at an incredible rate.
 
 The 1st generation (aka Bitcoin) delivered the required trust for _financial_ transactions; Just a few years later a 2nd generation (aka Ethereum) stretched to countless scenarios through the use of Smart Contracts; Now, a 3rd generation set of initiatives is already pushing hard to support scalability and mature growth.
 
-But we believe **blockchain should transform the entire society** and while cryptos have raise worldwide attention, the real win comes from a Global & Shared Trust founded on decentralized organization models and transparency.
-
-That is what we want to help build: **blockchain beyond cryptos**.
+But we believe **blockchain should transform the entire society** and while cryptos have raise worldwide attention, the real win will come from global trust founded on decentralized models and transparency: **blockchain beyond cryptos**.
 
 ## Blockchain Web Services
 
 Blockchain Web Services will offer a set of services on top of blockchain(s) to enable companies, individuals and governments embrace a new era of trusted services while keeping the focus on their business models and how they add value.
 
-The same way Amazon Web Service and other cloud providers are transforming how companies consume IT infrastructure, Blockchain Web Services will transform how everyone interacts with Blockchain.
-
 <p align="center">
   <img src="img/BWS_HL_Components.jpeg" />
 </p>
+
+The same way Amazon Web Service (and other cloud providers) are transforming how companies consume IT infrastructure by delivering abstraction layers, Blockchain Web Services will transform how everyone interacts with Blockchain.
 
 ## <a name="roadmap"></a>Roadmap
 
