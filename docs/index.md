@@ -31,7 +31,8 @@ The same way Amazon Web Service (and other cloud providers) are transforming how
 ### [Q2 2022] **THE ROCKET** - <i class="fa-solid fa-check"></i>
 
 - Ropsten ~~mining~~ PoS (update 18/06/2022) for users to freely test BWS services.
-  - [BWS Ropsten Address mining](https://ropsten.etherscan.io/address/0x9089Db83F0590EC2eD01A5Eb4F8584Dd6F4bDaC7#mine)
+  - ~~[BWS Ropsten Address mining](https://ropsten.etherscan.io/address/0x9089Db83F0590EC2eD01A5Eb4F8584Dd6F4bDaC7#mine)~~
+  - [BWS Ropsten PoS](https://ropsten.beaconcha.in/validator/877c91d2376f731a0f621c7848c0cd9d0a2622e91d68922838ef6b4dd5d8256e46e86cf06f5979b32103ed706d0c70ed)
 - First Blockchain Web Services Product Service:
   - Database: [Ethereum.Database](https://github.com/NachoColl/blockchain-web-services/tree/Ethereum.Database.Immutable/contracts/ethereum)
 - Deploy [Ethereum.Database](https://doc.bws.ninja/#database) to:
