@@ -28,7 +28,7 @@ The same way Amazon Web Service (and other cloud providers) are transforming how
 - Activate Stripe for customers to buy USD credits.
   - Setup for bws.ninja staging [staging.bws.ninja](https://staging.bws.ninja)
 
-### [Q2 2022] **THE ROCKET** - <i class="fa-solid fa-check"></i>
+### [Q2 2022] **THE ROCKETS** - <i class="fa-solid fa-check"></i>
 
 - Ropsten ~~mining~~ PoS (update 18/06/2022) for users to freely test BWS services.
   - ~~[BWS Ropsten Address mining](https://ropsten.etherscan.io/address/0x9089Db83F0590EC2eD01A5Eb4F8584Dd6F4bDaC7#mine)~~
@@ -40,22 +40,21 @@ The same way Amazon Web Service (and other cloud providers) are transforming how
 - BWS Database product service use-case demo:
   - [MegaLock.ninja](https://megalock.ninja) (ropsten)
 
-### [Q3 2022] **COUNT DOWN**
+### [Q3 2022] **COUNT DOWN** - <i class="fa-solid fa-check"></i>
 
 - Implement ETH trading to call mainnet Smart contracts
   - Setup Stripe payments in bws.ninja production
   - Setup FTX.us partnership
   - Implement Trading middleware
-- Deploy [Ethereum.Database] to:
-  - Polygon
-- Implement new Product Services
-  - **NFT** for NFT use cases.
 - Website initial iteration.
   - [bws.ninja](https://bws.ninja/) copy & design
 
 ### [Q4 2022] **MOON LANDING**
 
-- Implement new Product Services
-  - **Trace** for Supply Chain Management
-- Blockchain Web Services DAO
-- First online service consuming Blockchain Web Services products.
+- Deploy [Ethereum.Database] to Polygon zkEVM / zkSync 2.0
+- Build **bws.ninja [NFT]** solution for NFT use cases (Ethereum)
+- Start Blockchain Web Services growing plan threads:
+  - **BWS Consulting** Search business use case implementation 
+  - **BWS Products** Build Commercial NFT Marketplace using BWS NFT Service.
+  
+
