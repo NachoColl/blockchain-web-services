@@ -53,11 +53,11 @@ The same way Amazon Web Service (and other cloud providers) are transforming how
 
 - Deploy [Ethereum.Database] to Polygon zkEVM / zkSync 2.0
 - Build **bws.ninja [NFT]** solution for NFT use cases (Ethereum)
-- Define investment-TOKEN strategy
+- Define ICO White Paper
 
 ### [Qx 2023] **SPACE COLONIZATION**
 
-- Launch investment-TOKEN
+- Launch ICO
 - Build **bws.ninja** API solutions for:
   - Identity Management
   - Supply Chain Management
