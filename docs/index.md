@@ -59,6 +59,9 @@ The same way Amazon Web Service (and other cloud providers) are transforming how
 - Launch Blockchain Web Services growing plan threads:
   - **BWS Consulting** Help businesses implement blockchain through Blockchain Web Services 
   - **BWS Products** Build Commercial solutions on blockchain hypes (e.g. NFT Marketplace).
+- Build next **bws.ninja** API solutions:
+  - Identity Management
+  - Supply Chain Management
 
   
 
