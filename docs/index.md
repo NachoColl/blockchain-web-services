@@ -49,12 +49,16 @@ The same way Amazon Web Service (and other cloud providers) are transforming how
 - Website initial iteration.
   - [bws.ninja](https://bws.ninja/) copy & design
 
-### [Q4 2022] **MOON LANDING**
+### [Q4 2022] **IGNITION**
 
 - Deploy [Ethereum.Database] to Polygon zkEVM / zkSync 2.0
 - Build **bws.ninja [NFT]** solution for NFT use cases (Ethereum)
-- Start Blockchain Web Services growing plan threads:
-  - **BWS Consulting** Search business use case implementation 
-  - **BWS Products** Build Commercial NFT Marketplace using BWS NFT Service.
+
+### [2023] **SPACE COLONIZATION**
+
+- Launch Blockchain Web Services growing plan threads:
+  - **BWS Consulting** Help businesses implement blockchain through Blockchain Web Services 
+  - **BWS Products** Build Commercial solutions on blockchain hypes (e.g. NFT Marketplace).
+
   
 
