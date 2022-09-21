@@ -11,7 +11,7 @@ We believe **blockchain should transform society for the better** and while cryp
 Blockchain Web Services will offer a set of services on top of blockchain(s) to help companies, individuals and governments embrace a new era of trusted services while keeping the focus on their business models and how they add value.
 
 <p align="center">
-  <img src="img/BWS_HL_Components.svg" />
+  <img src="img/BWS_HL_Components_FULL.svg" />
 </p>
 
 The same way Amazon Web Service (and other cloud providers) are transforming how companies consume IT infrastructure by delivering abstraction layers, Blockchain Web Services will transform how everyone interacts with Blockchain.
