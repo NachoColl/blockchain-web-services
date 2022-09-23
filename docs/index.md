@@ -40,13 +40,15 @@ And Companies do not have to build Smart Contracts from scratch, as most of the 
 
 To interact with Blockchain(s) you need fuel. 
 
-Calling a simple Ethereum Smart Contract operation may cost 12 USD today, but maybe in a few days' it goes down to 5 or up to 20 USD, so the best option is to exchange as close as possible to your blockchain call. Blockchain Web Services uses that approach.
+Calling a simple Ethereum Smart Contract operation may cost you 12 USD now, but if ETH goes down or up, the same transaction fee price will also go down or up, and you cannot predict the market to exchange in advance.
+
+The best option is to exchange as close as possible to your blockchain Smart Contract call.
 
 <p align="center">
   <img src="img/Real-TimeFees.svg" />
 </p>
 
-Blockchain Web Services does real-time trading when calling transactions, so our customers don't have to worry about it.
+Blockchain Web Services does real-time trading when calling a transaction.
 
 ## <a name="roadmap"></a>Roadmap
 
