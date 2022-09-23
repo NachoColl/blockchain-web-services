@@ -34,7 +34,7 @@ Blockchain Web Services is a unified API to execute Blockchain Smart Contract tr
 
 For example, a simple 'https://api.bws.ninja/v1/call' API call is enough to save data to Ethereum. No need to manage keys or trading for blockchain fees.
 
-And Companies do not have to build Smart Contracts from scratch, as most of the use cases that Blockchain adds value to will be available as a native API built by us or as part of the Smart Contracts marketplace.
+And Companies do not have to build Smart Contracts from scratch, as most of the use cases that the Blockchain adds value to will be available as a native API (built by us) or as part of the Smart Contracts marketplace.
 
 #### Realtime Fees Trading
 
