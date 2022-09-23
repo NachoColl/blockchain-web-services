@@ -2,19 +2,41 @@
 
 <br/>
 
-Blockchain technologies are rising at an incredible rate. The 1st generation (aka Bitcoin) delivered the required trust for _financial_ transactions; Just a few years later a 2nd generation (aka Ethereum) stretched to countless scenarios through the use of Smart Contracts; Now, a 3rd generation set of initiatives is already pushing hard to support scalability and mature growth.
+Blockchain technologies are rising at an incredible rate. The 1st generation (aka Bitcoin) delivered the required trust for _financial_ transactions; Just a few years later a 2nd generation (aka Ethereum) stretched to countless scenarios through the use of Smart Contracts; Now, a new generation set of initiatives is already pushing hard to support scalability and mature growth.
 
 We believe **blockchain should transform society for the better** and while cryptos have raised worldwide attention, the real win must come from Infinite Games founded on a global and trusted framework based on decentralized models and transparency: **blockchain beyond cryptos** must wake up shifts from-a-few to everyone.
 
+Blockchain Web Services aims to help in such voyage as the building blocks to reach destination easier and faster.
+
 ## Blockchain Web Services
 
-Blockchain Web Services will offer a set of services on top of blockchain(s) to help companies, individuals and governments embrace a new era of trusted services while keeping the focus on their business models and how they add value.
+Blockchain Web Services offers a set of services on top of blockchain(s) to help companies, individuals and governments embrace a new era of trusted services while keeping the focus on their business models and how they add value.
 
 <p align="center">
   <img src="img/BWS_HL_Components_FULL.svg" />
 </p>
 
-The same way Amazon Web Service (and other cloud providers) are transforming how companies consume IT infrastructure by delivering abstraction layers, Blockchain Web Services will transform how everyone interacts with Blockchain.
+The same way Amazon Web Services (and other cloud providers) is transforming how companies consume IT infrastructure by delivering abstraction layers, Blockchain Web Services will transform how everyone interacts with Blockchain.
+
+### Raising Adoption
+
+We can't deny the potential of Blockchain Smart Contracts to enable businesses and governments to create a new generation of trusted services. The question is: why is it taking so long for those players to onboard? 
+
+We believe the Blockchain ecosystem is still too complex to interact with, and companies demand to prove trust in their processes and solutions without having to:
+
+- build and validate from scratch the same Smart Contracts already available,
+- manage blockchain addresses and secure keys, or
+- trade cryptos to consume blockchain on every transaction.
+
+#### A Unified Blockchain(s) API
+
+Blockchain Web Services is a unified API to execute Blockchain Smart Contract transactions. It enables anyone to consume the Blockchain(s) without the need to catch its complexities. 
+
+For example, a simple 'https://api.bws.ninja/v1/call' API call is enough to save data to Ethereum. No need to manage keys or trading for blockchain fees.
+
+And Companies do not have to build Smart Contracts from scratch, as most of the use cases that Blockchain adds value to will be available as a native API built by us or as part of the Smart Contracts marketplace.
+
+
 
 ## <a name="roadmap"></a>Roadmap
 
