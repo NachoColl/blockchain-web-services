@@ -16,7 +16,7 @@ Blockchain Web Services offers a set of services on top of blockchain(s) to help
   <img src="img/BWS_HL_Components_FULL.svg" />
 </p>
 
-The same way Amazon Web Services (and other cloud providers) is transforming how companies consume IT infrastructure by delivering abstraction layers, Blockchain Web Services will transform how everyone interacts with Blockchain.
+Like Amazon Web Services (and other cloud providers) is transforming how companies consume IT infrastructure, Blockchain Web Services will change how those companies interacts with Blockchain.
 
 ### Raising Adoption
 
