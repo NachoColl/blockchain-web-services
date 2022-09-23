@@ -24,7 +24,7 @@ We can't deny the potential of Blockchain Smart Contracts to enable businesses a
 
 We believe the Blockchain ecosystem is still too complex to interact with, and companies demand to prove trust in their processes and solutions without having to:
 
-- build and validate from scratch the same Smart Contracts already available,
+- build and validate from scratch the same Smart Contracts already available out there,
 - manage blockchain addresses and secure keys, or
 - trade cryptos to consume blockchain on every transaction.
 
@@ -38,14 +38,15 @@ And Companies do not have to build Smart Contracts from scratch, as most of the 
 
 #### Realtime Fees Trading
 
-To interact with Blockchain(s) you need fuel. Blockchain Web Services does real-time trading when calling transactions, so our customers don't have to worry about it.
+To interact with Blockchain(s) you need fuel. 
+
+Calling a simple Ethereum Smart Contract operation may cost 12 USD today, but maybe in a few days, it goes down to 5 or up to 20 USD. The best option is to exchange as close as possible to your blockchain call. Blockchain Web Services uses that approach.
 
 <p align="center">
   <img src="img/Real-TimeFees.svg" />
 </p>
 
-
-
+Blockchain Web Services does real-time trading when calling transactions, so our customers don't have to worry about it.
 
 ## <a name="roadmap"></a>Roadmap
 
