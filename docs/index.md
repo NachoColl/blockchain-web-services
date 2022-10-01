@@ -1,14 +1,12 @@
 <script src="https://kit.fontawesome.com/ed4fd3e862.js" crossorigin="anonymous"></script>
 
 <br/>
-
-Blockchain technologies are rising at an incredible rate. The 1st generation (aka Bitcoin) delivered the required trust for _financial_ transactions; Just a few years later a 2nd generation (aka Ethereum) stretched to countless scenarios through the use of Smart Contracts; Now, a new generation set of initiatives is already pushing hard to support scalability and mature growth.
+Blockchain technologies are rising at an incredible rate. The 1st generation (aka Bitcoin) delivered the required trust for _financial_ transactions; Just a few years later a 2nd generation (aka Ethereum) stretched to countless scenarios through the use of Smart Contracts; Today, a set of new initiatives is already pushing hard to support scalability and mature growth.
 
 We believe **blockchain should transform society for the better** and while cryptos have raised worldwide attention, the real win must come from Infinite Games founded on a global and trusted framework based on decentralized models and transparency: **blockchain beyond cryptos** must wake up shifts from-a-few to everyone.
 
-Blockchain Web Services aims to help in such voyage as the building blocks to reach destination easier and faster.
 
-## Blockchain Web Services
+## Fundamentals
 
 Blockchain Web Services offers a set of services on top of blockchain(s) to help companies, individuals and governments embrace a new era of trusted services while keeping the focus on their business models and how they add value.
 
@@ -16,29 +14,48 @@ Blockchain Web Services offers a set of services on top of blockchain(s) to help
   <img src="img/BWS_HL_Components_FULL.svg" />
 </p>
 
-Like Amazon Web Services (and other cloud providers) is transforming how companies consume IT infrastructure, Blockchain Web Services will change how those companies interacts with Blockchain.
+Like Amazon Web Services is transforming how companies consume IT infrastructure, Blockchain Web Services will change how those companies interacts with the Blockchain(s).
 
 ### Raising Adoption
 
-We can't deny the potential of Blockchain Smart Contracts to enable businesses and governments to create a new generation of trusted services. The question is: why is it taking so long for those players to onboard? 
+We can't deny the potential of Smart Contracts, but the Blockchain ecosystem is still too complex to interact with and companies demand to prove trust in their solutions without having to:
 
-We believe the Blockchain ecosystem is still too complex to interact with, and companies demand to prove trust in their processes and solutions without having to:
-
-- build and validate from scratch the same Smart Contracts already available out there,
-- manage blockchain addresses and secure keys, or
+- build from scratch Smart Contracts that may already be available in the market,
+- prove to stackeholders their new Smart Contracts are secure and well-coded,
+- manage blockchain addresses, secure keys, and
 - trade cryptos to consume blockchain on every transaction.
+
+Blockchain Web Services will offer a set of services to satisfy such market requirements:
+
+<span class="fa-regular fa-square-check"></span> 
+<i class="fa-regular fa-square-check"></i> a **simple API approach to consume Blockchain services** without any learning curve, where developers and companies will interact with Blockchain as with any service they are used to,
+- a middleware to **dynamically manage funds** required to interact with blockchain(s),
+- a set of **already-build solutions for most demanded uses cases** (e.g. Digital Identity, Real State, Supply Chain management)
+- a **Smart Contract Marketplace** to get in touch with most advanced Smart Contract developers solutions.
 
 #### A Unified Blockchain(s) API
 
-Blockchain Web Services is a unified API to execute Blockchain Smart Contract transactions. For example, a simple 'https://api.bws.ninja/v1/call' API call is enough to save data to Ethereum with no need to manage keys or worry about blockchain fees.
+Blockchain Web Services provides a unified API to execute Blockchain Smart Contract transactions. 
+
+For example, a simple 'https://api.bws.ninja/v1/call' API call is enough to save data to Ethereum without the need to manage keys or worry about blockchain fees.
+
+<p align="center">
+  <img src="img/Calling_Options.svg" />
+</p>
 
 Companies do not have to build Smart Contracts from scratch or worry about Blockchain complexities, and most of the use cases that the Blockchain adds value to will be available as a native API solution (built by us) or as part of the Smart Contracts marketplace.
 
-#### Realtime Fees Trading
+.. graph showing solutions and marketplace ...
 
-To interact with Blockchain(s) you need fuel. 
+#### Realtime Blochchain Fees Trading
 
-Calling a simple Ethereum Smart Contract operation may cost you 12 USD now, but if ETH goes down or up, the same transaction fee price will also go down or up, and you cannot predict the market to exchange in advance.
+To execute Smart Contracts and write into Blockchain(s) you need fuel (funds that will get consumed): it is a control mechanism to run code and it also helps maintaining the community that support the decentralized infrastructure. 
+
+.. graph
+
+For developers and companies running a blockchain solution, having to manage fuel means funds have to be available real-time. If a Real State company solution writes to Ethereum blockchain a signature to manage trust for contract stackeholders, every signature will require the company to have some ETH available in their blockchain account. 
+
+It is also important to note that you can not hold ETHs in your account in advance, as the value for those may get depreciated.
 
 The best option is to exchange as close as possible to your blockchain Smart Contract call.
 
