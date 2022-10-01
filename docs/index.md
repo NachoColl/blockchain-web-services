@@ -12,12 +12,12 @@ Blockchain Web Services is a set of services on top of blockchain(s) to help com
 
 <p align="center">
   <img src="img/BWS_HL_Components_FULL.svg" />
-<i class="fa-solid fa-quote-left"></i> The Amazon Web Services for the Blockchain(s)<i class="fa-solid fa-quote-right"></i>
+<i class="fa-solid fa-quote-left"></i>&nbsp;The Amazon Web Services for the Blockchain(s)<i class="fa-solid fa-quote-right"></i>&nbsp;
 </p>
 
 ### Raising Adoption
 
-We can't deny the potential of Smart Contracts, but the Blockchain ecosystem is still too complex for mass adoption. As a few examples of those complexities, companies wanting to start their blockchain journey will have to:
+We can't deny the potential of Smart Contracts, but the Blockchain ecosystem is still too complex for mass adoption. As a few examples of those complexities, companies wanting to start their journey will have to:
 
  <ul class="fa-ul">
     <li><span class="fa-li"><i class="fa-regular fa-square"></i></span>build from scratch Smart Contracts that may already be available in the market,</li>
@@ -30,7 +30,7 @@ We can't deny the potential of Smart Contracts, but the Blockchain ecosystem is 
 Blockchain Web Services will offer a set of services to satisfy such market requirements:
 
  <ul class="fa-ul">
-    <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span>a <strong>simple API approach to consume Blockchain services</strong> without any learning curve, where developers and companies will interact with Blockchain as with any service they are used to,</li>
+    <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span>a <strong>A unified Blockchain(s) API</strong> for developers and companies to consume Blockchain(s) as any service they are used to,</li>
     <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span>a middleware to <strong>dynamically manage funds</strong> required to interact with blockchain(s),</li>
     <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span>a set of <strong>already-build solutions for most demanded uses cases</strong> (e.g. Digital Identity, Real State, Supply Chain management)</li>
     <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span>a <strong>Smart Contract Marketplace</strong> to get in touch with most advanced Smart Contract developers solutions.</li>
