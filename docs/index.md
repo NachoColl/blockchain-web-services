@@ -1,5 +1,8 @@
 <script src="https://kit.fontawesome.com/ed4fd3e862.js" crossorigin="anonymous"></script>
 
+<div style="position: fixed; top: 0; left: 0; border: 0;"> White Paper
+</div>
+
 <br/>
 Blockchain technologies are rising at an incredible rate. The 1st generation (aka Bitcoin) delivered the required trust for financial transactions; Just a few years later a 2nd generation (aka Ethereum) stretched to countless scenarios through the use of Smart Contracts; Today, a set of new initiatives is already pushing hard to support scalability and mature growth.
 
