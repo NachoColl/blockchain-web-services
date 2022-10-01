@@ -1,6 +1,6 @@
 <script src="https://kit.fontawesome.com/ed4fd3e862.js" crossorigin="anonymous"></script>
 
-<div style="position: fixed; top: 0; left: 0; border: 0;"> White Paper
+<div style="position: fixed; top: 10px; left: 10px; border: 0;"> White Paper
 </div>
 
 <br/>
