@@ -31,9 +31,9 @@ We can't deny the potential of Smart Contracts, but the Blockchain ecosystem is 
 Blockchain Web Services will offer a set of services to satisfy such market requirements:
 
  <ul class="fa-ul">
-    <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span>a <strong>A unified Blockchain(s) API</strong> for developers and companies to consume Blockchain(s) as any service they are used to,</li>
-    <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span>a middleware to <strong>dynamically manage funds</strong> required to interact with blockchain(s),</li>
-    <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span>a set of <strong>already-build solutions for most demanded uses cases</strong> (e.g. Digital Identity, Real State, Supply Chain management)</li>
+    <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span>a <strong>unified Blockchain(s) API</strong> for developers and companies to consume Blockchain(s) as any service they are used to,</li>
+    <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span><strong>realtime Blochchain fees trading</strong> to transparently manage any required fund,</li>
+    <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span>a set of <strong>built-in solutions for most demanded uses cases</strong>, from Digital Identity to Supply Chain management and many more,</li>
     <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span>a <strong>Smart Contract Marketplace</strong> to get in touch with most advanced Smart Contract developers solutions.</li>
   </ul>
 
