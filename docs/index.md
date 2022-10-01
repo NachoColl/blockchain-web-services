@@ -24,7 +24,7 @@ Blockchain ecosystem is still too complex for mass adoption, as a few examples, 
 
  <ul class="fa-ul">
     <li><span class="fa-li"><i class="fa-regular fa-square"></i></span>build from scratch Smart Contracts that may already be available in the market,</li>
-    <li><span class="fa-li"><i class="fa-regular fa-square"></i></span>prove to stackeholders their new Smart Contracts are secure and well-coded,</li>
+    <li><span class="fa-li"><i class="fa-regular fa-square"></i></span>prove to stackeholders your Smart Contracts are secure and well-coded,</li>
     <li><span class="fa-li"><i class="fa-regular fa-square"></i></span>manage blockchain addresses, secure keys, and</li>
     <li><span class="fa-li"><i class="fa-regular fa-square"></i></span>trade cryptos to consume blockchain on every transaction.</li>
   </ul>
