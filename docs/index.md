@@ -8,7 +8,7 @@ We believe **blockchain should transform society for the better** and while cryp
 
 ## Fundamentals
 
-Blockchain Web Services offers a set of services on top of blockchain(s) to help companies, individuals and governments embrace a new era of trusted services while keeping the focus on their business models and how they add value.
+Blockchain Web Services is a set of services on top of blockchain(s) to help companies, individuals and governments embrace a new era of trusted services while keeping the focus on their business models and how they add value.
 
 <p align="center">
   <img src="img/BWS_HL_Components_FULL.svg" />
@@ -20,18 +20,25 @@ Like Amazon Web Services is transforming how companies consume IT infrastructure
 
 We can't deny the potential of Smart Contracts, but the Blockchain ecosystem is still too complex to interact with and companies demand to prove trust in their solutions without having to:
 
-- build from scratch Smart Contracts that may already be available in the market,
-- prove to stackeholders their new Smart Contracts are secure and well-coded,
-- manage blockchain addresses, secure keys, and
-- trade cryptos to consume blockchain on every transaction.
+&nbsp;<i class="fa-regular fa-square"></i> build from scratch Smart Contracts that may already be available in the market,
+
+&nbsp;<i class="fa-regular fa-square"></i> prove to stackeholders their new Smart Contracts are secure and well-coded,
+
+&nbsp;<i class="fa-regular fa-square"></i> manage blockchain addresses, secure keys, and
+
+&nbsp;<i class="fa-regular fa-square"></i> trade cryptos to consume blockchain on every transaction.
+
+<br/>
 
 Blockchain Web Services will offer a set of services to satisfy such market requirements:
 
-<span class="fa-regular fa-square-check"></span> 
-<i class="fa-regular fa-square-check"></i> a **simple API approach to consume Blockchain services** without any learning curve, where developers and companies will interact with Blockchain as with any service they are used to,
-- a middleware to **dynamically manage funds** required to interact with blockchain(s),
-- a set of **already-build solutions for most demanded uses cases** (e.g. Digital Identity, Real State, Supply Chain management)
-- a **Smart Contract Marketplace** to get in touch with most advanced Smart Contract developers solutions.
+&nbsp;<i class="fa-regular fa-square-check"></i> a **simple API approach to consume Blockchain services** without any learning curve, where developers and companies will interact with Blockchain as with any service they are used to,
+
+&nbsp;<i class="fa-regular fa-square-check"></i> a middleware to **dynamically manage funds** required to interact with blockchain(s),
+
+&nbsp;<i class="fa-regular fa-square-check"></i> a set of **already-build solutions for most demanded uses cases** (e.g. Digital Identity, Real State, Supply Chain management)
+
+&nbsp;<i class="fa-regular fa-square-check"></i> a **Smart Contract Marketplace** to get in touch with most advanced Smart Contract developers solutions.
 
 #### A Unified Blockchain(s) API
 
