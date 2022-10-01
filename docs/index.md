@@ -39,9 +39,7 @@ Blockchain Web Services will offer a set of services to satisfy such market requ
 
 #### A Unified Blockchain(s) API
 
-Blockchain Web Services provides a unified API to execute Blockchain Smart Contract transactions. 
-
-For example, a simple 'https://api.bws.ninja/v1/call' API call is enough to save data to Ethereum without the need to manage keys or worry about blockchain fees.
+Blockchain Web Services provides a unified API to execute Blockchain Smart Contract transactions: a simple 'https://api.bws.ninja/v1/call' API call is enough to save data to Ethereum without the need to manage keys or worry about blockchain fees.
 
 <p align="center">
   <img src="img/Calling_Options.svg" />
