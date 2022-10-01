@@ -22,7 +22,7 @@ Blockchain Web Services is a set of services on top of blockchain(s) to help com
 
 We can't deny the potential of Smart Contracts, but the Blockchain ecosystem is still too complex for mass adoption. 
 
-As a few examples of those complexities, to start a journey companies will have to:
+As a few examples of those complexities slowing down companies to go Blockchain, starting a journey today requires to:
 
  <ul class="fa-ul">
     <li><span class="fa-li"><i class="fa-regular fa-square"></i></span>build from scratch Smart Contracts that may already be available in the market,</li>
