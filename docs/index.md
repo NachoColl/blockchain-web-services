@@ -22,16 +22,16 @@ Blockchain Web Services is a set of solutions on top of blockchain(s) to help co
 
 ### Raising Adoption
 
-Blockchain ecosystem is still too complex for mass adoption. Starting a blockchain journey today requires at least to:
+Blockchain infrastructure layers are still too complex for blockchain-wins mass adoption. If a company, a government, or even an experienced developer wants to start a journey, they will get slowed down by non-added value activities like:
 
  <ul class="fa-ul">
-    <li><span class="fa-li"><i class="fa-regular fa-square"></i></span>build from scratch Smart Contracts that may already be available in the market,</li>
-    <li><span class="fa-li"><i class="fa-regular fa-square"></i></span>prove to stackeholders your Smart Contracts are secure and well-coded,</li>
-    <li><span class="fa-li"><i class="fa-regular fa-square"></i></span>manage blockchain addresses, secure keys, and</li>
-    <li><span class="fa-li"><i class="fa-regular fa-square"></i></span>trade cryptos to consume blockchain on every transaction.</li>
+    <li><span class="fa-li"><i class="fa-regular fa-square"></i></span>building from scratch Smart Contracts that may already be available in the market,</li>
+    <li><span class="fa-li"><i class="fa-regular fa-square"></i></span>proving to stackeholders your Smart Contracts are secure and well-coded,</li>
+    <li><span class="fa-li"><i class="fa-regular fa-square"></i></span>managing blockchain addresses, secure the keys, and</li>
+    <li><span class="fa-li"><i class="fa-regular fa-square"></i></span>having to trade cryptos to consume blockchain on most of the interactions.</li>
   </ul>
 
-Blockchain Web Services wants to fill the market gap and provide:
+Blockchain Web Services wants to help those companies, governments and developers to fill the market gap and provide:
 
  <ul class="fa-ul">
     <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span>a <strong>unified Blockchain(s) API</strong> for developers and companies to consume Blockchain(s) as any service they are already used to,</li>
