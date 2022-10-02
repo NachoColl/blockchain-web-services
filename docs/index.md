@@ -82,21 +82,19 @@ In a few minutes, without any learning curve or blockchain setup, any company ca
 
 #### Realtime Blochchain Fees Trading
 
-To execute Smart Contracts and write into Blockchain(s) you need fuel (funds that will get consumed): it is a control mechanism to run code and it also helps maintaining the community that support the decentralized infrastructure. 
+To execute Smart Contracts and write into Blockchain(s) you need fuel (funds that will get consumed). It is a control mechanism to run code and helps funding the community that support the decentralized infrastructure. 
 
-.. graph
+As an example, if a Real State company solution writes to Ethereum blockchain their contract's signatures, every signature will require the company to have some funds (ETH) available. 
 
-For developers and companies running a blockchain solution, having to manage fuel means funds have to be available real-time. If a Real State company solution writes to Ethereum blockchain a signature to manage trust for contract stackeholders, every signature will require the company to have some ETH available in their blockchain account. 
+As ETH fiat exchange value may raise up or down in time, companies that manage their own Blockchain solution will also require to manage how they exchange and fund their blockchain account.
 
-It is also important to note that you can not hold ETHs in your account in advance, as the value for those may get depreciated.
-
-The best option is to exchange as close as possible to your blockchain Smart Contract call.
+As part of the blockchain unified API we propose, all those trading complexities are internally managed.
 
 <p align="center">
   <img src="img/Real-TimeFees.svg" />
 </p>
 
-Blockchain Web Services does real-time trading when calling a transaction.
+Blockchain Web Services users pay a USD bill at the end of the period as they currently do when consuming cloud resources on AWS or Azure.
 
 ## <a name="roadmap"></a>Roadmap
 
