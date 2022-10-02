@@ -41,7 +41,7 @@ Blockchain Web Services wants to fill the market gap and provide:
 
 #### A Unified Blockchain(s) API
 
-Blockchain Web Services provides a unified API to execute Blockchain Smart Contract transactions: a simple 'https://api.bws.ninja/v1/call' API call is enough and you don't need to worry about anything (no need to manage keys, no worry about blockchain fees, no learning curve, and a long etc).
+Blockchain Web Services provides a unified API to execute Blockchain Smart Contract transactions: a simple 'https://api.bws.ninja/v1/call' API call is enough and you don't need to worry about anything. Blockchain Web Services will provide trusted Smart Contracts, manage required keys, execute the operations and trade for required blockchain fees.
 
 <p align="center">
   <img src="img/Calling_Options.svg" />
