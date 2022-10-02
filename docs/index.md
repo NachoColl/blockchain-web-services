@@ -11,7 +11,7 @@ We believe **blockchain should transform society for the better** and while cryp
 
 ## Fundamentals
 
-Blockchain Web Services is a set of services on top of blockchain(s) to help companies, individuals and governments embrace a new era of trusted solutions while keeping the focus on their business models and how they add value.
+Blockchain Web Services is a set of solutions on top of blockchain(s) to help companies, individuals and governments embrace a new era of trusted services while keeping the focus on their business models and how they add value.
 
 <p align="center">
   <img src="img/BWS_HL_Components_FULL.svg" />
