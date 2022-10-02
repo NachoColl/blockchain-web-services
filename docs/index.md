@@ -1,4 +1,5 @@
-<script src="https://kit.fontawesome.com/ed4fd3e862.js" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.4.0/styles/atom-one-dark.min.css">
+
 
 <div style="position: fixed; top: 10px; left: 10px; border: 0;"> White Paper
 </div>
@@ -49,7 +50,35 @@ Blockchain Web Services provides a unified API to execute Blockchain Smart Contr
 
 Companies do not have to build Smart Contracts from scratch or worry about Blockchain complexities, and most of the use cases that the Blockchain adds value to will be available as a native API solution (built by us) or as part of the Smart Contracts marketplace.
 
-.. graph showing solutions and marketplace ...
+<pre><code class="js">
+var parameters = {
+  contract: "Ethereum.Database.Immutable",
+  version: 2,
+  network: "ropsten",
+  operation: "insertBytes32",
+  parameters: {
+    key: "a-key",
+    value: "Hello World!",
+  },
+};
+
+$.ajax({
+  method: "POST",
+  url: "https://api.bws.ninja/v1/call",
+  data: JSON.stringify(parameters),
+  headers: {
+    "Content-Type": "application/json",
+    "X-Api-Key": "ExV0dDszQ8QgsTVnevddpbB8cUaAfPs432ntVF8g0",
+  },
+  dataType: "json",
+  success: function (response) {
+    console.log(response);
+  },
+  error: function (xhr, textStatus, errorThrown) {
+    console.log(xhr);
+  },
+});
+</code></pre>
 
 #### Realtime Blochchain Fees Trading
 
@@ -119,5 +148,8 @@ Blockchain Web Services does real-time trading when calling a transaction.
   - **BWS Products** Build Commercial solutions on blockchain hypes (e.g. NFT Marketplace).
 
 
-  
+<script src="https://kit.fontawesome.com/ed4fd3e862.js" crossorigin="anonymous"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.4.0/highlight.min.js"></script>
+<script>hljs.highlightAll();</script>
 
