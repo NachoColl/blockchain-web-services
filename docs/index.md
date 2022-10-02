@@ -40,7 +40,7 @@ Blockchain Web Services wants to help those companies, governments and developer
     <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span>a <strong>Smart Contract Marketplace</strong> to easily consume advanced Smart Contract developers' solutions.</li>
   </ul>
 
-#### A Unified Blockchain(s) API
+## A Unified Blockchain(s) API
 
 Blockchain Web Services provides a unified API contract definition to execute Blockchain Smart Contract transactions.
 
@@ -80,7 +80,7 @@ $.ajax({
 
 In a few minutes, without any learning curve or blockchain setup, any company can become a Blockchain company, raising the blockchain market's overall adoption.
 
-#### Realtime Blochchain Fees Trading
+## Realtime Blochchain Fees Trading
 
 To execute Smart Contracts and write into Blockchain(s) you need fuel (funds that will get consumed). It is a control mechanism to run code and helps funding the community that support the decentralized infrastructure. 
 
@@ -95,6 +95,13 @@ As part of the blockchain unified API we propose, all those trading complexities
 </p>
 
 Blockchain Web Services users pay a USD bill at the end of the period as they currently do when consuming cloud resources on AWS or Azure.
+
+
+## Blockchain Web Services ICO
+
+[ in progress ]
+
+<br/>
 
 ## <a name="roadmap"></a>Roadmap
 
@@ -133,17 +140,18 @@ Blockchain Web Services users pay a USD bill at the end of the period as they cu
 
 - Deploy [Ethereum.Database] to Polygon zkEVM / zkSync 2.0
 - Build **bws.ninja [NFT]** solution for NFT use cases (Ethereum)
-- Define ICO White Paper
+- Define ICO/Tokenomics
 
 ### [Qx 2023] **SPACE COLONIZATION**
 
 - Launch ICO
-- Build **bws.ninja** API solutions for:
+- Built-in **bws.ninja** solutions for:
+  - Data Assets (including NFTs)
   - Identity Management
   - Supply Chain Management
 - Blockchain Web Services adoption growth plan threads:
-  - **BWS Consulting** Help businesses implement blockchain through Blockchain Web Services 
-  - **BWS Products** Build Commercial solutions on blockchain hypes (e.g. NFT Marketplace).
+  - **Blockchain Consulting** to help businesses implement blockchain through Blockchain Web Services 
+  - **Smart Contracts Marketplace**
 
 
 <script src="https://kit.fontawesome.com/ed4fd3e862.js" crossorigin="anonymous"></script>
