@@ -50,8 +50,7 @@ Blockchain Web Services provides a unified API to execute Blockchain Smart Contr
 
 Companies do not have to build Smart Contracts from scratch or worry about Blockchain complexities, and most of the use cases that the Blockchain adds value to will be available as a native API solution (built by us) or as part of the Smart Contracts marketplace.
 
-<pre><code class="js">
-var parameters = {
+<pre><code class="js">var parameters = {
   contract: "Ethereum.Database.Immutable",
   version: 2,
   network: "ropsten",
@@ -77,8 +76,7 @@ $.ajax({
   error: function (xhr, textStatus, errorThrown) {
     console.log(xhr);
   },
-});
-</code></pre>
+});</code></pre>
 
 #### Realtime Blochchain Fees Trading
 
