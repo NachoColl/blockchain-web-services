@@ -20,7 +20,7 @@ Blockchain Web Services is a set of solutions on top of blockchain(s) to help co
 
 ### Raising Adoption
 
-Blockchain ecosystem is still too complex for mass adoption, starting a blockchain journey today requires at least to:
+Blockchain ecosystem is still too complex for mass adoption. Starting a blockchain journey today requires at least to:
 
  <ul class="fa-ul">
     <li><span class="fa-li"><i class="fa-regular fa-square"></i></span>build from scratch Smart Contracts that may already be available in the market,</li>
@@ -34,7 +34,7 @@ Blockchain Web Services wants to fill the market gap and provide:
  <ul class="fa-ul">
     <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span>a <strong>unified Blockchain(s) API</strong> for developers and companies to consume Blockchain(s) as any service they are already used to,</li>
     <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span><strong>realtime Blockchain fees trading</strong> to transparently manage any required fund,</li>
-    <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span>a set of <strong>built-in solutions for the most demanded use cases</strong>, from Digital Identity to Supply Chain Management and many more,</li>
+    <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span>a set of <strong>built-in solutions for the most demanded use cases</strong>, from Database primitives to end-to-end solutions for Digital Identity, consume Data Assets, Supply Chain Management and many more,</li> and
     <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span>a <strong>Smart Contract Marketplace</strong> to easily consume advanced Smart Contract developers' solutions.</li>
   </ul>
 
