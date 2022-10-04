@@ -5,6 +5,9 @@
 </div>
 
 <br/>
+Version under construction.
+<br/>
+
 Blockchain technologies are rising at an incredible rate. The 1st generation (aka Bitcoin) delivered the required trust for financial transactions; Just a few years later a 2nd generation (aka Ethereum) stretched to countless scenarios through the use of Smart Contracts; Today, a set of new initiatives is already pushing hard to support scalability and mature growth.
 
 We believe blockchain should transform society for the better and while cryptos have raised worldwide attention, the real win must come from Infinite Games founded on a decentralized, transparent and trusted framework. 
@@ -13,7 +16,7 @@ Blockchain beyond cryptos must wake up shifts from-a-few to everyone.
 
 ## Fundamentals
 
-Blockchain Web Services is a set of solutions on top of blockchain(s) to help companies, individuals and governments embrace a new era of trusted services while keeping the focus on their business models and how they add value.
+Blockchain Web Services is a set of solutions on top of blockchain(s) to help companies, individuals and governments embrace the blockchain revolution. It aims to spread blockchain overall adoption by dropping complexities that are not related at all with their solution outcomes and value. 
 
 <p align="center">
   <img src="img/BWS_HL_Components_FULL.svg" />
