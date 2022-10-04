@@ -45,13 +45,7 @@ We want to help those companies, governments and developers by:
 
 ## A Unified Blockchain(s) API
 
-Blockchain Web Services provides a unified API contract definition to execute Blockchain Smart Contract transactions.
-
-<p align="center">
-  <img src="img/Calling_Options.svg" />
-</p>
-
-A simple 'https://api.bws.ninja/v1/call' API call passing which contract you want to call and the parameters is enough to execute a Blockchain web Service smart contract operation. 
+Blockchain Web Services will provide a unified API definition to execute Blockchain Smart Contract transactions the same way any developer is used to, and without even having to learn about blockchain infrastructure(s).
 
 <pre><code class="js">var parameters = {
   contract: "Ethereum.Database.Immutable",
@@ -81,17 +75,15 @@ $.ajax({
   },
 });</code></pre>
 
-In a few minutes, without any learning curve or blockchain setup, any company can become a Blockchain company, raising the blockchain market's overall adoption.
+A simple 'https://api.bws.ninja/v1/call' API call passing which operation you want to call will be enough to execute a Blockchain smart contract operation.
 
 ### Realtime Blochchain Fees Trading
 
-To execute Smart Contracts and write into Blockchain(s) you need fuel (funds that will get consumed). It is a control mechanism to run code and helps funding the community that support the decentralized infrastructure. 
+To execute Smart Contracts and write into Blockchain(s) you need fuel (funds that will get consumed). It is a control mechanism to run code and to help funding the community. 
 
-As an example, if a Real State company solution writes to Ethereum blockchain their contract's signatures, every signature will require the company to have some funds (ETH) available. 
+If a Real State company, for example, wants to write to blockchain their contract's signatures, every signature operation call will require the company to have some funds available. If they plan to use the Ethereum blockchain, they will have to manage how to buy some ETH just before every call (fiat exchange value may go up or down in time).
 
-As ETH fiat exchange value may raise up or down in time, companies that manage their own Blockchain solution will also require to manage how they exchange and fund their blockchain account.
-
-As part of the blockchain unified API we propose, all those trading complexities are internally managed.
+We propose that our unified API executes that funding trade transparently so Blockchain Web Services users don't have to deal with it.
 
 <p align="center">
   <img src="img/Real-TimeFees.svg" />
