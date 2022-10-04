@@ -25,7 +25,9 @@ Blockchain Web Services is a set of solutions on top of blockchain(s) to help co
 
 ### Raising Adoption
 
-Blockchain infrastructure layers are still too complex for blockchain-wins mass adoption. If a company, a government, or even an experienced developer wants to start a journey, they will get slowed down by non-added value activities like:
+Blockchain infrastructure layers are complex to understand and build on top,and after some initial hype on Smart Contracts, it is now slowing down blockchain-wins mass adoption. 
+
+If a company, a government, or even an experienced developer wants to start a journey, they will get quickly overload by non-added value activities like:
 
  <ul class="fa-ul">
     <li><span class="fa-li"><i class="fa-regular fa-square"></i></span>building from scratch Smart Contracts that may already be available in the market,</li>
