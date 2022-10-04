@@ -45,7 +45,7 @@ We want to help those companies, governments and developers by:
 
 ## A Unified Blockchain(s) API
 
-Blockchain Web Services will provide a unified API definition to execute Blockchain Smart Contract operations the same way any developer is used to call any other service, without having to learn or deal with blockchain infrastructure(s) topics.
+Blockchain Web Services will provide a unified API definition to execute Blockchain Smart Contract operations. Developers will be ready to go in minutes as they are used to and without having to learn or deal with blockchain infrastructure(s) topics.
 
 <pre><code class="js">var parameters = {
   contract: "Ethereum.Database.Immutable",
@@ -75,11 +75,11 @@ $.ajax({
   },
 });</code></pre>
 
-A simple 'https://api.bws.ninja/v1/call' API call passing which operation you want to call will be enough to execute a Blockchain smart contract operation.
+A simple 'https://api.bws.ninja/v1/call' API call will be enough to start executing a Blockchain smart contract operation.
 
 ### Realtime Blochchain Fees Trading
 
-To execute Smart Contracts and write into Blockchain(s) you need fuel (funds that will get consumed). It is a control mechanism to run code and to help funding the community. 
+To execute Smart Contracts and write into Blockchain(s) you need fuel (funds that will get consumed). It is a control mechanism to run code and to help fund the community. 
 
 If a Real State company, for example, wants to write to blockchain their contract's signatures, every signature operation call will require the company to have some funds available. If they plan to use the Ethereum blockchain, they will have to manage how to buy some ETH just before every call (fiat exchange value may go up or down in time).
 
