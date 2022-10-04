@@ -91,9 +91,13 @@ We propose that our unified API executes that funding trade transparently so use
 
 As a result, Blockchain Web Services customers will pay a bill at the end of the period as they currently do when consuming any other online service.
 
-## A Community Smart Contract Marketplace
+## A Smart Contract Marketplace Community
 
-We will provide a set of solutions that we think satisify main business uses cases. We will start by providing Database primities (Blockchain is a database) and move up building unified API solutions to fill the gaps into blockchain Supply Chain Management or 
+As previously mentioned, we will provide a set of solutions that think will satisify today's market requirements: we will add Database primitives to read and write data to blockchain(s) but we quickly plan to move up by offering a Supply Chain Management solution or a Data/AI assets management solution among others.
+
+But we want to engage ourselfs into the community embracing approach the blockchain revolution has introduced. We will add a Marketplace of Smart Contracts where experienced blockchain developers will be able to publish their work and get profit of and companies will be able to consume.
+
+
 
 ## Utility Token
 
