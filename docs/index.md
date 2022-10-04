@@ -45,7 +45,7 @@ We want to help those companies, governments and developers by:
 
 ## A Unified Blockchain(s) API
 
-Blockchain Web Services will provide a unified API definition to execute Blockchain Smart Contract transactions the same way any developer is used to, and without even having to learn about blockchain infrastructure(s).
+Blockchain Web Services will provide a unified API definition to execute Blockchain Smart Contract operations the same way any developer is used to call any other service, without having to learn or deal with blockchain infrastructure(s) topics.
 
 <pre><code class="js">var parameters = {
   contract: "Ethereum.Database.Immutable",
