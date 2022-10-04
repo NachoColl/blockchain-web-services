@@ -16,7 +16,7 @@ Blockchain beyond cryptos must wake up shifts from-a-few to everyone.
 
 ## Fundamentals
 
-Blockchain Web Services is a set of solutions on top of blockchain(s) to help companies, individuals and governments embrace the blockchain revolution. It aims to spread blockchain overall adoption by dropping complexities that are not related at all with their solution outcomes and value. 
+Blockchain Web Services is a set of solutions on top of blockchain(s) to help companies, individuals and governments embrace the blockchain revolution. It aims to spread overall adoption by dropping blockchain infrastructure complexities from creative workflows. We want those actors focus on their solution and how they add value to their companies and the society.
 
 <p align="center">
   <img src="img/BWS_HL_Components_FULL.svg" />
@@ -83,7 +83,7 @@ $.ajax({
 
 In a few minutes, without any learning curve or blockchain setup, any company can become a Blockchain company, raising the blockchain market's overall adoption.
 
-## Realtime Blochchain Fees Trading
+### Realtime Blochchain Fees Trading
 
 To execute Smart Contracts and write into Blockchain(s) you need fuel (funds that will get consumed). It is a control mechanism to run code and helps funding the community that support the decentralized infrastructure. 
 
@@ -99,8 +99,11 @@ As part of the blockchain unified API we propose, all those trading complexities
 
 Blockchain Web Services users pay a USD bill at the end of the period as they currently do when consuming cloud resources on AWS or Azure.
 
+## A Community Smart Contract Marketplace
 
-## Blockchain Web Services ICO
+We will provide a set of solutions that we think satisify main business uses cases. We will start by providing Database primities (Blockchain is a database) and move up building unified API solutions to fill the gaps into blockchain Supply Chain Management or 
+
+## Utility Token
 
 [ in progress ]
 
