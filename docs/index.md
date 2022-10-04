@@ -16,7 +16,7 @@ Blockchain beyond cryptos must wake up shifts from-a-few to everyone.
 
 ## Fundamentals
 
-Blockchain Web Services is a set of solutions on top of blockchain(s) to help companies, individuals and governments embrace the blockchain revolution. It aims to spread overall adoption by dropping blockchain infrastructure complexities from creative workflows. We want those actors focus on their solution and how they add value to their companies and the society.
+Blockchain Web Services is a set of solutions on top of blockchain(s) to help companies, individuals and governments embrace the blockchain revolution. It aims to spread the overall adoption by dropping blockchain infrastructure complexities from creative workflows. We want those actors to focus on their solutions and how they add value to their companies and society.
 
 <p align="center">
   <img src="img/BWS_HL_Components_FULL.svg" />
