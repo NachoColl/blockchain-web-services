@@ -93,10 +93,11 @@ As a result, Blockchain Web Services customers will pay a bill at the end of the
 
 ## A Smart Contract Marketplace Community
 
-As previously mentioned, we will provide a set of solutions that think will satisify today's market requirements: we will add Database primitives to read and write data to blockchain(s) but we quickly plan to move up by offering a Supply Chain Management solution or a Data/AI assets management solution among others.
+As previously mentioned, we will provide solutions that satisfy some of the market's most demanded use cases. We will start our journey by adding Database primitives to read and write data to the blockchain(s) and move up by adding a Supply Chain Management API or offering a Data/AI assets solution, among others.
 
-But we want to engage ourselfs into the community embracing approach the blockchain revolution has introduced. We will add a Marketplace of Smart Contracts where experienced blockchain developers will be able to publish their work and get profit of and companies will be able to consume.
+Even more exciting, we want to engage ourselves in the community-embracing approach the blockchain revolution has introduced. 
 
+We will build a Marketplace of Smart Contracts where experienced blockchain developers will publish their work and be able to get a profit from it, and companies will be able to consume as part of Blockchain Web Services API. 
 
 
 ## Utility Token
