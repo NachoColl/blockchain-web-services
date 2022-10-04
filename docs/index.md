@@ -89,7 +89,7 @@ We propose that our unified API executes that funding trade transparently so use
   <img src="img/Real-TimeFees.svg" />
 </p>
 
-As a result, Blockchain Web Services customers will pay a bill at the end of the period as they currently do when consuming other online services.
+As a result, Blockchain Web Services customers will pay a bill at the end of the period as they currently do when consuming any other online service.
 
 ## A Community Smart Contract Marketplace
 
