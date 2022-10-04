@@ -83,13 +83,13 @@ To execute Smart Contracts and write into Blockchain(s) you need fuel (funds tha
 
 If a Real State company, for example, wants to write to blockchain their contract's signatures, every signature operation call will require the company to have some funds available. If they plan to use the Ethereum blockchain, they will have to manage how to buy some ETH just before every call (fiat exchange value may go up or down in time).
 
-We propose that our unified API executes that funding trade transparently so Blockchain Web Services users don't have to deal with it.
+We propose that our unified API executes that funding trade transparently so users don't have to deal with it.
 
 <p align="center">
   <img src="img/Real-TimeFees.svg" />
 </p>
 
-Blockchain Web Services users pay a USD bill at the end of the period as they currently do when consuming cloud resources on AWS or Azure.
+As a result, Blockchain Web Services customers will pay a bill at the end of the period as they currently do when consuming other online services.
 
 ## A Community Smart Contract Marketplace
 
