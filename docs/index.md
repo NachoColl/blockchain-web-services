@@ -108,7 +108,9 @@ Second, we aim to work for the vision we committed to — a massive increase in 
 
 ### Tokenomics 
 
-Our Token will have the folowwing main use cases:
+[under construction]
+
+Blockchain Web Services Token will have the folowwing main use cases:
 
 - For Blockchain Web Services API User (platform customers), token will be necessary to execute Smart Contracts API calls,
 
