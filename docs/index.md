@@ -108,7 +108,13 @@ Second, we aim to work for the vision we committed to — a massive increase in 
 
 ### Tokenomics 
 
-[ in progress ]
+Our Token will have the folowwing main use cases:
+
+- For Blockchain Web Services API User (platform customers), token will be necessary to execute Smart Contracts API calls,
+
+- For marketplace Smart Contracts creators (developers), token will be used as a reward value every time a platform customers makes use of marketplace solution
+
+ 
 
 <br/>
 
