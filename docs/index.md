@@ -47,6 +47,8 @@ We want to help those companies, governments and developers by:
 
 Blockchain Web Services will provide a unified API definition to execute Blockchain Smart Contract operations. Developers will be ready to go in minutes as they are used to and without having to learn or deal with blockchain infrastructure(s) topics.
 
+A simple 'https://api.bws.ninja/v1/call' API call will be enough to start executing a Blockchain smart contract operation.
+
 <pre><code class="js">var parameters = {
   contract: "Ethereum.Database.Immutable",
   version: 2,
@@ -75,15 +77,11 @@ $.ajax({
   },
 });</code></pre>
 
-A simple 'https://api.bws.ninja/v1/call' API call will be enough to start executing a Blockchain smart contract operation.
-
 ### Realtime Blochchain Fees Trading
 
-To execute Smart Contracts and write into Blockchain(s) you need fuel (funds that will get consumed). It is a control mechanism to run code and to help fund the community. 
+To execute Smart Contracts and write into Blockchain(s) you need fuel (funds that will get consumed) - it is a control mechanism to run code and to help fund the community. If a Real State company, for example, wants to write to blockchain their contract's signatures, every signature operation call will require the company to have some funds available. If they plan to use the Ethereum blockchain, they will have to manage how to buy some ETH just before every call (fiat exchange value may go up or down in time).
 
-If a Real State company, for example, wants to write to blockchain their contract's signatures, every signature operation call will require the company to have some funds available. If they plan to use the Ethereum blockchain, they will have to manage how to buy some ETH just before every call (fiat exchange value may go up or down in time).
-
-We propose that our unified API executes that funding trade transparently so users don't have to deal with it.
+We propose that our unified API executes any required funding transparently so users don't have to deal with it.
 
 <p align="center">
   <img src="img/Real-TimeFees.svg" />
@@ -101,6 +99,14 @@ We will build a Marketplace of Smart Contracts where experienced blockchain deve
 
 
 ## Utility Token
+
+We propose Blockchain Web Services to rule a token operating under the following principles.
+
+First, we want the community to help, participate, fund, and get rewards for promoting and consuming the proposal we defined.
+
+Second, we aim to work for the vision we committed to — a massive increase in blockchain adoption through companies and governments implementing new solutions that require transparency and trust.
+
+### Tokenomics 
 
 [ in progress ]
 
