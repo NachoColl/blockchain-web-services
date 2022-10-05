@@ -116,7 +116,6 @@ Blockchain Web Services Token will have the folowwing main use cases:
 
 - For marketplace Smart Contracts creators (developers), token will be used as a reward value every time a platform customers makes use of marketplace solution
 
- 
 
 <br/>
 
