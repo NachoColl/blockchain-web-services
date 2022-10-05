@@ -29,7 +29,7 @@ The initial hype on Smart Contracts is getting weighed by the ecosystem complexi
 
  <ul class="fa-ul">
     <li><span class="fa-li"><i class="fa-regular fa-square"></i></span>having to build from scratch Smart Contracts that may already be available in the market,</li>
-    <li><span class="fa-li"><i class="fa-regular fa-square"></i></span>proving to stackeholders your Smart Contract is secure and well-coded,</li>
+    <li><span class="fa-li"><i class="fa-regular fa-square"></i></span>proving to stackeholders the Smart Contract is secure and well-coded,</li>
     <li><span class="fa-li"><i class="fa-regular fa-square"></i></span>managing blockchain addresses, store and secure the keys, and</li>
     <li><span class="fa-li"><i class="fa-regular fa-square"></i></span>having to trade cryptos to consume blockchain on most of the interactions.</li>
   </ul>
@@ -95,7 +95,7 @@ As previously mentioned, we will provide solutions that satisfy some of the mark
 
 Even more exciting, we want to engage ourselves in the community-embracing approach the blockchain revolution has introduced. 
 
-We will build a Marketplace of Smart Contracts where experienced blockchain developers will publish their work and be able to get a profit from it, and companies will be able to consume as part of Blockchain Web Services API. 
+We will build a Marketplace of Smart Contracts where experienced blockchain developers will publish their work and be able to get a profit from it - and companies will be able to consume an extended set of solutions as part of Blockchain Web Services API. 
 
 
 ## Utility Token
@@ -149,13 +149,13 @@ Second, we aim to work for the vision we committed to — a massive increase in 
 
 - Deploy [Ethereum.Database] to Polygon zkEVM / zkSync 2.0
 - Build **bws.ninja [NFT]** solution for NFT use cases (Ethereum)
-- Define ICO/Tokenomics
+- Define Tokenomics
 
 ### [Qx 2023] **SPACE COLONIZATION**
 
-- Launch ICO
+- Launch Token
 - Built-in **bws.ninja** solutions for:
-  - Data Assets (including NFTs)
+  - Data Assets / AI Workflows
   - Identity Management
   - Supply Chain Management
 - Blockchain Web Services adoption growth plan threads:
