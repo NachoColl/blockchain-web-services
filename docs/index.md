@@ -110,11 +110,11 @@ Second, we aim to work for the vision we committed to — a massive increase in 
 
 [under construction]
 
-Blockchain Web Services Token will have the folowwing main use cases:
+Blockchain Web Services token will get utilized in the following use cases:
 
-- For Blockchain Web Services API User (platform customers), token will be necessary to execute Smart Contracts API calls,
+- For Blockchain Web Services API users (platform customers), the token will be necessary to execute Smart Contracts API calls,
 
-- For marketplace Smart Contracts creators (developers), token will be used as a reward value every time a platform customers makes use of marketplace solution
+- For marketplace Smart Contracts creators (developers), the token will be used as a reward value for the publisher whenever a customer consumes the solution.
 
 
 <br/>
