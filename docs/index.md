@@ -114,7 +114,24 @@ Blockchain Web Services token will get utilized in the following use cases:
 
 - API consumers (platform customers) will require the token to execute Smart Contracts API calls.
 
+<p align="center">
+  <img src="img/API_Calls_Token_Fees.svg" />
+</p>
+
 - Marketplace Smart Contracts creators (Smart Contracts solution developers) will get a token reward whenever a platform customer consumes their solution.
+
+<p align="center">
+  <img src="img/Marketplace_API_Calls_Token_Rewards.svg" />
+</p>
+
+
+<br/>
+
+On the other side, we also plan to use the token to:
+
+- fund Smart Contract developers to add new solutions to the platform, and
+- fund the initial development and launch of the platform.
+
 
 
 <br/>
