@@ -12,8 +12,6 @@ Blockchain technologies are rising at an incredible rate. The 1st generation (ak
 
 We believe blockchain should transform society for the better and while cryptos have raised worldwide attention, the real win must come from Infinite Games founded on a decentralized, transparent and trusted framework. 
 
-Blockchain beyond cryptos must wake up shifts from-a-few to everyone.
-
 ## Fundamentals
 
 Blockchain Web Services is a set of solutions on top of blockchain(s) to help companies, individuals and governments embrace the blockchain revolution. It aims to spread the overall adoption by dropping blockchain infrastructure complexities from creative workflows, enabling anyone to focus on building solutions as they are currently used to.
@@ -29,8 +27,8 @@ The initial hype on Smart Contracts is getting weighed by the ecosystem complexi
 
  <ul class="fa-ul">
     <li><span class="fa-li"><i class="fa-regular fa-square"></i></span>having to build from scratch Smart Contracts that may already be available in the market,</li>
-    <li><span class="fa-li"><i class="fa-regular fa-square"></i></span>proving to stackeholders the Smart Contract is secure and well-coded,</li>
-    <li><span class="fa-li"><i class="fa-regular fa-square"></i></span>managing blockchain addresses, store and secure the keys, and</li>
+    <li><span class="fa-li"><i class="fa-regular fa-square"></i></span>proving to stakeholders that the Smart Contract is secure and well-coded,</li>
+    <li><span class="fa-li"><i class="fa-regular fa-square"></i></span>managing blockchain addresses, storing and securing the keys, and</li>
     <li><span class="fa-li"><i class="fa-regular fa-square"></i></span>having to trade cryptos to consume blockchain on most of the interactions.</li>
   </ul>
 
@@ -38,9 +36,9 @@ We want to help those companies, governments and developers by:
 
  <ul class="fa-ul">
     <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span>building a <strong>Unified Blockchain(s) API</strong> for developers and companies to consume Blockchain(s) as any service they are already used to,</li>
-    <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span>provide a <strong>realtime Blockchain fees trading</strong> mechanism to transparently manage any required fund,</li>
+    <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span>provide a <strong>real-time Blockchain fees trading</strong> mechanism to manage any required fund transparently,</li>
     <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span>set an initial list of <strong>built-in solutions for the most demanded use cases</strong>, from Database primitives to end-to-end solutions for Digital Identity, consume Data Assets, Supply Chain Management and many more, but also,</li> 
-    <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span>provide a <strong>Smart Contract Marketplace</strong> to enable companies to easily consume advanced Smart Contract developers' solutions.</li>
+    <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span>provide a <strong>Smart Contract Marketplace</strong> to enable companies to consume advanced Smart Contract developers' solutions easily.</li>
   </ul>
 
 ## A Unified Blockchain(s) API
