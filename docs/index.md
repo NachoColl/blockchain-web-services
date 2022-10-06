@@ -127,7 +127,12 @@ Blockchain Web Services token will get utilized in the following use cases:
 
 On the other side, we also plan to use the token to:
 
-- fund Smart Contract developers to add new solutions to the platform, and
+- Fund Smart Contract developers to add new solutions to the platform.
+
+<p align="center">
+  <img src="img/Marketplace_Solution_Selection.svg" />
+</p>
+
 - fund the initial development and launch of the platform.
 
 
