@@ -134,11 +134,9 @@ We aim to boost the overall Blockchain adoption, meaning we want the community t
 
 #### Token Launch Events
 
-There will only be a Seed, a Pre-Launch and a public Launch event.
+There will be a Seed, a Pre-Launch, and a Public launch event.
 
-The public launch will run one year after the Seed event. We want the public to get in as soon as possible while enabling seed contributors a chance to become early-contributors and get an extra profit from it. 
-
-The roadmap is running as planned and we're moving-up from the initial MVP. We want to bring a tangible token valuation when the public launch arrives.
+The public launch will run one year after the Seed event - the roadmap is running as planned, but we want a tangible token valuation when the public launch arrives.
 
 [under construction]
 
