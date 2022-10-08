@@ -104,11 +104,9 @@ First, we want the community to help, participate, fund, and get rewards for pro
 
 Second, we aim to work for the vision we committed to — a massive increase in blockchain adoption through companies and governments implementing new solutions that require transparency and trust.
 
-### Tokenomics 
+### Token Use Cases 
 
-[under construction]
-
-Blockchain Web Services token will get utilized in the following use cases:
+Blockchain Web Services token will get utilized for:
 
 - API consumers (platform customers) will require the token to execute Smart Contracts API calls.
 
@@ -122,7 +120,7 @@ Blockchain Web Services token will get utilized in the following use cases:
   <img src="img/Marketplace_API_Calls_Token_Rewards.svg" />
 </p>
 
-- Fund Smart Contract developers to add new solutions to the platform.
+- Smart Contract developers will get funds to add new solutions to the platform.
 
 <p align="center">
   <img src="img/Marketplace_Solution_Selection.svg" />
@@ -130,7 +128,19 @@ Blockchain Web Services token will get utilized in the following use cases:
 
 - Fund the development and launch of the platform.
 
+### Tokenomics 
 
+We aim to boost the overall Blockchain adoption, meaning we want the community to benefit from the values it implies. And we want the same community to be able to participate and be part of the journey with us. 
+
+#### Token Launch Events
+
+There will only be a Seed, a Pre-Launch and a public Launch event.
+
+The public launch will run one year after the Seed event. We want the public to get in as soon as possible while enabling seed contributors a chance to become early-contributors and get an extra profit from it. 
+
+The roadmap is running as planned and we're moving-up from the initial MVP. We want to bring a tangible token valuation when the public launch arrives.
+
+[under construction]
 
 <br/>
 
@@ -170,19 +180,18 @@ Blockchain Web Services token will get utilized in the following use cases:
 ### [Q4 2022] **IGNITION**
 
 - Deploy [Ethereum.Database] to Polygon zkEVM / zkSync 2.0
-- Build **bws.ninja [NFT]** solution for NFT use cases (Ethereum)
-- Define Tokenomics
+- Define Tokenomics and Launch events plan.
 
 ### [Qx 2023] **SPACE COLONIZATION**
 
-- Launch Token
-- Built-in **bws.ninja** solutions for:
-  - Data Assets / AI Workflows
-  - Identity Management
-  - Supply Chain Management
-- Blockchain Web Services adoption growth plan threads:
+- Seed Funding Event
+- From MVP to public commercial version 1
+  - Built-in Unified API solutions for:
+    - Supply Chain Management
+    - Data Assets / AI Workflows Integration
+- Blockchain Web Services ADOPTION growth plan threads:
   - **Blockchain Consulting** to help businesses implement blockchain through Blockchain Web Services 
-  - **Smart Contracts Marketplace**
+  - **Smart Contracts Marketplace** to involve Smart Contracts developers to add their solutions.
 
 
 <script src="https://kit.fontawesome.com/ed4fd3e862.js" crossorigin="anonymous"></script>
