@@ -10,11 +10,11 @@
 
 ## Abstract
 
-Blockchain Web Services is a Smart Contract Unified API to enable companies and developers consume blockchain solutions as they are currently used to. We aim to help companies build blockchain applications and embrace the blockchain revolution by dropping the infrastructure complexities from creative workflows.
+Blockchain Web Services is a Smart Contract Unified API to enable companies and developers to consume blockchain solutions as they are currently used to. We aim to help companies build blockchain applications and embrace the blockchain revolution by removing infrastructure complexities from creative workflows.
 
-We envision millions of developers and companies solutions calling Blockchain Web Services Unified API as the gateway point for Smart Contracts running on blockchain. In addition, Blockchain Web Services Markplace will reward Smart Contracts developers when publishing their solutions into the marketplace.
+We envision millions of developers and companies' applications calling Blockchain Web Services Unified API as the gateway point for Smart Contracts running on a blockchain. In addition, Blockchain Web Services Marketplace will reward Smart Contracts devs when publishing their solutions into the marketplace.
 
-On the economics, sustainability and growth, Blockchain Web Services token is the instrument in use for funding the platform and reward the Blockchain Web Services community. It is purchased and consumed by Companies calling the Unified API, while developers are getting rewarded from those companies consuming their solutions.
+On the economics, sustainability, and growth, Blockchain Web Services token is the instrument used to fund the platform and reward the Blockchain Web Services community. It is purchased and consumed by Companies calling the Unified API, while developers get rewards from companies consuming their solutions.
 
 <p align="center">
   <img src="img/BWS_HL_Components_FULL.svg" />
@@ -23,9 +23,13 @@ On the economics, sustainability and growth, Blockchain Web Services token is th
 
 ## Introduction
 
-Blockchain technologies are rising at an incredible rate. The 1st generation (aka Bitcoin) delivered the required trust for financial transactions; Just a few years later a 2nd generation (aka Ethereum) stretched to countless scenarios through the use of Smart Contracts; Today, a set of new initiatives is already pushing hard to support scalability and mature growth.
+Blockchain technologies are rising at an incredible rate. The 1st generation (aka Bitcoin) delivered the required trust for financial transactions; Just a few years later, a 2nd generation (aka Ethereum) stretched to countless scenarios through the use of Smart Contracts; Today, a set of new initiatives is already pushing hard to support scalability and mature growth.
 
-The gap we detected is that the initial hype on Smart Contracts is getting weighed by the blockchain ecosystem infrstructure complexities. The businesses demanded value does not come from dealing with such complexities, but mainly from the trust they want to deliver to their customers. 
+But the initial hype on Smart Contracts is getting weighed by the blockchain ecosystem infrastructure complexities. The businesses demanded value does not come from dealing with such complexities but mainly from the trust they want to deliver to their customers. 
+
+We provide a solution to them.
+
+## Technical Proposition
 
 To mention some issues for business momentum on blockchain adoption, anyone planning to get into Smart Contracts has to:
 
@@ -45,7 +49,7 @@ Blockchain Web Services provides a market solution by:
     <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span>provide a <strong>Smart Contract Marketplace</strong> to enable companies to consume advanced Smart Contract developers' solutions easily.</li>
   </ul>
 
-## Technical Proposition
+
 
 ## A Unified Blockchain(s) API
 
