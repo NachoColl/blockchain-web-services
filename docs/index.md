@@ -10,16 +10,24 @@
 
 ## Abstract
 
-Blockchain Web Services is a Smart Contract Unified API to enable companies and developers to consume blockchain solutions as they are currently used to. We aim to help companies build blockchain applications and embrace the blockchain revolution by removing infrastructure complexities from creative workflows.
+Blockchain Web Services is a Unified API enabling companies to consume blockchain Smart Contracts as web services. We aim to help companies build blockchain solutions and embrace the blockchain revolution by removing infrastructure complexities from creative workflows. 
 
-We envision millions of developers and companies' applications calling Blockchain Web Services Unified API as the gateway point for Smart Contracts running on a blockchain. In addition, Blockchain Web Services Marketplace will reward Smart Contracts devs when publishing their solutions into the marketplace.
+In addition, Blockchain Web Services incorporates a Marketplace for developers to publish their Smart Contracts and for companies to get access to hundreds of validated, secured, and state-of-the-art solutions.
+
+We envision millions of developers and companies calling Blockchain Web Services API as their gateway point for blockchain(s). 
+
+<br/>
+
+<p align="center">
+  <img src="img/Blockchain_Market_Growth.jpg" />
+<i class="fa-solid fa-quote-left"></i>&nbsp;The blockchain technology market share is expected to increase by USD 6.25 billion from 2020 to 2025, and the market's growth momentum will accelerate at a CAGR of 32.39%.&nbsp;<i class="fa-solid fa-quote-right"></i>
+</p>
+
+<br/>
 
 On the economics, sustainability, and growth, Blockchain Web Services token is the instrument used to fund the platform and reward the Blockchain Web Services community. It is purchased and consumed by Companies calling the Unified API, while developers get rewards from companies consuming their solutions.
 
-<p align="center">
-  <img src="img/BWS_HL_Components_FULL.svg" />
-<i class="fa-solid fa-quote-left"></i>&nbsp;The Amazon Web Services for the Blockchain(s)&nbsp;<i class="fa-solid fa-quote-right"></i>
-</p>
+
 
 ## Introduction
 
@@ -28,6 +36,13 @@ Blockchain technologies are rising at an incredible rate. The 1st generation (ak
 But the initial hype on Smart Contracts is getting weighed by the blockchain ecosystem infrastructure complexities. The businesses demanded value does not come from dealing with such complexities but mainly from the trust they want to deliver to their customers. 
 
 We provide a solution to them.
+
+<br/>
+
+<p align="center">
+  <img src="img/BWS_HL_Components_FULL.svg" />
+<i class="fa-solid fa-quote-left"></i>&nbsp;The Amazon Web Services for the Blockchain(s)&nbsp;<i class="fa-solid fa-quote-right"></i>
+</p>
 
 ## Technical Proposition
 
