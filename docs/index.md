@@ -19,8 +19,8 @@ We envision millions of developers and companies calling Blockchain Web Services
 <br/>
 
 <p align="center">
-  <img src="img/Blockchain_Market_Growth.jpg" />
-<i class="fa-solid fa-quote-left"></i>&nbsp;The blockchain technology market share is expected to increase by USD 6.25 billion from 2020 to 2025, and the market's growth momentum will accelerate at a CAGR of 32.39%.&nbsp;<i class="fa-solid fa-quote-right"></i>
+  <img src="img/Blockchain_Market_Growth.jpg" /><br/>
+<i class="fa-solid fa-quote-left"></i>&nbsp;The blockchain technology market share is expected to increase by USD 6.25 billion from 2020 to 2025, and the market's growth momentum will accelerate at a CAGR of 32.39% (1).&nbsp;<i class="fa-solid fa-quote-right"></i>
 </p>
 
 <br/>
@@ -40,7 +40,7 @@ We provide a solution to them.
 <br/>
 
 <p align="center">
-  <img src="img/BWS_HL_Components_FULL.svg" />
+  <img src="img/BWS_HL_Components_FULL.svg" /><br/>
 <i class="fa-solid fa-quote-left"></i>&nbsp;The Amazon Web Services for the Blockchain(s)&nbsp;<i class="fa-solid fa-quote-right"></i>
 </p>
 
@@ -222,3 +222,8 @@ The public launch will run one year after the Seed event - the roadmap is runnin
 <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.4.0/highlight.min.js"></script>
 <script>hljs.highlightAll();</script>
 
+<br/><br/><br/>
+
+#### references
+
+(1) Blockchain Technology Market by End-user and Geography - Forecast and Analysis 2021-2025 / tehnavio, SKU: IRTNTR43773
