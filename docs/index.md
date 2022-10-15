@@ -20,7 +20,7 @@ We envision millions of developers and companies calling Blockchain Web Services
 
 <p align="center">
   <img src="img/Blockchain_Market_Growth.jpg" /><br/>
-<i class="fa-solid fa-quote-left"></i>&nbsp;<span style="font-size:10px">The blockchain technology market share is expected to increase by USD 6.25 billion from 2020 to 2025, and the market's growth momentum will accelerate at a CAGR of 32.39% (1).</span>&nbsp;<i class="fa-solid fa-quote-right"></i>
+<span style="font-size:14px">The blockchain technology market share is expected to increase by USD 6.25 billion from 2020 to 2025, and the market's growth momentum will accelerate at a CAGR of 32.39% (1).</span>
 </p>
 
 <br/>
