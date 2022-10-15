@@ -57,9 +57,9 @@ Blockchain Web Services provides a market solution to raise blockchain adoption 
 Figure 1 shows Blockchain Web Services Unified API aims:
 
 - Consuming a Smart Contract should be as easy as calling any other web service.
-- The use of blockchain private addresses or secrets must be optional and in use when adding value.
+- The use of blockchain private addresses or secrets is only required when adding value to the solution proposal.
 - The same interface is used to call a Smart Contract in Ethereum, Polygon, Cardano, or any other supported blockchain.
-- Calling the API should avoid asking to buy any coin or token to use the service.
+- Calling the API does not require buying any coin or token.
 
 <br/>
 
@@ -96,16 +96,16 @@ $.ajax({
 
 ### Realtime Fees Trading
 
-To execute Smart Contracts and write into Blockchain(s) you need fuel (3) - it is a control mechanism to run code and to fund the network. If a company, for example, wants to write to blockchain their contract's signatures, every signature operation call will require the company to have some funds available. If they use the Ethereum blockchain, they will have to manage how to buy some ETH just before every call (fiat exchange value may go up or down in time).
+To execute Smart Contracts and write into Blockchain, you need fuel - that will cost you some money (3). If a company, for example, wants to write in Blockchain their contract's signatures, every signature operation call will require the company to have some funds available. If they use the Ethereum blockchain, they will have to manage how to buy some ETH just before every call (fiat exchange value may go up or down in time).
 
-Our unified API executes any required funding transparently so users don't have to deal with it.
+Blockchain Web Services executes any required funding real-time so users don't have to deal with it.
 
 <p align="center">
   <img src="img/Real-TimeFees.svg" /><br/>
   <strong>Figure 2: Fees trading and Blockchain Web Services token circular economy.</strong>
 </p>
 
-As a result, Blockchain Web Services customers will pay a bill at the end of the period as they currently do when consuming any other online service.
+Platform customers pay a bill at the end of the period as they currently do when consuming any other online service.
 
 ## A Smart Contract Marketplace Community
 
