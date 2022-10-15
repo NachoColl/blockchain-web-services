@@ -23,11 +23,9 @@ We envision millions of developers and companies calling Blockchain Web Services
 <span style="font-size:14px">The blockchain technology market share is expected to increase by USD 6.25 billion from 2020 to 2025, and the market's growth momentum will accelerate at a CAGR of 32.39% (1).</span>
 </p>
 
-<br/>
+In economics, sustainability, and growth, Blockchain Web Services token funds the platform expansion and rewards the Blockchain Web Services community of developers and supporters. It is purchased and consumed by Companies calling the Unified API, while developers get rewards from companies consuming their solutions.
 
-On the economics, sustainability, and growth, Blockchain Web Services token is the instrument used to fund the platform and reward the Blockchain Web Services community. It is purchased and consumed by Companies calling the Unified API, while developers get rewards from companies consuming their solutions.
-
-
+Token dynamics are conceived such that worth health rises with usage volume.
 
 ## Introduction
 
