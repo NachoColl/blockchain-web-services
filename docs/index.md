@@ -16,12 +16,14 @@ In addition, Blockchain Web Services incorporates a Marketplace for developers t
 
 <br/>
 
-<p align="center">
+<p align="center" style="padding-bottom:10px">
   <img src="img/Blockchain_Market_Growth.jpg" /><br/>
 <span style="font-size:14px">The blockchain technology market share is expected to increase by USD 6.25 billion from 2020 to 2025, and the market's growth momentum will accelerate at a CAGR of 32.39% <sup>(1)</sup>.</span>
 </p>
 
-In economics, sustainability, and growth, Blockchain Web Services token funds the platform's expansion, rewards developers' community and is purchased and consumed by Companies calling the Unified Smart Contracts API. 
+In economics, sustainability, and growth, Blockchain Web Services follows a sustainable loop where token fund the platform's expansion, rewards developers' community and is consumed by Companies calling the Unified Smart Contracts API. 
+
+
 
 <br/>
 ## Introduction
