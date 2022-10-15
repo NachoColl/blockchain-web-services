@@ -31,9 +31,9 @@ Token dynamics are conceived such that worth health rises with usage volume.
 
 Blockchain technologies are rising at an incredible rate. The 1st generation (aka Bitcoin) delivered the required trust for financial transactions; Just a few years later, a 2nd generation (aka Ethereum) stretched to countless scenarios through the use of Smart Contracts; Today, a set of new initiatives is already pushing hard to support scalability and mature growth.
 
-But the initial hype on Smart Contracts is getting weighed by the blockchain ecosystem infrastructure complexities. The businesses demanded value does not come from dealing with such complexities but mainly from the trust they want to deliver to their customers. 
+But the initial hype on Smart Contracts is getting weighed by the blockchain ecosystem infrastructure complexities. Deep challenges can be found when discussing adoption. The learning curves are still massive for companies, with the absence of usage standards and the lack of efficiency in finding and using already existing solutions, among others <sup>(2)</sup>.
 
-We provide a solution to them.
+We provide a solution to those.
 
 <br/>
 
@@ -44,27 +44,17 @@ We provide a solution to them.
 
 ## Technical Proposition
 
-To mention some issues for business momentum on blockchain adoption, anyone planning to get into Smart Contracts has to:
+Blockchain Web Services provides a market solution by delivering:
 
  <ul class="fa-ul">
-    <li><span class="fa-li"><i class="fa-regular fa-square"></i></span>build from scratch Smart Contracts that may already be available in the market,</li>
-    <li><span class="fa-li"><i class="fa-regular fa-square"></i></span>prove to stakeholders that the Smart Contract is secure and well-coded,</li>
-    <li><span class="fa-li"><i class="fa-regular fa-square"></i></span>manage, store and secure blockchain addresses and keys,  and</li>
-    <li><span class="fa-li"><i class="fa-regular fa-square"></i></span>trade cryptos to consume blockchain on most of the interactions.</li>
-  </ul>
-
-Blockchain Web Services provides a market solution by:
-
- <ul class="fa-ul">
-    <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span>building a <strong>Unified Blockchain(s) API</strong> for developers and companies to consume Blockchain(s) as any service they are already used to,</li>
-    <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span>provide a <strong>real-time Blockchain fees trading</strong> mechanism to manage any required fund transparently,</li>
-    <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span>set an initial list of <strong>built-in solutions for the most demanded use cases</strong>, from Database primitives to end-to-end solutions for Digital Identity, Data Assets workflows, Supply Chain Management and many more, but also,</li> 
-    <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span>provide a <strong>Smart Contract Marketplace</strong> to enable companies to consume advanced Smart Contract developers' solutions easily.</li>
+    <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span>a <strong>Unified Blockchain(s) API</strong> for developers and companies to consume Blockchain(s) as any service they are already used to,</li>
+    <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span><strong>real-time Blockchain fees trading</strong> mechanism to manage any required fund transparently,</li>
+    <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span>s<strong>built-in solutions for the most demanded use cases</strong>, from Database primitives (writing and reading from blockchain(s)), to end-to-end solutions for Digital Identity, Data Assets workflows, Supply Chain Management and many more the community of developers will add,</li> 
+    <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span> a <strong>Smart Contract Marketplace</strong> for developers to get rewarded by adding ther solution and for companies to find and consume advanced Smart Contracts easily.</li>
   </ul>
 
 
-
-## A Unified Blockchain(s) API
+### A Unified Blockchain(s) API
 
 Blockchain Web Services will provide a unified API definition to execute Blockchain Smart Contract operations. Developers will be ready to go in minutes as they are used to and without having to learn or deal with blockchain infrastructure(s) topics.
 
@@ -225,3 +215,5 @@ The public launch will run one year after the Seed event - the roadmap is runnin
 #### references
 
 (1) Blockchain Technology Market by End-user and Geography - Forecast and Analysis 2021-2025 / tehnavio, SKU: IRTNTR43773
+
+(2) 10 Challenges to the Adoption of Smart Contracts. PwC, PriceWaterhouseCoopers (blog.pwc.lu/smart-contracts-adoption-challenges)
