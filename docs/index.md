@@ -38,8 +38,8 @@ Blockchain Web Services provides a market solution to raise blockchain adoption 
  <ul class="fa-ul">
   <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span>a <strong>Unified Blockchain(s) API</strong> for developers and companies to consume Blockchain(s) as any service they are already used to,</li>
   <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span><strong>real-time Blockchain fees trading</strong> mechanism to manage any required fund transparently,</li>
-  <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span>s<strong>built-in solutions for the most demanded use cases</strong>, from Database primitives (writing and reading from blockchain(s)), to end-to-end solutions for Digital Identity, Data Assets workflows, Supply Chain Management and many more the community of developers will add,</li> 
-  <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span> a <strong>Smart Contract Marketplace</strong> for developers to get rewarded by adding ther solution and for companies to find and consume advanced Smart Contracts easily.</li>
+  <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span><strong>built-in solutions for the most demanded use cases</strong>: Database primitives (writing and reading from blockchain(s)), Digital Identity, Data Assets, Supply Chain Management and many more the community of developers will add,</li> 
+  <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span> a <strong>Smart Contract Marketplace</strong> for developers to get rewarded when adding a new solution and for companies to find and consume Smart Contracts easily.</li>
 </ul>
 
 <br/>
