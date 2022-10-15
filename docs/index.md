@@ -14,8 +14,6 @@ Blockchain Web Services is a Unified API enabling companies to consume blockchai
 
 In addition, Blockchain Web Services incorporates a Marketplace for developers to publish their Smart Contracts and for companies to get access to hundreds of validated, secured, and state-of-the-art solutions.
 
-We envision millions of developers and companies calling Blockchain Web Services API as their gateway point for blockchain(s). 
-
 <br/>
 
 <p align="center">
@@ -23,7 +21,9 @@ We envision millions of developers and companies calling Blockchain Web Services
 <span style="font-size:14px">The blockchain technology market share is expected to increase by USD 6.25 billion from 2020 to 2025, and the market's growth momentum will accelerate at a CAGR of 32.39% <sup>(1)</sup>.</span>
 </p>
 
-In economics, sustainability, and growth, Blockchain Web Services token funds the platform expansion, rewards developers community and it is purchased and consumed by Companies calling the Unified Smart Contracts API. Token dynamics are conceived such that worth health rises with usage volume.
+<br/>
+
+In economics, sustainability, and growth, Blockchain Web Services token funds the platform's short and long-term expansion, rewards developers' community and is purchased and consumed by Companies calling the Unified Smart Contracts API. 
 
 ## Introduction
 
@@ -118,11 +118,11 @@ We will build a Marketplace of Smart Contracts where experienced blockchain deve
 
 ## Utility Token
 
-We propose Blockchain Web Services to rule a token operating under the following principles.
+We propose Blockchain Web Services to rule a token operating under the following principles:
 
-First, we want the community to help, participate, fund, and get rewards for promoting and consuming the proposal we defined.
+- We want the community to help, participate, fund, and get rewarded for promoting and extending the platform.
 
-Second, we aim to work for the vision we committed to — a massive increase in blockchain adoption through companies and governments implementing new solutions that require transparency and trust.
+- We aim to work for the vision we committed to — a massive increase in blockchain adoption through companies and governments consuming platform solutions, and token dynamics are conceived such that health rises with usage volume.
 
 ### Token Use Cases 
 
