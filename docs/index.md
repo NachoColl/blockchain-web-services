@@ -12,14 +12,12 @@
 
 Blockchain Web Services is a Unified API enabling companies to consume blockchain Smart Contracts as web services. We aim to help companies build blockchain solutions and embrace the blockchain revolution by removing infrastructure complexities from creative workflows. 
 
-In addition, Blockchain Web Services incorporates a Marketplace for developers to publish their Smart Contracts and for companies to get access to hundreds of validated, secured, and state-of-the-art solutions.
-
-<br/>
-
-<p align="center" style="padding-bottom:10px">
+<p align="center" style="padding-bottom:10px; padding-top:10px;">
   <img src="img/Blockchain_Market_Growth.jpg" /><br/>
 <span style="font-size:14px">The blockchain technology market share is expected to increase by USD 6.25 billion from 2020 to 2025, and the market's growth momentum will accelerate at a CAGR of 32.39% <sup>(1)</sup>.</span>
 </p>
+
+In addition, Blockchain Web Services incorporates a Marketplace for developers to publish their Smart Contracts and for companies to get access to hundreds of validated, secured, and state-of-the-art solutions.
 
 In economics, sustainability, and growth, Blockchain Web Services follows a sustainable loop where token fund the platform's expansion, rewards developers' community and is consumed by Companies calling the Unified Smart Contracts API. 
 
