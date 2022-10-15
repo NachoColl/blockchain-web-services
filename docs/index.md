@@ -40,9 +40,9 @@ We provide a solution to those.
 <i class="fa-solid fa-quote-left"></i>&nbsp;The Amazon Web Services for the Blockchain(s)&nbsp;<i class="fa-solid fa-quote-right"></i>
 </p>
 
-## Technical Proposition
+## Problem Solving Proposition
 
-Blockchain Web Services provides a market solution by delivering:
+Blockchain Web Services provides a market solution to raise blockchain adoption by delivering:
 
  <ul class="fa-ul">
     <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span>a <strong>Unified Blockchain(s) API</strong> for developers and companies to consume Blockchain(s) as any service they are already used to,</li>
@@ -56,9 +56,11 @@ Blockchain Web Services provides a market solution by delivering:
 
 Code Snippet 1 shows Blockchain Web Services Unified API aims:
 
-- Consuming a Smart Contract should be as easy as calling any regular API.
-- No need to provide and secure private secrets.
-- Same interface for calling blockchain's Smart Contracts on different blockchains.
+- Consuming a Smart Contract should be as easy as calling any other web service.
+- The use of blockchain private addresses or secrets must be optional and in use when adding value.
+- The same interface is used to call a Smart Contract in Ethereum, Polygon, Cardano, or any other supported blockchain.
+
+<br/>
 
 <pre><code class="js">var parameters = {
   contract: "Ethereum.Database.Immutable",
