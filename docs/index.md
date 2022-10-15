@@ -21,17 +21,26 @@ In addition, Blockchain Web Services incorporates a Marketplace for developers t
 <span style="font-size:14px">The blockchain technology market share is expected to increase by USD 6.25 billion from 2020 to 2025, and the market's growth momentum will accelerate at a CAGR of 32.39% <sup>(1)</sup>.</span>
 </p>
 
+In economics, sustainability, and growth, Blockchain Web Services token funds the platform's expansion, rewards developers' community and is purchased and consumed by Companies calling the Unified Smart Contracts API. 
+
 <br/>
-
-In economics, sustainability, and growth, Blockchain Web Services token funds the platform's short and long-term expansion, rewards developers' community and is purchased and consumed by Companies calling the Unified Smart Contracts API. 
-
 ## Introduction
 
 Blockchain technologies are rising at an incredible rate. The 1st generation (aka Bitcoin) delivered the required trust for financial transactions; Just a few years later, a 2nd generation (aka Ethereum) stretched to countless scenarios through the use of Smart Contracts; Today, a set of new initiatives is already pushing hard to support scalability and mature growth.
 
 But the initial hype on Smart Contracts is getting weighed by the blockchain ecosystem infrastructure complexities. Deep challenges can be found when discussing adoption. The learning curves are still massive for companies, with the absence of usage standards and the lack of efficiency in finding and using already existing solutions, among others <sup>(2)</sup>.
 
-We provide a solution to those.
+
+## Problem Solving Proposition
+
+Blockchain Web Services provides a market solution to raise blockchain adoption by delivering:
+
+ <ul class="fa-ul">
+  <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span>a <strong>Unified Blockchain(s) API</strong> for developers and companies to consume Blockchain(s) as any service they are already used to,</li>
+  <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span><strong>real-time Blockchain fees trading</strong> mechanism to manage any required fund transparently,</li>
+  <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span>s<strong>built-in solutions for the most demanded use cases</strong>, from Database primitives (writing and reading from blockchain(s)), to end-to-end solutions for Digital Identity, Data Assets workflows, Supply Chain Management and many more the community of developers will add,</li> 
+  <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span> a <strong>Smart Contract Marketplace</strong> for developers to get rewarded by adding ther solution and for companies to find and consume advanced Smart Contracts easily.</li>
+</ul>
 
 <br/>
 
@@ -39,18 +48,6 @@ We provide a solution to those.
   <img src="img/BWS_HL_Components_FULL.svg" /><br/>
 <i class="fa-solid fa-quote-left"></i>&nbsp;The Amazon Web Services for the Blockchain(s)&nbsp;<i class="fa-solid fa-quote-right"></i>
 </p>
-
-## Problem Solving Proposition
-
-Blockchain Web Services provides a market solution to raise blockchain adoption by delivering:
-
- <ul class="fa-ul">
-    <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span>a <strong>Unified Blockchain(s) API</strong> for developers and companies to consume Blockchain(s) as any service they are already used to,</li>
-    <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span><strong>real-time Blockchain fees trading</strong> mechanism to manage any required fund transparently,</li>
-    <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span>s<strong>built-in solutions for the most demanded use cases</strong>, from Database primitives (writing and reading from blockchain(s)), to end-to-end solutions for Digital Identity, Data Assets workflows, Supply Chain Management and many more the community of developers will add,</li> 
-    <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span> a <strong>Smart Contract Marketplace</strong> for developers to get rewarded by adding ther solution and for companies to find and consume advanced Smart Contracts easily.</li>
-  </ul>
-
 
 ### A Unified Blockchain(s) API
 
@@ -188,23 +185,23 @@ The public launch will run one year after the Seed event - the roadmap is runnin
 
 ### [Q3 2022] **COUNT DOWN** - <i class="fa-solid fa-check"></i>
 
-- Implement ETH trading to call mainnet Smart contracts
-  - Setup Stripe payments in bws.ninja production
+- Payment Gateways partening
+  - Setup Stripe payments gateway
   - Setup FTX.us partnership
-  - Implement Trading middleware
+- Implement Realtime Fees Trading
 - Website initial iteration.
   - [bws.ninja](https://bws.ninja/) copy & design
 
 ### [Q4 2022] **IGNITION**
 
-- Deploy [Ethereum.Database] to Polygon zkEVM / zkSync 2.0
-- Define Tokenomics and Launch events plan.
+- Deploy [Ethereum.Database] to zkEVM / zkSync 2.0 to lower fees
+- Define Tokenomics.
 
-### [Qx 2023] **SPACE COLONIZATION**
+### [Qx 2023] **LAUNCH**
 
 - Seed Funding Event
-- From MVP to public commercial version 1
-  - Built-in Unified API solutions for:
+- From MVP to version 1.0
+  - Built-in solutions for:
     - Supply Chain Management
     - Data Assets / AI Workflows Integration
 - Blockchain Web Services ADOPTION growth plan threads:
