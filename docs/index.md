@@ -56,9 +56,11 @@ Blockchain Web Services provides a market solution by delivering:
 
 ### A Unified Blockchain(s) API
 
-Blockchain Web Services will provide a unified API definition to execute Blockchain Smart Contract operations. Developers will be ready to go in minutes as they are used to and without having to learn or deal with blockchain infrastructure(s) topics.
+Code Snippet shows Blockchain Web Services Unified API aims:
 
-A simple 'https://api.bws.ninja/v1/call' API call will be enough to start executing a Blockchain smart contract operation.
+- Consuming a Smart Contract should be as easy as calling any regular API.
+- No need to provide and secure private secrets.
+- Same interface for calling blockchain's Smart Contracts on different blockchains.
 
 <pre><code class="js">var parameters = {
   contract: "Ethereum.Database.Immutable",
@@ -87,6 +89,9 @@ $.ajax({
     console.log(xhr);
   },
 });</code></pre>
+<p align="center">
+<i class="fa-solid fa-quote-left"></i>&nbsp;Code Snippet: calling the Unified API&nbsp;<i class="fa-solid fa-quote-right"></i>
+</p>
 
 ### Realtime Blochchain Fees Trading
 
