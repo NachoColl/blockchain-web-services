@@ -14,7 +14,7 @@ Blockchain Web Services is a Unified API enabling companies to consume blockchai
 
 In addition, Blockchain Web Services incorporates a Marketplace for developers to publish their Smart Contracts and for companies to get access to hundreds of validated, secured, and state-of-the-art solutions.
 
-In economics, sustainability, and growth, Blockchain Web Services follows a sustainable loop where token fund the platform's expansion, rewards developers' community and is consumed by Companies calling the Unified Smart Contracts API. 
+Blockchain Web Services follows a sustainable loop in economics, sustainability, and growth. On one side, the token funds the platform's construction and rewards the community; on the other, the revenue rises from companies using the Unified Smart Contracts API. 
 
 <br/>
 ## Introduction
