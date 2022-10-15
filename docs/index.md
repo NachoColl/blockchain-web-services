@@ -54,7 +54,7 @@ Blockchain Web Services provides a market solution by delivering:
 
 ### A Unified Blockchain(s) API
 
-Code Snippet shows Blockchain Web Services Unified API aims:
+Code Snippet 1 shows Blockchain Web Services Unified API aims:
 
 - Consuming a Smart Contract should be as easy as calling any regular API.
 - No need to provide and secure private secrets.
@@ -88,7 +88,7 @@ $.ajax({
   },
 });</code></pre>
 <p align="center">
-<i class="fa-solid fa-quote-left"></i>&nbsp;Code Snippet: calling the Unified API&nbsp;<i class="fa-solid fa-quote-right"></i>
+Code Snippet 1: a Unified API Interface call example.
 </p>
 
 ### Realtime Blochchain Fees Trading
