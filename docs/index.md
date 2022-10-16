@@ -14,7 +14,7 @@ In addition, it also incorporates a Marketplace for developers to publish their 
 
 We aim to help companies build on top of Smart Contracts and embrace the blockchain revolution by removing infrastructure complexities from creative workflows while improving decision-making "attributes of innovation"<sup>1</sup> (Relative Advantage, Compatibility, Complexity, Triability, and Observability).
 
-Regarding sustainability, Blockchain Web Services follows a sustainable economic and growth loop. Blockchain Web Service token funds the platform's-building and rewards the community for extending it, while the revenue grows when companies use the Unified Smart Contracts API.
+Regarding sustainability, Blockchain Web Services follows a sustainable economic and growth loop. Our Ethereum network token funds the platform's-building and rewards the community for extending it, while the revenue grows when companies use the Unified Smart Contracts API.
 
 <p align="center" style="color:gray;padding-bottom:20px; padding-top:20px;">_________</p>
 
