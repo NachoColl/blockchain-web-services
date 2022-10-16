@@ -20,7 +20,7 @@ Regarding sustainability, Blockchain Web Services follows a sustainable economic
 
 ## Introduction
 
-Blockchain technologies are rising at an incredible rate. The 1st generation (aka Bitcoin) delivered the required trust for financial transactions; Just a few years later, a 2nd generation (aka Ethereum) stretched to countless scenarios through the use of Smart Contracts. Today, a set of new initiatives is already pushing hard to support scalability and mature growth.
+Blockchain technologies are rising at an incredible rate. The 1st generation (aka Bitcoin) delivered the required trust for financial transactions; Just a few years later, a 2nd generation (aka Ethereum) stretched to countless scenarios through Smart Contracts. Today, a set of new initiatives is already pushing hard to support scalability and mature growth.
 
 But the initial hype on Smart Contracts is getting weighed by the blockchain ecosystem complexities, and challenges arise when discussing market adoption.
 
@@ -36,9 +36,9 @@ The learning curves are still massive for companies planning to go blockchain, a
 Blockchain Web Services provides a solution to raise blockchain adoption by delivering:
 
  <ul class="fa-ul">
-  <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span>A Unified Smart Contracts API for developers and companies to use Blockchain(s) as any Web Service they are already used to work with.</li>
-  <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span>Real-time Blockchain fees trading <sup>(5)</sup>.</li>
-  <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span>Built-in solutions for the most demanded use cases (initial launch is planned to include Database primitives, selling Data Assets and Supply Chain Management solutions).</li> 
+  <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span>A Unified Smart Contracts API for developers and companies to use Blockchain(s) as any Web Service they are already used to.</li>
+  <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span>Real-time Blockchain fees trading to transparently manage funds required to call Smart Contracts<sup>(5)</sup> .</li>
+  <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span>Platform built-in Smart Contracts for the most demanded use cases (initial launch is planned to include Database primitives — read and write data to the blockchain(s), Data Assets, and Supply Chain solutions).</li> 
   <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span>A Marketplace for developers to get rewarded when adding new Smart Contracts and for companies to find and consume Smart Contracts easily.</li>
 </ul>
 
