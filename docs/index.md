@@ -40,7 +40,7 @@ The learning curves are still massive for companies planning to go blockchain, a
 
 ### Trust and Transparency
 
-<mark>[extend/improve]
+<mark>[create]
 <br/>
 public blockchains as the solution to go vs. private blockchains, as it's all about trust and transparency (transparency = public)!
 </mark>
