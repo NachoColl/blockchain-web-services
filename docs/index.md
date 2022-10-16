@@ -29,13 +29,17 @@ But the initial hype on Smart Contracts is getting weighed by the blockchain eco
 <span style="font-size:14px">Gartner - Despite the fast growth of the blockchain ecosystem,<br/> its complexity makes it difficult to navigate for business leaders <sup>(2)</sup>.</span>
 </p>
 
-The learning curves are still massive for companies planning to go blockchain, and the absence of unified standards is still a leading blocker. While the portfolio of blockchain(s) layered infrastructures<sup>(3)</sup> and Smart Contracts is growing fast, companies require a stable ecosystem to focus on their value proposal and cost efficiency (does a contract that does the same thing already exist<sup>(4)</sup>?).
+The learning curves are still massive for companies planning to go blockchain, and the absence of unified standards is still a leading blocker. While the portfolio of blockchain(s) layered infrastructures<sup>(3)</sup> and Smart Contracts is growing fast, companies require a stable ecosystem to focus on their value proposal and improve implementation cost efficiency (does a contract that does the same thing already exist<sup>(4)</sup>?).
+
+[extend/improve]
 
 ### Trust and Transparency
 
 [remark public blockchains as the solution to go vs. private blockchains, as it's all about trust and transparency!]
 
 ## Problem Solving Proposition
+
+[extend/improve]
 
 Blockchain Web Services provides a solution to raise blockchain adoption by delivering:
 
@@ -54,6 +58,8 @@ Blockchain Web Services provides a solution to raise blockchain adoption by deli
 </p>
 
 ### A Unified Blockchain(s) API
+
+[extend/improve]
 
 Figure 1 shows Blockchain Web Services Unified API aims:
 
@@ -97,9 +103,11 @@ $.ajax({
 
 ### Realtime Fees Trading
 
-To execute Smart Contracts and write into Blockchain, you need fuel - that will cost you some money <sup>(5)</sup>. If a company, for example, wants to write in Blockchain their contract's signatures, every signature operation call will require the company to have some funds available. If they use the Ethereum blockchain, they will have to manage how to buy some ETH just before every call (fiat exchange value may go up or down in time).
+To execute Smart Contracts and write into Blockchain, you need fuel - that will cost you some money <sup>(5)</sup>. If a company wants to write in Blockchain their contract's signatures, every signature operation call will require the company to have some funds available. If they use the Ethereum blockchain, they will have to manage how to buy some ETH just before every call (fiat exchange value may go up or down in time).
 
 Blockchain Web Services executes any required funding real-time so users don't have to deal with it.
+
+[extend/improve]
 
 <p align="center">
   <img src="img/Real-TimeFees.svg" /><br/>
@@ -108,7 +116,11 @@ Blockchain Web Services executes any required funding real-time so users don't h
 
 Platform customers pay a bill at the end of the period as they currently do when consuming any other online service.
 
+[extend/improve]
+
 ## A Smart Contract Marketplace Community
+
+[extend/improve]
 
 As previously mentioned, we will provide solutions that satisfy some of the market's most demanded use cases. We will start our journey by adding Database primitives to read and write data to the blockchain(s) and move up by adding a Supply Chain Management API or offering a Data/AI assets solution, among others.
 
@@ -151,6 +163,8 @@ Blockchain Web Services token will get utilized for:
 
 ### Tokenomics 
 
+[in progress]
+
 We aim to boost the overall Blockchain adoption, meaning we want the community to benefit from the values it implies. And we want the same community to be able to participate and be part of the journey with us. 
 
 #### Token Launch Events
@@ -159,9 +173,8 @@ There will be a Seed, a Pre-Launch, and a Public launch event.
 
 The public launch will run one year after the Seed event - the roadmap is running as planned, but we want a tangible token valuation when the public launch arrives.
 
-[under construction]
 
-<br/>
+<p align="center" style="color:gray;padding-bottom:20px; padding-top:20px;">_________</p>
 
 ## <a name="roadmap"></a>Roadmap
 
