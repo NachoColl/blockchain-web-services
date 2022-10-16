@@ -12,7 +12,7 @@
 
 Blockchain Web Services is a Unified API enabling companies to consume blockchain Smart Contracts as web services.
 
-We aim to help companies build on top of blockchain and embrace the blockchain revolution by removing infrastructure complexities from creative workflows while improving decision-making "attributes of innovation"<sup>1</sup> (Relative Advantage, Compatibility, Complexity, Triability, and Observability ).
+We aim to help companies build on top of blockchain and embrace the blockchain revolution by removing infrastructure complexities from creative workflows while improving decision-making "attributes of innovation"<sup>1</sup> (Relative Advantage, Compatibility, Complexity, Triability, and Observability).
 
 In addition, Blockchain Web Services incorporates a Marketplace for developers to publish their Smart Contracts and for companies to get access to hundreds of validated, secured, and state-of-the-art solutions.
 
@@ -27,9 +27,9 @@ Blockchain technologies are rising at an incredible rate. The 1st generation (ak
 <span style="font-size:14px">Gartner - Despite the fast growth of the blockchain ecosystem, its complexity makes it difficult to navigate for business leaders <sup>(2)</sup>.</span>
 </p>
 
-But the initial hype on Smart Contracts is getting weighed by the blockchain ecosystem infrastructure complexities, and challenges arise when discussing market adoption<sup>(4)</sup>. The learning curves are still massive for companies planning to go blockchain, and the absence of blockchain(s) usage standards is still a leading blocker.
+But the initial hype on Smart Contracts is getting weighed by the blockchain ecosystem infrastructure complexities, and challenges arise when discussing market adoption<sup>(3)</sup>. The learning curves are still massive for companies planning to go blockchain, and the absence of blockchain(s) usage standards is still a leading blocker.
 
- While diversity creates an extensive portfolio - multiple L1/L2 blockchains<sup>(5)</sup> - companies require a stable ecosystem to focus on their value proposition and improve efficiency - does a contract that does the same thing already exist<sup>(5)</sup>?
+ While diversity creates an extensive portfolio - multiple L1/L2 blockchains<sup>(4)</sup> - companies require a stable ecosystem to focus on their value proposition and improve efficiency - does a contract that does the same thing already exist<sup>(5)</sup>?
 
 ## Problem Solving Proposition
 
@@ -93,7 +93,7 @@ $.ajax({
 
 ### Realtime Fees Trading
 
-To execute Smart Contracts and write into Blockchain, you need fuel - that will cost you some money <sup>(6)</sup>. If a company, for example, wants to write in Blockchain their contract's signatures, every signature operation call will require the company to have some funds available. If they use the Ethereum blockchain, they will have to manage how to buy some ETH just before every call (fiat exchange value may go up or down in time).
+To execute Smart Contracts and write into Blockchain, you need fuel - that will cost you some money <sup>(5)</sup>. If a company, for example, wants to write in Blockchain their contract's signatures, every signature operation call will require the company to have some funds available. If they use the Ethereum blockchain, they will have to manage how to buy some ETH just before every call (fiat exchange value may go up or down in time).
 
 Blockchain Web Services executes any required funding real-time so users don't have to deal with it.
 
