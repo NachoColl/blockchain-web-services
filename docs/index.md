@@ -29,14 +29,18 @@ But the initial hype on Smart Contracts is getting weighed by the blockchain eco
 <span style="font-size:14px">Gartner - Despite the fast growth of the blockchain ecosystem,<br/> its complexity makes it difficult to navigate for business leaders <sup>(2)</sup>.</span>
 </p>
 
-The learning curves are still massive for companies planning to go blockchain, and the absence of unified standards is still a leading blocker. While diversity is creating an extensive portfolio of blockchain(s) layered infrastructures<sup>(3)</sup>, and the list of deployed Smart Contracts is growing fast, companies require a stable ecosystem to focus on their value proposal and cost efficiency (does a contract that does the same thing already exist<sup>(4)</sup>?).
+The learning curves are still massive for companies planning to go blockchain, and the absence of unified standards is still a leading blocker. While the portfolio of blockchain(s) layered infrastructures<sup>(3)</sup> and Smart Contracts is growing fast, companies require a stable ecosystem to focus on their value proposal and cost efficiency (does a contract that does the same thing already exist<sup>(4)</sup>?).
+
+### Trust and Transparency
+
+[remark public blockchains as the solution to go vs. private blockchains, as it's all about trust and transparency!]
 
 ## Problem Solving Proposition
 
 Blockchain Web Services provides a solution to raise blockchain adoption by delivering:
 
  <ul class="fa-ul">
-  <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span>A Unified Smart Contracts API for developers and companies to use Blockchain(s) as any Web Service they are already used to.</li>
+  <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span>A Unified Smart Contracts API for developers and companies to use public Blockchain(s) as any Web Service they are already used to.</li>
   <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span>Real-time Blockchain fees trading to transparently manage funds required to call Smart Contracts<sup>(5)</sup> .</li>
   <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span>Platform built-in Smart Contracts for the most demanded use cases (initial launch is planned to include Database primitives — read and write data to the blockchain(s), Data Assets, and Supply Chain solutions).</li> 
   <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span>A Marketplace for developers to get rewarded when adding new Smart Contracts and for companies to find and consume Smart Contracts easily.</li>
