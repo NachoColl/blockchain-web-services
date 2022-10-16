@@ -4,10 +4,7 @@
 <div style="position: fixed; top: 10px; left: 10px; border: 0;"> White Paper
 </div>
 
-<br/>
 (version under construction)
-
-<br/>
 
 <p align="center" style="color:gray;padding-bottom:10px; ">Abstract</p>
 
@@ -25,14 +22,14 @@ Regarding sustainability, Blockchain Web Services follows a sustainable economic
 
 Blockchain technologies are rising at an incredible rate. The 1st generation (aka Bitcoin) delivered the required trust for financial transactions; Just a few years later, a 2nd generation (aka Ethereum) stretched to countless scenarios through the use of Smart Contracts; Today, a set of new initiatives is already pushing hard to support scalability and mature growth.
 
-But the initial hype on Smart Contracts is getting weighed by the blockchain ecosystem infrastructure complexities, and challenges arise when discussing market adoption<sup>(3)</sup>.
+But the initial hype on Smart Contracts is getting weighed by the blockchain ecosystem infrastructure complexities, and challenges arise when discussing market adoption.
 
 <p align="center" style="padding-bottom:10px; padding-top:20px;">
   <img src="img/Gartner_Blockchain_Market-Growth.jpeg" /><br/>
 <span style="font-size:14px">Gartner - Despite the fast growth of the blockchain ecosystem,<br/> its complexity makes it difficult to navigate for business leaders <sup>(2)</sup>.</span>
 </p>
 
-The learning curves are still massive for companies planning to go blockchain, and the absence of unified standards is still a leading blocker. While diversity creates an extensive portfolio of Lx blockchains<sup>(4)</sup> and smart contracts (does a contract that does the same thing already exist<sup>(5)</sup>?), companies require a stable ecosystem to focus on their value proposal and efficiency. 
+The learning curves are still massive for companies planning to go blockchain, and the absence of unified standards is still a leading blocker. While diversity creates an extensive portfolio of Lx blockchains<sup>(3)</sup> and smart contracts (does a contract that does the same thing already exist<sup>(4)</sup>?), companies require a stable ecosystem to focus on their value proposal and efficiency. 
 
 ## Problem Solving Proposition
 
@@ -225,10 +222,8 @@ The public launch will run one year after the Seed event - the roadmap is runnin
 
 (2) Gartner’s 2021 CIO survey & Digital Disruption Profile: Blockchain’s Radical Promise Spans Business and Society - Gartner Research - Rajesh Kandaswamy, David Furlonger, Andrew Stevens
 
-(3) 10 Challenges to the Adoption of Smart Contracts - PwC, PriceWaterhouseCoopers - blog.pwc.lu/smart-contracts-adoption-challenges
+(3) Blockchain Layer 1 vs. Layer 2 Scaling Solutions - Binance Academy - https://academy.binance.com/en/articles/blockchain-layer-1-vs-layer-2-scaling-solutions
 
-(4) Blockchain Layer 1 vs. Layer 2 Scaling Solutions - Binance Academy - https://academy.binance.com/en/articles/blockchain-layer-1-vs-layer-2-scaling-solutions
+(4) smart contract best practices - Cardano Foundation - https://docs.cardano.org/plutus/sc-best-practices
 
-(5) smart contract best practices - Cardano Foundation - https://docs.cardano.org/plutus/sc-best-practices
-
-(6) How Gas Fees Work on the Ethereum Blockchain - JAKE FRANKENFIELD - www.investopedia.com/terms/g/gas-ethereum.asp
+(5) How Gas Fees Work on the Ethereum Blockchain - JAKE FRANKENFIELD - www.investopedia.com/terms/g/gas-ethereum.asp
