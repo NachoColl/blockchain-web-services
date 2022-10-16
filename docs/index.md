@@ -10,12 +10,14 @@
 
 ## Abstract
 
-Blockchain Web Services is a Unified API enabling companies to consume blockchain Smart Contracts as web services - we aim to help companies build on top of blockchain and embrace the blockchain revolution by removing infrastructure complexities from creative workflows while improving decision-making "attributes of innovation" (Relative Advantage, Compatibility, Complexity, Triability, and Observability )<sup>1</sup>.
+Blockchain Web Services is a Unified API enabling companies to consume blockchain Smart Contracts as web services.
+
+We aim to help companies build on top of blockchain and embrace the blockchain revolution by removing infrastructure complexities from creative workflows while improving decision-making "attributes of innovation"<sup>1</sup> (Relative Advantage, Compatibility, Complexity, Triability, and Observability ).
 
 
 <p align="center" style="padding-bottom:10px; padding-top:20px;">
   <img src="img/Gartner_Blockchain_Market-Growth.jpeg" /><br/>
-<span style="font-size:14px">Gartner - Despite the fast growth of the blockchain ecosystem, its complexity makes it difficult to navigate for business leaders<sup>(2)</sup>.</span>
+<span style="font-size:14px">Gartner - Despite the fast growth of the blockchain ecosystem, its complexity makes it difficult to navigate for business leaders <sup>(2)</sup>.</span>
 </p>
 
 
@@ -35,7 +37,7 @@ Blockchain technologies are rising at an incredible rate. The 1st generation (ak
 
 But the initial hype on Smart Contracts is getting weighed by the blockchain ecosystem infrastructure complexities, and challenges arise when discussing market adoption<sup>(4)</sup>. The learning curves are still massive for companies planning to go blockchain, and the absence of blockchain(s) usage standards is still a leading blocker.
 
-We should also mention that while diversity creates an extensive portfolio, companies require a stable ecosystem to focus on their value proposition and improve efficiency - does a contract that does the same thing already exist<sup>(5)</sup>?
+ While diversity creates an extensive portfolio - multiple L1/L2 blockchains<sup>(5)</sup> - companies require a stable ecosystem to focus on their value proposition and improve efficiency - does a contract that does the same thing already exist<sup>(5)</sup>?
 
 ## Problem Solving Proposition
 
@@ -232,6 +234,8 @@ The public launch will run one year after the Seed event - the roadmap is runnin
 
 (4) 10 Challenges to the Adoption of Smart Contracts - PwC, PriceWaterhouseCoopers - blog.pwc.lu/smart-contracts-adoption-challenges
 
-(5) smart contract best practices - Cardano Foundation - https://docs.cardano.org/plutus/sc-best-practices
+(5) Blockchain Layer 1 vs. Layer 2 Scaling Solutions - Binance Academy - https://academy.binance.com/en/articles/blockchain-layer-1-vs-layer-2-scaling-solutions
 
-(6) How Gas Fees Work on the Ethereum Blockchain - JAKE FRANKENFIELD - www.investopedia.com/terms/g/gas-ethereum.asp
+(6) smart contract best practices - Cardano Foundation - https://docs.cardano.org/plutus/sc-best-practices
+
+(7) How Gas Fees Work on the Ethereum Blockchain - JAKE FRANKENFIELD - www.investopedia.com/terms/g/gas-ethereum.asp
