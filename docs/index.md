@@ -6,9 +6,10 @@
 
 <br/>
 (version under construction)
+
 <br/>
 
-## Abstract
+<p align="center" style="color:gray;padding-bottom:10px; ">Abstract</p>
 
 Blockchain Web Services is a Unified Smart Contracts API enabling companies to consume blockchain Smart Contracts as regular web services.
 
