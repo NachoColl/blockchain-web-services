@@ -28,8 +28,9 @@ Blockchain technologies are rising at an incredible rate.
 
 The 1st generation (aka Bitcoin) delivered the required trust for financial transactions; Just a few years later, a 2nd generation (aka Ethereum) stretched to countless scenarios through the use of Smart Contracts; Today, a set of new initiatives is already pushing hard to support scalability and mature growth.
 
-But the initial hype on Smart Contracts is getting weighed by the blockchain ecosystem infrastructure complexities. Deep challenges can be found when discussing adoption. The learning curves are still massive for companies, with the absence of usage standards and the lack of efficiency in finding and using already existing solutions, among others <sup>(2)</sup>.
+But the initial hype on Smart Contracts is getting weighed by the blockchain ecosystem infrastructure complexities, and challenges arise when discussing market adoption<sup>(2)</sup>. The learning curves are still massive for companies planning to go blockchain, and the absence of blockchain(s) usage standards is still a leading blocker.
 
+We should also mention that while diversity creates an extensive portfolio, companies require a stable ecosystem to focus on their value proposition and improve efficiency - does a contract that does the same thing already exist<sup>(3)</sup>?
 
 ## Problem Solving Proposition
 
@@ -93,7 +94,7 @@ $.ajax({
 
 ### Realtime Fees Trading
 
-To execute Smart Contracts and write into Blockchain, you need fuel - that will cost you some money (3). If a company, for example, wants to write in Blockchain their contract's signatures, every signature operation call will require the company to have some funds available. If they use the Ethereum blockchain, they will have to manage how to buy some ETH just before every call (fiat exchange value may go up or down in time).
+To execute Smart Contracts and write into Blockchain, you need fuel - that will cost you some money <sup>(4)</sup>. If a company, for example, wants to write in Blockchain their contract's signatures, every signature operation call will require the company to have some funds available. If they use the Ethereum blockchain, they will have to manage how to buy some ETH just before every call (fiat exchange value may go up or down in time).
 
 Blockchain Web Services executes any required funding real-time so users don't have to deal with it.
 
@@ -222,4 +223,6 @@ The public launch will run one year after the Seed event - the roadmap is runnin
 
 (2) 10 Challenges to the Adoption of Smart Contracts - PwC, PriceWaterhouseCoopers - blog.pwc.lu/smart-contracts-adoption-challenges
 
-(3) How Gas Fees Work on the Ethereum Blockchain - JAKE FRANKENFIELD - www.investopedia.com/terms/g/gas-ethereum.asp
+(3) smart contract best practices - Cardano Foundation - https://docs.cardano.org/plutus/sc-best-practices
+
+(4) How Gas Fees Work on the Ethereum Blockchain - JAKE FRANKENFIELD - www.investopedia.com/terms/g/gas-ethereum.asp
