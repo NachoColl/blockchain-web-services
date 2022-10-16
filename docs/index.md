@@ -10,27 +10,32 @@
 
 ## Abstract
 
-Blockchain Web Services is a Unified API enabling companies to consume blockchain Smart Contracts as web services. We aim to help companies build on top of blockchain and embrace the blockchain revolution by removing infrastructure complexities from creative workflows. 
+Blockchain Web Services is a Unified API enabling companies to consume blockchain Smart Contracts as web services - we aim to help companies build on top of blockchain and embrace the blockchain revolution by removing infrastructure complexities from creative workflows while improving decision-making "attributes of innovation" (Relative Advantage, Compatibility, Complexity, Triability, and Observability )<sup>1</sup>.
+
+
+<p align="center" style="padding-bottom:10px; padding-top:20px;">
+  <img src="img/Gartner_Blockchain_Market-Growth.jpeg" /><br/>
+<span style="font-size:14px">Gartner - Despite the fast growth of the blockchain ecosystem, its complexity makes it difficult to navigate for business leaders<sup>(2)</sup>.</span>
+</p>
+
+
 
 In addition, Blockchain Web Services incorporates a Marketplace for developers to publish their Smart Contracts and for companies to get access to hundreds of validated, secured, and state-of-the-art solutions.
 
 Blockchain Web Services follows a sustainable loop in economics, sustainability, and growth. On one side, the token funds the platform's construction and rewards the community; on the other, the revenue rises from companies using the Unified Smart Contracts API. 
 
-<br/>
 ## Introduction
 
-Blockchain technologies are rising at an incredible rate. 
+Blockchain technologies are rising at an incredible rate. The 1st generation (aka Bitcoin) delivered the required trust for financial transactions; Just a few years later, a 2nd generation (aka Ethereum) stretched to countless scenarios through the use of Smart Contracts; Today, a set of new initiatives is already pushing hard to support scalability and mature growth.
 
 <p align="center" style="padding-bottom:10px; padding-top:20px;">
   <img src="img/Blockchain_Market_Growth.jpg" /><br/>
-<span style="font-size:14px">The blockchain technology market share is expected to increase by USD 6.25 billion from 2020 to 2025, and the market's growth momentum will accelerate at a CAGR of 32.39% <sup>(1)</sup>.</span>
+<span style="font-size:14px">The blockchain technology market share is expected to increase by USD 6.25 billion from 2020 to 2025, and the market's growth momentum will accelerate at a CAGR of 32.39% <sup>(3)</sup>.</span>
 </p>
 
-The 1st generation (aka Bitcoin) delivered the required trust for financial transactions; Just a few years later, a 2nd generation (aka Ethereum) stretched to countless scenarios through the use of Smart Contracts; Today, a set of new initiatives is already pushing hard to support scalability and mature growth.
+But the initial hype on Smart Contracts is getting weighed by the blockchain ecosystem infrastructure complexities, and challenges arise when discussing market adoption<sup>(4)</sup>. The learning curves are still massive for companies planning to go blockchain, and the absence of blockchain(s) usage standards is still a leading blocker.
 
-But the initial hype on Smart Contracts is getting weighed by the blockchain ecosystem infrastructure complexities, and challenges arise when discussing market adoption<sup>(2)</sup>. The learning curves are still massive for companies planning to go blockchain, and the absence of blockchain(s) usage standards is still a leading blocker.
-
-We should also mention that while diversity creates an extensive portfolio, companies require a stable ecosystem to focus on their value proposition and improve efficiency - does a contract that does the same thing already exist<sup>(3)</sup>?
+We should also mention that while diversity creates an extensive portfolio, companies require a stable ecosystem to focus on their value proposition and improve efficiency - does a contract that does the same thing already exist<sup>(5)</sup>?
 
 ## Problem Solving Proposition
 
@@ -94,7 +99,7 @@ $.ajax({
 
 ### Realtime Fees Trading
 
-To execute Smart Contracts and write into Blockchain, you need fuel - that will cost you some money <sup>(4)</sup>. If a company, for example, wants to write in Blockchain their contract's signatures, every signature operation call will require the company to have some funds available. If they use the Ethereum blockchain, they will have to manage how to buy some ETH just before every call (fiat exchange value may go up or down in time).
+To execute Smart Contracts and write into Blockchain, you need fuel - that will cost you some money <sup>(6)</sup>. If a company, for example, wants to write in Blockchain their contract's signatures, every signature operation call will require the company to have some funds available. If they use the Ethereum blockchain, they will have to manage how to buy some ETH just before every call (fiat exchange value may go up or down in time).
 
 Blockchain Web Services executes any required funding real-time so users don't have to deal with it.
 
@@ -219,10 +224,14 @@ The public launch will run one year after the Seed event - the roadmap is runnin
 
 #### references
 
-(1) Blockchain Technology Market by End-user and Geography - Forecast and Analysis 2021-2025 - tehnavio, SKU: IRTNTR43773
+(1) Diffusion of Innovations - Everett M. Rogers
 
-(2) 10 Challenges to the Adoption of Smart Contracts - PwC, PriceWaterhouseCoopers - blog.pwc.lu/smart-contracts-adoption-challenges
+(2) Gartner’s 2021 CIO survey - Gartner
 
-(3) smart contract best practices - Cardano Foundation - https://docs.cardano.org/plutus/sc-best-practices
+(3) Blockchain Technology Market by End-user and Geography - Forecast and Analysis 2021-2025 - tehnavio, SKU: IRTNTR43773
 
-(4) How Gas Fees Work on the Ethereum Blockchain - JAKE FRANKENFIELD - www.investopedia.com/terms/g/gas-ethereum.asp
+(4) 10 Challenges to the Adoption of Smart Contracts - PwC, PriceWaterhouseCoopers - blog.pwc.lu/smart-contracts-adoption-challenges
+
+(5) smart contract best practices - Cardano Foundation - https://docs.cardano.org/plutus/sc-best-practices
+
+(6) How Gas Fees Work on the Ethereum Blockchain - JAKE FRANKENFIELD - www.investopedia.com/terms/g/gas-ethereum.asp
