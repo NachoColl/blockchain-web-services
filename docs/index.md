@@ -45,7 +45,7 @@ Blockchain Web Services provides a solution to raise blockchain adoption by deli
 <br/>
 
 <p align="center">
-  <img src="img/BWS_HL_Components_FULL.svg" /><br/>
+  <img src="img/BWS_HL_Components.svg" /><br/>
 <i class="fa-solid fa-quote-left"></i>&nbsp;The Amazon Web Services for the Blockchain(s)&nbsp;<i class="fa-solid fa-quote-right"></i>
 </p>
 
