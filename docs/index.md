@@ -16,7 +16,7 @@ In addition, it also incorporates a Marketplace for developers to publish their 
 
 We aim to help companies build on top of blockchain and embrace the blockchain revolution by removing infrastructure complexities from creative workflows while improving decision-making "attributes of innovation"<sup>1</sup> (Relative Advantage, Compatibility, Complexity, Triability, and Observability).
 
-Regarding sustainability, Blockchain Web Services follows a sustainable economic and growth loop. The network token funds the platform's building and rewards the community for extending the offerings. At the same time, the revenue grows when companies use the Unified Smart Contracts API.
+Regarding sustainability, Blockchain Web Services follows a sustainable economic and growth loop. Blockchain Web Service token funds the platform's building and rewards the community for extending the offering, while the revenue grows when companies use the Unified Smart Contracts API.
 
 <p align="center" style="color:gray;padding-bottom:20px; padding-top:20px;">_________</p>
 
@@ -24,14 +24,14 @@ Regarding sustainability, Blockchain Web Services follows a sustainable economic
 
 Blockchain technologies are rising at an incredible rate. The 1st generation (aka Bitcoin) delivered the required trust for financial transactions; Just a few years later, a 2nd generation (aka Ethereum) stretched to countless scenarios through the use of Smart Contracts; Today, a set of new initiatives is already pushing hard to support scalability and mature growth.
 
+But the initial hype on Smart Contracts is getting weighed by the blockchain ecosystem infrastructure complexities, and challenges arise when discussing market adoption<sup>(3)</sup>.
+
 <p align="center" style="padding-bottom:10px; padding-top:20px;">
   <img src="img/Gartner_Blockchain_Market-Growth.jpeg" /><br/>
-<span style="font-size:14px">Gartner - Despite the fast growth of the blockchain ecosystem, its complexity makes it difficult to navigate for business leaders <sup>(2)</sup>.</span>
+<span style="font-size:14px">Gartner - Despite the fast growth of the blockchain ecosystem,<br/> its complexity makes it difficult to navigate for business leaders <sup>(2)</sup>.</span>
 </p>
 
-But the initial hype on Smart Contracts is getting weighed by the blockchain ecosystem infrastructure complexities, and challenges arise when discussing market adoption<sup>(3)</sup>. The learning curves are still massive for companies planning to go blockchain, and the absence of blockchain(s) usage standards is still a leading blocker.
-
- While diversity creates an extensive portfolio - multiple L1/L2 blockchains<sup>(4)</sup> - companies require a stable ecosystem to focus on their value proposition and improve efficiency - does a contract that does the same thing already exist<sup>(5)</sup>?
+The learning curves are still massive for companies planning to go blockchain, and the absence of unified standards is still a leading blocker. While diversity creates an extensive portfolio of Lx blockchains<sup>(4)</sup> and smart contracts (does a contract that does the same thing already exist<sup>(5)</sup>?), companies require a stable ecosystem to focus on their value proposal and efficiency. 
 
 ## Problem Solving Proposition
 
