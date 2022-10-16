@@ -31,7 +31,8 @@ But the initial hype on Smart Contracts is getting weighed by the blockchain eco
 
 The learning curves are still massive for companies planning to go blockchain, and the absence of unified standards is still a leading blocker. While the portfolio of blockchain(s) layered infrastructures<sup>(3)</sup> and Smart Contracts is growing fast, companies require a stable ecosystem to focus on their value proposal and improve implementation cost efficiency (does a contract that does the same thing already exist<sup>(4)</sup>?).
 
-[extend/improve]
+<mark>[extend/improve]</mark>
+
 
 ### Trust and Transparency
 
@@ -39,7 +40,7 @@ The learning curves are still massive for companies planning to go blockchain, a
 
 ## Problem Solving Proposition
 
-[extend/improve]
+<mark>[extend/improve]</mark>
 
 Blockchain Web Services provides a solution to raise blockchain adoption by delivering:
 
@@ -59,7 +60,7 @@ Blockchain Web Services provides a solution to raise blockchain adoption by deli
 
 ### A Unified Blockchain(s) API
 
-[extend/improve]
+<mark>[extend/improve]</mark>
 
 Figure 1 shows Blockchain Web Services Unified API aims:
 
@@ -107,7 +108,7 @@ To execute Smart Contracts and write into Blockchain, you need fuel - that will 
 
 Blockchain Web Services executes any required funding real-time so users don't have to deal with it.
 
-[extend/improve]
+<mark>[extend/improve]</mark>
 
 <p align="center">
   <img src="img/Real-TimeFees.svg" /><br/>
@@ -116,11 +117,11 @@ Blockchain Web Services executes any required funding real-time so users don't h
 
 Platform customers pay a bill at the end of the period as they currently do when consuming any other online service.
 
-[extend/improve]
+<mark>[extend/improve]</mark>
 
 ## A Smart Contract Marketplace Community
 
-[extend/improve]
+<mark>[extend/improve]</mark>
 
 As previously mentioned, we will provide solutions that satisfy some of the market's most demanded use cases. We will start our journey by adding Database primitives to read and write data to the blockchain(s) and move up by adding a Supply Chain Management API or offering a Data/AI assets solution, among others.
 
@@ -163,7 +164,7 @@ Blockchain Web Services token will get utilized for:
 
 ### Tokenomics 
 
-[in progress]
+<mark>[under construction]</mark>
 
 We aim to boost the overall Blockchain adoption, meaning we want the community to benefit from the values it implies. And we want the same community to be able to participate and be part of the journey with us. 
 
