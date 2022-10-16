@@ -20,26 +20,28 @@ Regarding sustainability, Blockchain Web Services follows a sustainable economic
 
 ## Introduction
 
-Blockchain technologies are rising at an incredible rate. The 1st generation (aka Bitcoin) delivered the required trust for financial transactions; Just a few years later, a 2nd generation (aka Ethereum) stretched to countless scenarios through the use of Smart Contracts; Today, a set of new initiatives is already pushing hard to support scalability and mature growth.
+Blockchain technologies are rising at an incredible rate. The 1st generation (aka Bitcoin) delivered the required trust for financial transactions; Just a few years later, a 2nd generation (aka Ethereum) stretched to countless scenarios through the use of Smart Contracts.
 
-But the initial hype on Smart Contracts is getting weighed by the blockchain ecosystem infrastructure complexities, and challenges arise when discussing market adoption.
+But the initial hype on Smart Contracts is getting weighed by the blockchain ecosystem complexities, and challenges arise when discussing market adoption.
 
 <p align="center" style="padding-bottom:10px; padding-top:20px;">
   <img src="img/Gartner_Blockchain_Market-Growth.jpeg" /><br/>
 <span style="font-size:14px">Gartner - Despite the fast growth of the blockchain ecosystem,<br/> its complexity makes it difficult to navigate for business leaders <sup>(2)</sup>.</span>
 </p>
 
-The learning curves are still massive for companies planning to go blockchain, and the absence of unified standards is still a leading blocker. While diversity creates an extensive portfolio of Lx blockchains<sup>(3)</sup> and smart contracts (does a contract that does the same thing already exist<sup>(4)</sup>?), companies require a stable ecosystem to focus on their value proposal and efficiency. 
+The learning curves are still massive for companies planning to go blockchain, and the absence of unified standards is still a leading blocker. 
+
+While diversity is creating an extensive portfolio of blockchains and layered infrastructures<sup>(3)</sup>, and the list of deployed Smart Contracts is growing fast, companies require a stable ecosystem to focus on their value proposal and cost efficiency (does a contract that does the same thing already exist<sup>(4)</sup>?).
 
 ## Problem Solving Proposition
 
-Blockchain Web Services provides a market solution to raise blockchain adoption by delivering:
+Blockchain Web Services provides a solution to raise blockchain adoption by delivering:
 
  <ul class="fa-ul">
-  <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span>a <strong>Unified Blockchain(s) API</strong> for developers and companies to consume Blockchain(s) as any service they are already used to,</li>
-  <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span><strong>real-time Blockchain fees trading</strong> mechanism to manage any required fund transparently,</li>
-  <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span><strong>built-in solutions for the most demanded use cases</strong>: Database primitives (writing and reading from blockchain(s)), Digital Identity, Data Assets, Supply Chain Management and many more the community of developers will add,</li> 
-  <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span> a <strong>Smart Contract Marketplace</strong> for developers to get rewarded when adding a new solution and for companies to find and consume Smart Contracts easily.</li>
+  <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span>A Unified Smart Contracts API for developers and companies to use Blockchain(s) as any Web Service they are already used to work with.</li>
+  <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span>Real-time Blockchain fees trading <sup>(5)</sup>.</li>
+  <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span>Built-in solutions for the most demanded use cases (initial launch is planned to include Database primitives, selling Data Assets and Supply Chain Management solutions).</li> 
+  <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span>A Marketplace for developers to get rewarded when adding new Smart Contracts and for companies to find and consume Smart Contracts easily.</li>
 </ul>
 
 <br/>
