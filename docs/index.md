@@ -10,7 +10,7 @@
 
 ## Abstract
 
-Blockchain Web Services is a Unified API enabling companies to consume blockchain Smart Contracts as web services. We aim to help companies build blockchain solutions and embrace the blockchain revolution by removing infrastructure complexities from creative workflows. 
+Blockchain Web Services is a Unified API enabling companies to consume blockchain Smart Contracts as web services. We aim to help companies build on top of blockchain and embrace the blockchain revolution by removing infrastructure complexities from creative workflows. 
 
 In addition, Blockchain Web Services incorporates a Marketplace for developers to publish their Smart Contracts and for companies to get access to hundreds of validated, secured, and state-of-the-art solutions.
 
@@ -19,13 +19,14 @@ Blockchain Web Services follows a sustainable loop in economics, sustainability,
 <br/>
 ## Introduction
 
-Blockchain technologies are rising at an incredible rate. The 1st generation (aka Bitcoin) delivered the required trust for financial transactions; Just a few years later, a 2nd generation (aka Ethereum) stretched to countless scenarios through the use of Smart Contracts; Today, a set of new initiatives is already pushing hard to support scalability and mature growth.
+Blockchain technologies are rising at an incredible rate. 
 
 <p align="center" style="padding-bottom:10px; padding-top:20px;">
   <img src="img/Blockchain_Market_Growth.jpg" /><br/>
 <span style="font-size:14px">The blockchain technology market share is expected to increase by USD 6.25 billion from 2020 to 2025, and the market's growth momentum will accelerate at a CAGR of 32.39% <sup>(1)</sup>.</span>
 </p>
 
+The 1st generation (aka Bitcoin) delivered the required trust for financial transactions; Just a few years later, a 2nd generation (aka Ethereum) stretched to countless scenarios through the use of Smart Contracts; Today, a set of new initiatives is already pushing hard to support scalability and mature growth.
 
 But the initial hype on Smart Contracts is getting weighed by the blockchain ecosystem infrastructure complexities. Deep challenges can be found when discussing adoption. The learning curves are still massive for companies, with the absence of usage standards and the lack of efficiency in finding and using already existing solutions, among others <sup>(2)</sup>.
 
