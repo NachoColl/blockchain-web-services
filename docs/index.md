@@ -49,7 +49,7 @@ public blockchains as the solution to go vs. private blockchains, as it's all ab
 ## Problem Solving Proposition
 
 <mark>[extend/improve]<br/>
-+ intro text
+|| add more intro text
 </mark>
 
 Blockchain Web Services provides a solution to raise blockchain adoption by delivering:
@@ -71,8 +71,8 @@ Blockchain Web Services provides a solution to raise blockchain adoption by deli
 ### A Unified Blockchain(s) API
 
 <mark>[extend/improve]<br/>
-+ intro text
-+ API economy?
+|| add intro text
+|| include API economy text, references and market volume
 </mark>
 
 Figure 1 shows Blockchain Web Services Unified API aims:
@@ -117,24 +117,28 @@ $.ajax({
 
 ### Realtime Fees Trading
 
+
+<mark>[improve writing ]</mark>
+
 To execute Smart Contracts and write into Blockchain, you need fuel - that will cost you some money <sup>(5)</sup>. If a company wants to write in Blockchain their contract's signatures, every signature operation call will require the company to have some funds available. If they use the Ethereum blockchain, they will have to manage how to buy some ETH just before every call (fiat exchange value may go up or down in time).
 
 Blockchain Web Services executes any required funding real-time so users don't have to deal with it.
-
-<mark>[extend/improve]</mark>
 
 <p align="center">
   <img src="img/Real-TimeFees.svg" /><br/>
   <strong>Figure 2: Fees trading and Blockchain Web Services token circular economy.</strong>
 </p>
 
+<mark>[extend/improve]<br/>
+|| add more/improved text </mark>
+
 Platform customers pay a bill at the end of the period as they currently do when consuming any other online service.
 
-<mark>[extend/improve]</mark>
+
 
 ## A Smart Contract Marketplace Community
 
-<mark>[extend/improve]</mark>
+<mark>[replace/extend]</mark>
 
 As previously mentioned, we will provide solutions that satisfy some of the market's most demanded use cases. We will start our journey by adding Database primitives to read and write data to the blockchain(s) and move up by adding a Supply Chain Management API or offering a Data/AI assets solution, among others.
 
