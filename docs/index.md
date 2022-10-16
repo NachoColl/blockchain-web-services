@@ -10,11 +10,11 @@
 
 Blockchain Web Services is a Unified Smart Contracts API enabling companies to consume blockchain Smart Contracts as regular web services.
 
-In addition, it also incorporates a Marketplace for developers to publish their Smart Contracts and for companies to get access to hundreds of validated, secured, and state-of-the-art blockchain solutions.
+In addition, it also incorporates a Marketplace for developers to publish their Smart Contracts and for companies to get access to hundreds of validated and secured state-of-the-art blockchain solutions.
 
-We aim to help companies build on top of blockchain and embrace the blockchain revolution by removing infrastructure complexities from creative workflows while improving decision-making "attributes of innovation"<sup>1</sup> (Relative Advantage, Compatibility, Complexity, Triability, and Observability).
+We aim to help companies build on top of Smart Contracts and embrace the blockchain revolution by removing infrastructure complexities from creative workflows while improving decision-making "attributes of innovation"<sup>1</sup> (Relative Advantage, Compatibility, Complexity, Triability, and Observability).
 
-Regarding sustainability, Blockchain Web Services follows a sustainable economic and growth loop. Blockchain Web Service token funds the platform's building and rewards the community for extending the offering, while the revenue grows when companies use the Unified Smart Contracts API.
+Regarding sustainability, Blockchain Web Services follows a sustainable economic and growth loop. Blockchain Web Service token funds the platform's-building and rewards the community for extending it, while the revenue grows when companies use the Unified Smart Contracts API.
 
 <p align="center" style="color:gray;padding-bottom:20px; padding-top:20px;">_________</p>
 
