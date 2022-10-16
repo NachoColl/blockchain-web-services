@@ -14,7 +14,7 @@ In addition, it also incorporates a Marketplace for developers to publish their 
 
 We aim to help companies build on top of Smart Contracts and embrace the blockchain revolution by removing infrastructure complexities from creative workflows while improving decision-making "attributes of innovation"<sup>1</sup> (Relative Advantage, Compatibility, Complexity, Triability, and Observability).
 
-Regarding sustainability, Blockchain Web Services follows a sustainable economic and growth loop. Our Ethereum network token funds the platform's-building and rewards the community for extending it, while the revenue grows when companies use the Unified Smart Contracts API.
+Regarding sustainability, Blockchain Web Services follows a sustainable economic and growth loop. Network Ethereum token funds the platform's-building and rewards the community for extending it, while the revenue grows when companies use the Unified Smart Contracts API.
 
 <p align="center" style="color:gray;padding-bottom:20px; padding-top:20px;">_________</p>
 
@@ -29,9 +29,7 @@ But the initial hype on Smart Contracts is getting weighed by the blockchain eco
 <span style="font-size:14px">Gartner - Despite the fast growth of the blockchain ecosystem,<br/> its complexity makes it difficult to navigate for business leaders <sup>(2)</sup>.</span>
 </p>
 
-The learning curves are still massive for companies planning to go blockchain, and the absence of unified standards is still a leading blocker. 
-
-While diversity is creating an extensive portfolio of blockchains and layered infrastructures<sup>(3)</sup>, and the list of deployed Smart Contracts is growing fast, companies require a stable ecosystem to focus on their value proposal and cost efficiency (does a contract that does the same thing already exist<sup>(4)</sup>?).
+The learning curves are still massive for companies planning to go blockchain, and the absence of unified standards is still a leading blocker. While diversity is creating an extensive portfolio of blockchain(s) layered infrastructures<sup>(3)</sup>, and the list of deployed Smart Contracts is growing fast, companies require a stable ecosystem to focus on their value proposal and cost efficiency (does a contract that does the same thing already exist<sup>(4)</sup>?).
 
 ## Problem Solving Proposition
 
