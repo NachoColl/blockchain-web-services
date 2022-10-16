@@ -29,18 +29,28 @@ But the initial hype on Smart Contracts is getting weighed by the blockchain eco
 <span style="font-size:14px">Gartner - Despite the fast growth of the blockchain ecosystem,<br/> its complexity makes it difficult to navigate for business leaders <sup>(2)</sup>.</span>
 </p>
 
+<mark>[extend/improve]<br/>
+improve overall understanding of following:
+</mark>
+
 The learning curves are still massive for companies planning to go blockchain, and the absence of unified standards is still a leading blocker. While the portfolio of blockchain(s) layered infrastructures<sup>(3)</sup> and Smart Contracts is growing fast, companies require a stable ecosystem to focus on their value proposal and improve implementation cost efficiency (does a contract that does the same thing already exist<sup>(4)</sup>?).
 
-<mark>[extend/improve]</mark>
+
 
 
 ### Trust and Transparency
 
-[remark public blockchains as the solution to go vs. private blockchains, as it's all about trust and transparency!]
+<mark>[extend/improve]
+<br/>
+public blockchains as the solution to go vs. private blockchains, as it's all about trust and transparency (transparency = public)!
+</mark>
+
 
 ## Problem Solving Proposition
 
-<mark>[extend/improve]</mark>
+<mark>[extend/improve]<br/>
++ intro text
+</mark>
 
 Blockchain Web Services provides a solution to raise blockchain adoption by delivering:
 
@@ -60,7 +70,10 @@ Blockchain Web Services provides a solution to raise blockchain adoption by deli
 
 ### A Unified Blockchain(s) API
 
-<mark>[extend/improve]</mark>
+<mark>[extend/improve]<br/>
++ intro text
++ API economy?
+</mark>
 
 Figure 1 shows Blockchain Web Services Unified API aims:
 
