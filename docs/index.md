@@ -19,7 +19,7 @@ On the economics, Blockchain Web Service follows a sustainable economic and grow
 
 <p align="center">
   <img src="img/BWS_HL_Components.svg" /><br/>
-<i class="fa-solid fa-quote-left"></i>&nbsp;The Amazon Web Services for the Blockchain(s)&nbsp;<i class="fa-solid fa-quote-right"></i>
+<i class="fa-solid fa-quote-left"></i>&nbsp;Figure 1. The Amazon Web Services for the Blockchain(s)&nbsp;<i class="fa-solid fa-quote-right"></i>
 </p>
 
 <p align="center" style="color:gray;padding-bottom:20px; padding-top:20px;">_________</p>
@@ -33,7 +33,7 @@ But the initial hype on Smart Contracts is getting weighed by the blockchain eco
 
 <p align="center" style="padding-bottom:10px; padding-top:20px;">
   <img src="img/Gartner_SmartContracts.jpeg" /><br/>
-<span style="font-size:14px">Gartner - Despite the fast growth of the blockchain ecosystem,<br/> its complexity makes it difficult to navigate for business leaders <sup>(2)</sup>.</span>
+<span style="font-size:14px">Figure 2. Gartner - Despite the fast growth of the blockchain ecosystem,<br/> its complexity makes it difficult to navigate for business leaders <sup>(2)</sup>.</span>
 </p>
 
 
@@ -61,7 +61,7 @@ APIs are the preferred technology to build applications, and the reason the glob
 
 <p align="center" style="padding-bottom:10px; padding-top:20px;">
   <img src="img/API_MarketSize.jpg" /><br/>
-<span style="font-size:14px">API Market Size and Forecast.</span>
+<span style="font-size:14px">Figure 3. API Market Size and Forecast.</span>
 </p>
 
 We want that technology also to drive Blockchain Smart Contracts growth, and we are building Blockchain Web Services API to fulfill the following principles:
@@ -104,7 +104,7 @@ $.ajax({
   },
 });</code></pre>
 <p align="center">
-<strong>Figure 1: A Unified API Interface call example.</strong>
+<strong>Figure 4. A Unified API Interface call example.</strong>
 </p>
 
 ### Realtime Fees Trading
@@ -118,14 +118,14 @@ At some point, company developers will have to deal with employing a credit card
 
 <p align="center">
   <img src="img/Real-TimeFees4Customer.jpeg" /><br/>
-  <strong>Figure 2: Fees trading and Blockchain Web Services token circular economy.</strong>
+  <strong>Figure 5. Fees trading and Blockchain Web Services token circular economy.</strong>
 </p>
 
 Blockchain Web Services implements an innovative approach: the platform deals with any required funding in real-time, so users do not have to deal with it.
 
 <p align="center">
   <img src="img/Real-TimeFees.jpeg" /><br/>
-  <strong>Figure 2: Fees trading and Blockchain Web Services token circular economy.</strong>
+  <strong>Figure 6. Fees trading and Blockchain Web Services token circular economy.</strong>
 </p>
 
 Blockchain Web Services customers pay a bill at the end of the period as they currently do when utilizing any other online service or API. 
@@ -139,7 +139,7 @@ We incorporate a Marketplace of Smart Contracts where experienced blockchain dev
 
 <p align="center">
   <img src="img/Marketplace_Overview.jpeg" /><br/>
-  <strong>Figure 2: Fees trading and Blockchain Web Services token circular economy.</strong>
+  <strong>Figure 7. Fees trading and Blockchain Web Services token circular economy.</strong>
 </p>
 
 ## Utility Token
@@ -164,7 +164,8 @@ Blockchain Web Services has the following actors,
 
 
 <p align="center">
-  <img src="img/UtilityToken_CircularEconomy.jpg" />
+  <img src="img/UtilityToken_CircularEconomy.jpg" /><br/>
+  <strong>Figure 8. Fees trading and Blockchain Web Services token circular economy.</strong>
 </p>
 
 To build a circular economy, Blockchain Web Services token will get utilized as shown in Figure 7 use cases:
@@ -196,8 +197,10 @@ Early-stage investors have a six-month lockup post-network launch. After the loc
 
 Initial Sale Token Price
 
-Seed	Private	Public
-$0.12	$0.45	$0.60
+|  Seed |  Private |  Public |  
+|---|---|---|
+| $0.12  | $0.45  | $0.60  |  
+
 
 Token Circular Loop
 
