@@ -37,13 +37,14 @@ But the initial hype on Smart Contracts is getting weighed by the blockchain eco
 </p>
 
 While the portfolio of blockchain infrastructures<sup>(3)</sup> and the number of deployed Smart Contracts is growing fast, companies are reluctant to start their journey as it is too complex for them to manage the technology. 
+
 Which Blockchain should I choose? How do I manage and secure my Wallet? How do I pay network recurrent Fees? Should I build my Smart Contracts from scratch? Are there state-of-the-art Solutions already built that I could use? 
 
 Blockchain Web Services brings an answer to those questions.
 
 ## Problem Solving Proposition
 
-To accelerate the Smart Contracts market, we intend Blockchain Web Services to provide:
+To accelerate the Smart Contracts market adoption, we intend Blockchain Web Services to provide:
 
  <ul class="fa-ul">
   <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span><strong>A Unified API platform</strong> for developers and companies to call public Blockchain(s) Smart Contracts as any Web Service they are already used to.</li>
@@ -51,8 +52,6 @@ To accelerate the Smart Contracts market, we intend Blockchain Web Services to p
   <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span><strong>Built-in Smart Contracts</strong> for the most demanded use cases (initial launch is planned to include Database primitives — read and write data to the blockchain(s), NFT (Non-Fungible Tokens) & Data Assets management Smart Contracts, and a Supply Chain solution to build auditable company workflows).</li> 
  
 </ul>
-
-<br/>
 
 ### A Unified Blockchain(s) API
 
@@ -72,8 +71,6 @@ We want that technology also to drive Blockchain Smart Contracts growth, and we 
 
 To show how Blockchain Web Services implements such principles, Figure 4 reveals an example of the platform API service. 
 Any company or developer can start using Blockchain Web Services API with no Blockchain or Smart Contract previous knowledge and without the need to have and secure a Wallet or to exchange USD to pay transaction fees.
-
-<br/>
 
 <pre><code class="js">var parameters = {
   contract: "Ethereum.Database.Immutable",
@@ -114,15 +111,14 @@ As an example, if a company wants to use Smart Contracts to write its document�
 
 At some point, company developers will have to deal with employing a credit card or bank account to buy ETH recurrently and estimate how much gas they require at any time. 
 
-
-<p align="center">
+<p align="center" style="padding-bottom:10px; padding-top:20px;">
   <img src="img/Real-TimeFees4Customer.jpeg" /><br/>
   <strong>Figure 5. Customers managing Fees to call Smart Contracts.</strong>
 </p>
 
-Blockchain Web Services implements an innovative approach: the platform deals with any required funding in real-time, so users do not have to deal with it.
+Blockchain Web Services implements an innovative approach: the platform trades with any required funding in real-time, so users do not have to deal with it.
 
-<p align="center">
+<p align="center" style="padding-bottom:10px; padding-top:20px;">
   <img src="img/Real-TimeFees.jpeg" /><br/>
   <strong>Figure 6. Fees trading and Blockchain Web Services token circular economy.</strong>
 </p>
@@ -136,7 +132,7 @@ To build a loop of sustained platform growth, Blockchain Web Services’ offerin
 
 We incorporate a Marketplace of Smart Contracts where experienced blockchain developers will publish their work (and get a profit from it), and companies will find best-in-class solutions that are easy to use through our platform Smart Contracts API approach.
 
-<p align="center">
+<p align="center" style="padding-bottom:10px; padding-top:20px;">
   <img src="img/Marketplace_Overview.jpeg" /><br/>
   <strong>Figure 7. Blockchain Web services Marketplace.</strong>
 </p>
@@ -162,49 +158,51 @@ Blockchain Web Services has the following actors,
 -	The platform team, whose objective is to develop the built-in solution APIs and engage the community.
 
 
-<p align="center">
+<p align="center" style="padding-bottom:10px; padding-top:20px;">
   <img src="img/UtilityToken_CircularEconomy.jpg" /><br/>
   <strong>Figure 8. Utility token circular economy.</strong>
 </p>
 
 To build a circular economy, Blockchain Web Services token will get utilized as shown in Figure 7 use cases:
 
-•	Every API call consuming a Smart Contract will require paying a fee in our utility token (such fee charge will also get transparently managed by the platform).
+-	Every API call consuming a Smart Contract will require paying a fee in our utility token (such fee charge will also get transparently managed by the platform).
 
-•	Marketplace Smart Contracts creators (developers) will get token rewards every time a platform customer consumes their solution.
+-	Marketplace Smart Contracts creators (developers) will get token rewards every time a platform customer consumes their solution.
 
-•	Smart Contract developers’ community will get funds to add innovative solutions to the platform.
+-	Smart Contract developers’ community will get funds to add innovative solutions to the platform.
 
-•	Token will fund the development, launch, and growth of the platform.
+-	Token will fund the development, launch, and growth of the platform.
 
 ### Tokenomics 
 
 
-Token type : ERC-20 
-Total Supply : 1.1 billion - deflationary, no minting of new tokens
-Token Allocation
+<strong>Token type</strong> : ERC-20
 
-<p align="center">
+<strong>Total Supply</strong> : 1.1 billion - deflationary, no minting of new tokens
+
+<strong>Token Allocation</strong>
+
+<p align="center" style="padding-bottom:10px; padding-top:20px;">
   <img src="img/Token_Allocation.png" /><br/>
   <strong>Figure 9. Token Allocation.</strong>
 </p>
 
-Vesting Periods
+<strong>Vesting Periods</strong>
 
 The founder's allocation is subject to a nine-month lockup post-network launch. After the lockup period ends, these tokens will vest monthly for another two years.
 
 Early-stage investors have a six-month lockup post-network launch. After the lockup period ends, these tokens will vest monthly for another six months.
 
-Initial Sale Token Price
+<strong>Initial Sale Token Price</strong>
 
 |  Seed |  Private |  Public |  
 |---|---|---|
 | $0.12  | $0.45  | $0.60  |  
 
 
-Token Circular Loop
+<strong>Token Circular Loop</strong>
 
-<p align="center">
+<p align="center" style="padding-bottom:10px; padding-top:20px;">
   <img src="img/Tokenomics_Loop.png" /><br/>
   <strong>Figure 10. Tokenomics Health Loop.</strong>
 </p>
