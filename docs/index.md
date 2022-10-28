@@ -47,10 +47,9 @@ Blockchain Web Services brings an answer to those questions.
 To accelerate the Smart Contracts market adoption, we intend Blockchain Web Services to provide:
 
  <ul class="fa-ul">
-  <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span><strong>A Unified API platform</strong> for developers and companies to call public Blockchain(s) Smart Contracts as any Web Service they are already used to.</li>
-  <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span><strong>A Marketplace</strong> for developers to extend the platform offering and for companies to find and consume Smart Contracts easily..</li>
+  <li style="padding-bottom:10px;"><span class="fa-li"><i class="fa-regular fa-square-check"></i></span><strong>A Unified API platform</strong> for developers and companies to call public Blockchain(s) Smart Contracts as any Web Service they are already used to.</li>
+  <li style="padding-bottom:10px;"><span class="fa-li"><i class="fa-regular fa-square-check"></i></span><strong>A Marketplace</strong> for developers to extend the platform offering and for companies to find and consume Smart Contracts easily.</li>
   <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span><strong>Built-in Smart Contracts</strong> for the most demanded use cases (initial launch is planned to include Database primitives — read and write data to the blockchain(s), NFT (Non-Fungible Tokens) & Data Assets management Smart Contracts, and a Supply Chain solution to build auditable company workflows).</li> 
- 
 </ul>
 
 ### A Unified Blockchain(s) API
@@ -64,10 +63,12 @@ APIs are the preferred technology to build applications, and the reason the glob
 
 We want that technology also to drive Blockchain Smart Contracts growth, and we are building Blockchain Web Services API to fulfill the following principles:
 
-- Consuming a Smart Contract should be as easy as calling any other Web Service (Figure 4).
-- The same API interface should be available to call a Smart Contract in Ethereum, Polygon, Cardano, or any other supported blockchain.
-- Executing Blockchain Web Services API calls should not require buying coins or tokens.
-- The use of blockchain private wallets should only be required if adding value to the solution proposal.
+ <ul class="fa-ul">
+  <li style="padding-bottom:10px;"><span class="fa-li"><i class="fa-regular fa-square-check"></i></span>Consuming a Smart Contract should be as easy as calling any other Web Service (Figure 4).</li>
+  <li style="padding-bottom:10px;"><span class="fa-li"><i class="fa-regular fa-square-check"></i></span>The same API interface should be available to call a Smart Contract in Ethereum, Polygon, Cardano, or any other supported blockchain.</li>
+  <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span>Executing Blockchain Web Services API calls should not require buying coins or tokens.</li> 
+  <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span>The use of blockchain private wallets should only be required if adding value to the solution proposal.</li> 
+</ul>
 
 To show how Blockchain Web Services implements such principles, Figure 4 reveals an example of the platform API service. 
 Any company or developer can start using Blockchain Web Services API with no Blockchain or Smart Contract previous knowledge and without the need to have and secure a Wallet or to exchange USD to pay transaction fees.
