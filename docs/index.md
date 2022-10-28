@@ -122,7 +122,7 @@ Blockchain Web Services implements an innovative approach: the platform trades w
   <span style="font-size:14px">Figure 6. Fees trading and Blockchain Web Services token circular economy.</span>
 </p>
 
-Blockchain Web Services customers pay a bill at the end of the period as they currently do when utilizing any other online service or API. 
+Customers call the platform API as much as required, wihout having to worry about blockchain fundings, and pay a bill at the end of the period as they currently do when utilizing any other online service or API. 
 
 
 ## A Smart Contract Marketplace Community
