@@ -40,7 +40,7 @@ But the initial hype on Smart Contracts is getting weighed by the blockchain eco
 
 While the portfolio of blockchain infrastructures<sup>(3)</sup> and the number of deployed Smart Contracts is growing fast, companies are reluctant to start their journey as it is too complex for them to manage the technology requirements. 
 
-Which Blockchain should I choose? How do I manage my Wallet and pay network recurrent fees? Should I build my Smart Contracts from scratch? Are there state-of-the-art Solutions already built that I could use? 
+Which Blockchain should I choose? How do I manage my Wallet and pay network recurrent fees? Should I build my Smart Contracts from scratch? Can we build on top of Blockchain as we're used to build applications today? Are there state-of-the-art blockchain solutions ready to use? 
 
 Blockchain Web Services brings an answer and a solution to those questions.
 
@@ -56,14 +56,14 @@ To accelerate the Smart Contracts market adoption, we intend Blockchain Web Serv
 
 ### A Unified Blockchain(s) API
 
-APIs are the preferred technology to build applications, and the reason the global API market size was worth USD 2.4 billion in 2021, and it is expected to reach USD 14 billion by 2030.
+APIs are the preferred technology to build applications, and the reason <strong>the global API market size is expected to reach USD 14 billion by 2030</api> and was worth USD 2.4 billion in 2021.
 
 <p align="center" style="padding-bottom:10px; padding-top:20px;">
   <img src="img/API_MarketSize.jpg" /><br/>
   <span style="font-size:14px">Figure 3. API Market Size and Forecast.</span>
 </p>
 
-We want that technology also to drive Blockchain Smart Contracts growth, and we are building Blockchain Web Services API to fulfill the following principles:
+We want that technology also to drive Blockchain Smart Contracts growth and accelerate adoption, and we are building Blockchain Web Services API to fulfill the following principles:
 
  <ul class="fa-ul">
   <li style="padding-bottom:10px;"><span class="fa-li"><i class="fa-regular fa-square-check"></i></span>Consuming a Smart Contract should be as easy as calling any other Web Service (Figure 4).</li>
@@ -72,7 +72,7 @@ We want that technology also to drive Blockchain Smart Contracts growth, and we 
   <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span>The use of blockchain private wallets should only be required if adding value to the solution proposal.</li> 
 </ul>
 
-To show how Blockchain Web Services implements such principles, Figure 4 reveals an example of the platform API service. 
+Figure 4 reveals an example of the platform API service implementing such principles. 
 
 Any company or developer can start using Blockchain Web Services API with no Blockchain or Smart Contract previous knowledge and without the need to have and secure a Wallet or to exchange USD to pay transaction fees.
 
