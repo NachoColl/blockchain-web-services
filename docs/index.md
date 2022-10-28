@@ -40,7 +40,7 @@ But the initial hype on Smart Contracts is getting weighed by the blockchain eco
 
 While the portfolio of blockchain infrastructures<sup>(3)</sup> and the number of deployed Smart Contracts is growing fast, companies are reluctant to start their journey as it is too complex for them to manage the technology requirements. 
 
-Which Blockchain should I choose? How do I manage my Wallet and pay network recurrent fees? Should I build my Smart Contracts from scratch? Can we build on top of Blockchain as we're used to build applications today? Are there state-of-the-art blockchain solutions ready to use? 
+Which Blockchain should I choose? How do I manage my Wallet and pay network recurrent fees? Should I build my Smart Contracts from scratch? Can we build on top of Blockchain as we're used to developing applications today? Are there state-of-the-art blockchain solutions ready to use? 
 
 Blockchain Web Services brings an answer and a solution to those questions.
 
@@ -107,7 +107,7 @@ $.ajax({
 <span style="font-size:14px">Figure 4. A Unified API Interface call example.</span>
 </p>
 
-### Realtime Fees Trading
+#### Realtime Fees Trading
 
 To execute Smart Contracts and write into Blockchain, you need fuel5. It is a fee required to execute transactions, like the fee you pay when using your credit card to support the network. 
 
