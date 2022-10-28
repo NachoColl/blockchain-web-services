@@ -71,8 +71,6 @@ We want that technology also to drive Blockchain Smart Contracts growth and acce
   <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span>The use of blockchain private wallets should only be required if adding value to the solution proposal.</li> 
 </ul>
 
-Any company or developer can start using Blockchain Web Services API without any previous knowledge of Blockchains and without having to create and secure a Wallet or exchange USD to pay transaction fees.
-
 <pre><code class="js">var parameters = {
   contract: "Ethereum.Database.Immutable",
   version: 2,
