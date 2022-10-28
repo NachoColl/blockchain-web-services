@@ -34,7 +34,7 @@ But the initial hype on Smart Contracts is getting weighed by the blockchain eco
 
 
 <p align="center" style="padding-bottom:10px; padding-top:20px;">
-  <img style="padding-bottomn:5px;" src="img/Gartner_SmartContracts.svg" /><br/>
+  <img style="padding-bottomn:5px;" src="img/Gartner_SmartContracts.svg" width="80%" /><br/>
   <span style="font-size:14px;">Figure 2. Gartner Hype Cycle for Blockchain and Web3, 2022 <sup>(2)</sup>.</span>
 </p>
 
@@ -116,14 +116,14 @@ As an example, if a company wants to use Smart Contracts to write its documentâ€
 At some point, company developers will have to deal with employing a credit card or bank account to buy ETH recurrently and estimate how much gas they require at any time. 
 
 <p align="center" style="padding-bottom:10px; padding-top:20px;">
-  <img src="img/Real-TimeFees4Customer.jpeg" /><br/>
+  <img width="80%" src="img/Real-TimeFees4Customer.jpeg" /><br/>
   <span style="font-size:14px">Figure 5. Customers managing Fees to call Smart Contracts.</span>
 </p>
 
 Blockchain Web Services implements an innovative approach: the platform trades with any required funding in real-time, so users do not have to deal with it.
 
 <p align="center" style="padding-bottom:10px; padding-top:20px;">
-  <img src="img/Real-TimeFees.jpeg" /><br/>
+  <img width="80%" src="img/Real-TimeFees.jpeg" /><br/>
   <span style="font-size:14px">Figure 6. Fees trading and Blockchain Web Services token circular economy.</span>
 </p>
 
@@ -137,7 +137,7 @@ To build a loop of sustained platform growth, Blockchain Web Servicesâ€™ offerin
 We incorporate a Marketplace of Smart Contracts where experienced blockchain developers will publish their work (and get a profit from it), and companies will find best-in-class solutions that are easy to use through our platform Smart Contracts API approach.
 
 <p align="center" style="padding-bottom:10px; padding-top:20px;">
-  <img src="img/Marketplace_Overview.jpeg" /><br/>
+  <img width="80%" src="img/Marketplace_Overview.jpeg" /><br/>
   <span style="font-size:14px">Figure 7. Blockchain Web services Marketplace.</span>
 </p>
 
@@ -163,7 +163,7 @@ Blockchain Web Services has the following actors,
 
 
 <p align="center" style="padding-bottom:10px; padding-top:20px;">
-  <img src="img/UtilityToken_CircularEconomy.jpg" /><br/>
+  <img width="80%" src="img/UtilityToken_CircularEconomy.jpg" /><br/>
   <span style="font-size:14px">Figure 8. Utility token circular economy.</span>
 </p>
 
