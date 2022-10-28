@@ -19,7 +19,7 @@ On the economics, Blockchain Web Service follows a sustainable economic and grow
 
 <p align="center">
   <img src="img/BWS_HL_Components.svg" /><br/>
-Figure 1. <i class="fa-solid fa-quote-left"></i>&nbsp;The Amazon Web Services for the Blockchain(s)'&nbsp;<i class="fa-solid fa-quote-right"></i>
+Figure 1. <i class="fa-solid fa-quote-left"></i>&nbsp;The Amazon Web Services for the Blockchain(s)&nbsp;<i class="fa-solid fa-quote-right"></i>
 </p>
 
 <p align="center" style="color:gray;padding-bottom:20px; padding-top:20px;">_________</p>
