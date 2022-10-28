@@ -146,6 +146,8 @@ We propose Blockchain Web Services to rule a token operating under the following
 
 - We aim to work for the vision we are committed to — <strong>a massive increase in blockchain adoption</strong> through companies, governments, and developers using our platform.
 
+- The <strong>token dynamics' popularity results from an increase in usage volume</strong> and real-world added value.
+
 - We want <strong>the community to help, participate, fund, and get rewarded</strong> for promoting and extending the platform.
 
 ### Token Use Cases 
