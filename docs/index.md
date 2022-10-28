@@ -168,11 +168,11 @@ Blockchain Web Services has the following actors,
 
 To build a circular economy, Blockchain Web Services token will get utilized as shown in Figure 7 use cases:
 
--	Every API call consuming a Smart Contract will require paying a fee in our utility token (such fee charge will also get transparently managed by the platform).
+-	<strong>Every API call consuming a Smart Contract will require paying a fee</strong> in our utility token (such fee charge will also get transparently managed by the platform).
 
--	Marketplace Smart Contracts creators (developers) will get token rewards every time a platform customer consumes their solution.
+-	Marketplace <strong>Smart Contracts creators (developers) will get token rewards</strong> every time a platform customer consumes their solution.
 
--	Smart Contract developers’ community will get funds to add innovative solutions to the platform.
+-	Smart Contract <strong>developers’ community will get funds to add innovative solutions</strong> to the platform.
 
 -	Token will fund the development, launch, and growth of the platform.
 
