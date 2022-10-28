@@ -15,7 +15,7 @@ Blockchain Web Services is a Unified Smart Contracts API allowing companies to c
 
 It also integrates a Marketplace for developers to publish their Smart Contracts and for companies to access hundreds of validated and secured state-of-the-art blockchain solutions. 
 
-We aim to help society embrace the blockchain Trust & Transparency revolution by removing infrastructure complexities from business creative workflows while improving decision-making “attributes of innovation”1 (Relative Advantage, Compatibility, Complexity, Triability, and Observability).
+We aim to help society embrace the blockchain Trust & Transparency revolution by removing infrastructure complexities from business creative workflows while improving decision-making “attributes of innovation”<sup>1</sup> (Relative Advantage, Compatibility, Complexity, Triability, and Observability).
 
 On the economics, Blockchain Web Service follows a sustainable economic and growth loop, where our ERC20 Ethereum token funds the platform’s development, rewards the community for extending it, and the revenue grows exponentially as more companies use the API.
 
@@ -38,9 +38,9 @@ But the initial hype on Smart Contracts is getting weighed by the blockchain eco
   <span style="font-size:14px;">Figure 2. Gartner Hype Cycle for Blockchain and Web3, 2022 <sup>(2)</sup>.</span>
 </p>
 
-While the portfolio of blockchain infrastructures<sup>(3)</sup> and the number of deployed Smart Contracts is growing fast, companies are reluctant to start their journey as it is too complex for them to manage the technology. 
+While the portfolio of blockchain infrastructures<sup>(3)</sup> and the number of deployed Smart Contracts is growing fast, companies are reluctant to start their journey as it is too complex for them to manage the technology requirements. 
 
-Which Blockchain should I choose? How do I manage and secure my Wallet? How do I pay network recurrent Fees? Should I build my Smart Contracts from scratch? Are there state-of-the-art Solutions already built that I could use? 
+Which Blockchain should I choose? How do I manage my Wallet and pay network recurrent fees? Should I build my Smart Contracts from scratch? Are there state-of-the-art Solutions already built that I could use? 
 
 Blockchain Web Services brings an answer and a solution to those questions.
 
