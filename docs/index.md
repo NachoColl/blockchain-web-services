@@ -32,7 +32,7 @@ The 1st generation of Blockchain (aka Bitcoin) delivered the required trust for 
 
 But the initial hype on Smart Contracts is getting weighed by the blockchain ecosystem complexities, and challenges arise when discussing market adoption. While the portfolio of blockchain infrastructures<sup>(3)</sup> and the number of deployed Smart Contracts is growing fast, companies are reluctant to start their journey as it is too complex for them to manage the technology requirements. 
 
-Which Blockchain should I choose? How do I manage my Wallet and pay network recurrent fees? Should I build my Smart Contracts from scratch? Can we build on top of Blockchain as we're used to developing applications today? Are there state-of-the-art blockchain solutions ready to use? 
+Which Blockchain should I choose? How do I manage my Wallet and pay recurrent network fees? Should I build my Smart Contracts from scratch? Can we build on top of Blockchain as we're used to developing applications today? Are there state-of-the-art blockchain solutions ready to use? 
 
 Blockchain Web Services brings an answer and a solution to those questions.
 
@@ -69,9 +69,7 @@ We want that technology also to drive Blockchain Smart Contracts growth and acce
   <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span>The use of blockchain private wallets should only be required if adding value to the solution proposal.</li> 
 </ul>
 
-Figure 4 reveals an example of the platform API service implementing such principles. 
-
-Any company or developer can start using Blockchain Web Services API with no Blockchain or Smart Contract previous knowledge and without the need to have and secure a Wallet or to exchange USD to pay transaction fees.
+Any company or developer can start using Blockchain Web Services API without previous knowledge of Blockchain or Smart Contracts and without having to secure a Wallet or exchange USD to pay transaction fees.
 
 <pre><code class="js">var parameters = {
   contract: "Ethereum.Database.Immutable",
@@ -106,9 +104,9 @@ $.ajax({
 
 #### Realtime Fees Trading
 
-To execute Smart Contracts and write into Blockchain, you need fuel5. It is a fee required to execute transactions, like the fee you pay when using your credit card to support the network. 
+To execute Smart Contracts and write into Blockchain, you need fuel<sup>5</sup>. It is a fee required to execute transactions, like the fee you pay when using your credit card to support the network. 
 
-As an example, if a company wants to use Smart Contracts to write its document’s signatures in the blockchain to add transparency and trust value to its portfolio, every Smart Contract signing call will require funds to be available to pay for the blockchain network fees (Figure 5). 
+As an example, if a company wants to use Smart Contracts to write its document’s signatures in the blockchain (to add transparency and trust), every Smart Contract signing call will require funds to be available to pay for the blockchain network fees (Figure 5). 
 
 At some point, company developers will have to deal with employing a credit card or bank account to buy ETH recurrently and estimate how much gas they require at any time. 
 
