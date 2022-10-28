@@ -32,7 +32,7 @@ The 1st generation of Blockchain (aka Bitcoin) delivered the required trust for 
 
 But the initial hype on Smart Contracts is getting weighed by the blockchain ecosystem complexities, and challenges arise when discussing market adoption. While the portfolio of blockchain infrastructures<sup>(3)</sup> and the number of deployed Smart Contracts is growing fast, companies are reluctant to start their journey as it is too complex for them to manage the technology requirements. 
 
-Which Blockchain should I choose? How do I manage my Wallet and pay recurrent network fees? Should I build my Smart Contracts from scratch? Can we build on top of Blockchain as we're used to developing applications today? Are there state-of-the-art blockchain solutions ready to use? 
+Which Blockchain should I choose? How do I manage my Wallet and pay recurrent network fees? Should I build my Smart Contracts from scratch? Can we build on top of Blockchain as we're used to developing applications today? Are there state-of-the-art blockchain solutions ready to use and improve cost-efficiency? 
 
 Blockchain Web Services brings an answer and a solution to those questions.
 
@@ -115,7 +115,7 @@ At some point, company developers will have to deal with employing a credit card
   <span style="font-size:14px">Figure 5. Customers managing Fees to call Smart Contracts.</span>
 </p>
 
-Blockchain Web Services implements an innovative approach: the platform trades with any required funding in real-time, so users do not have to deal with it.
+Blockchain Web Services implements an innovative approach: <strong>our platform trades with any required funding in real-time</strong>, so users do not have to deal with it.
 
 <p align="center" style="padding-bottom:10px; padding-top:20px;">
   <img width="80%" src="img/Real-TimeFees.jpeg" /><br/>
@@ -185,6 +185,8 @@ ERC-20
 
 <strong>Token Allocation</strong>
 
+We intend token to support platform sustained growth, the reason most tokens are allocated to the product development (that will include Marketing and Business Consultancy Services), and Network Rewards (community rewards).
+
 <p align="center" style="padding-bottom:10px; padding-top:20px;">
   <img src="img/Token_Allocation.png" /><br/>
   <span style="font-size:14px">Figure 9. Token Allocation.</span>
@@ -204,6 +206,8 @@ Early-stage investors have a six-month lockup post-network launch. After the loc
 
 
 <strong>Token Circular Loop</strong>
+
+Tokens are bought for network usage and spent on network growth, creating a virtuous loop economy.
 
 <p align="center" style="padding-bottom:10px; padding-top:20px;">
   <img src="img/Tokenomics_Loop.png" /><br/>
