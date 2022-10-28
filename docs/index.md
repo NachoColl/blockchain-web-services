@@ -34,14 +34,14 @@ But the initial hype on Smart Contracts is getting weighed by the blockchain eco
 
 <p align="center" style="padding-bottom:10px; padding-top:20px;">
   <img src="img/Gartner_SmartContracts.svg" /><br/>
-  <div style="font-size:14px; padding-top:2px;">Figure 2. Gartner - Despite the fast growth of the blockchain ecosystem,<br/> its complexity makes it difficult to navigate for business leaders <sup>(2)</sup>.</div>
+  <span style="font-size:14px; padding-top:2px;">Figure 2. Gartner Hype Cycle for Blockchain and Web3, 2022 <sup>(2)</sup>.</span>
 </p>
 
 While the portfolio of blockchain infrastructures<sup>(3)</sup> and the number of deployed Smart Contracts is growing fast, companies are reluctant to start their journey as it is too complex for them to manage the technology. 
 
 Which Blockchain should I choose? How do I manage and secure my Wallet? How do I pay network recurrent Fees? Should I build my Smart Contracts from scratch? Are there state-of-the-art Solutions already built that I could use? 
 
-Blockchain Web Services brings an answer to those questions.
+Blockchain Web Services brings an answer and a solution to those questions.
 
 ## Problem Solving Proposition
 
@@ -277,7 +277,7 @@ Early-stage investors have a six-month lockup post-network launch. After the loc
 
 (1) Diffusion of Innovations - Everett M. Rogers
 
-(2) Gartner’s 2021 CIO survey & Digital Disruption Profile: Blockchain’s Radical Promise Spans Business and Society - Gartner Research - Rajesh Kandaswamy, David Furlonger, Andrew Stevens
+(2) Gartner Hype Cycle for Blockchain and Web3, 2022 - Gartner Research - https://blogs.gartner.com/avivah-litan/2022/07/22/gartner-hype-cycle-for-blockchain-and-web3-2022/ 
 
 (3) Blockchain Layer 1 vs. Layer 2 Scaling Solutions - Binance Academy - https://academy.binance.com/en/articles/blockchain-layer-1-vs-layer-2-scaling-solutions
 
