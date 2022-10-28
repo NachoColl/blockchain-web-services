@@ -7,6 +7,7 @@
 October the 1st, 2022.
 <br/>
 Version 1.
+<br/><br/>
 
 <p align="center" style="color:gray;padding-bottom:10px; ">Abstract</p>
 
@@ -19,7 +20,7 @@ On the economics, Blockchain Web Service follows a sustainable economic and grow
 
 <p align="center">
   <img src="img/BWS_HL_Components.svg" /><br/>
-  Figure 1. <i class="fa-solid fa-quote-left"></i>&nbsp;The Amazon Web Services for the Blockchain(s)&nbsp;<i class="fa-solid fa-quote-right"></i>
+  <span style="font-size:14px">Figure 1. <i class="fa-solid fa-quote-left"></i>&nbsp;The Amazon Web Services for the Blockchain(s)&nbsp;<i class="fa-solid fa-quote-right"></i></span>
 </p>
 
 <p align="center" style="color:gray;padding-bottom:20px; padding-top:20px;">_________</p>
@@ -33,7 +34,7 @@ But the initial hype on Smart Contracts is getting weighed by the blockchain eco
 
 <p align="center" style="padding-bottom:10px; padding-top:20px;">
   <img src="img/Gartner_SmartContracts.svg" /><br/>
-  Figure 2. Gartner - Despite the fast growth of the blockchain ecosystem,<br/> its complexity makes it difficult to navigate for business leaders <sup>(2)</sup>.
+  <span style="font-size:14px">Figure 2. Gartner - Despite the fast growth of the blockchain ecosystem,<br/> its complexity makes it difficult to navigate for business leaders <sup>(2)</sup>.</span>
 </p>
 
 While the portfolio of blockchain infrastructures<sup>(3)</sup> and the number of deployed Smart Contracts is growing fast, companies are reluctant to start their journey as it is too complex for them to manage the technology. 
@@ -58,7 +59,7 @@ APIs are the preferred technology to build applications, and the reason the glob
 
 <p align="center" style="padding-bottom:10px; padding-top:20px;">
   <img src="img/API_MarketSize.jpg" /><br/>
-  Figure 3. API Market Size and Forecast.
+  <span style="font-size:14px">Figure 3. API Market Size and Forecast.</span>
 </p>
 
 We want that technology also to drive Blockchain Smart Contracts growth, and we are building Blockchain Web Services API to fulfill the following principles:
@@ -101,7 +102,7 @@ $.ajax({
   },
 });</code></pre>
 <p align="center">
-Figure 4. A Unified API Interface call example.
+<span style="font-size:14px">Figure 4. A Unified API Interface call example.</span>
 </p>
 
 ### Realtime Fees Trading
@@ -114,14 +115,14 @@ At some point, company developers will have to deal with employing a credit card
 
 <p align="center" style="padding-bottom:10px; padding-top:20px;">
   <img src="img/Real-TimeFees4Customer.jpeg" /><br/>
-  Figure 5. Customers managing Fees to call Smart Contracts.
+  <span style="font-size:14px">Figure 5. Customers managing Fees to call Smart Contracts.</span>
 </p>
 
 Blockchain Web Services implements an innovative approach: the platform trades with any required funding in real-time, so users do not have to deal with it.
 
 <p align="center" style="padding-bottom:10px; padding-top:20px;">
   <img src="img/Real-TimeFees.jpeg" /><br/>
-  Figure 6. Fees trading and Blockchain Web Services token circular economy.
+  <span style="font-size:14px">Figure 6. Fees trading and Blockchain Web Services token circular economy.</span>
 </p>
 
 Blockchain Web Services customers pay a bill at the end of the period as they currently do when utilizing any other online service or API. 
@@ -135,7 +136,7 @@ We incorporate a Marketplace of Smart Contracts where experienced blockchain dev
 
 <p align="center" style="padding-bottom:10px; padding-top:20px;">
   <img src="img/Marketplace_Overview.jpeg" /><br/>
-  Figure 7. Blockchain Web services Marketplace.
+  <span style="font-size:14px">Figure 7. Blockchain Web services Marketplace.</span>
 </p>
 
 ## Utility Token
@@ -161,7 +162,7 @@ Blockchain Web Services has the following actors,
 
 <p align="center" style="padding-bottom:10px; padding-top:20px;">
   <img src="img/UtilityToken_CircularEconomy.jpg" /><br/>
-  Figure 8. Utility token circular economy.
+  <span style="font-size:14px">Figure 8. Utility token circular economy.</span>
 </p>
 
 To build a circular economy, Blockchain Web Services token will get utilized as shown in Figure 7 use cases:
@@ -189,7 +190,7 @@ ERC-20
 
 <p align="center" style="padding-bottom:10px; padding-top:20px;">
   <img src="img/Token_Allocation.png" /><br/>
-  Figure 9. Token Allocation.
+  <span style="font-size:14px">Figure 9. Token Allocation.</span>
 </p>
 
 <strong>Vesting Periods</strong>
@@ -209,7 +210,7 @@ Early-stage investors have a six-month lockup post-network launch. After the loc
 
 <p align="center" style="padding-bottom:10px; padding-top:20px;">
   <img src="img/Tokenomics_Loop.png" /><br/>
-  Figure 10. Tokenomics Health Loop.
+  <span style="font-size:14px">Figure 10. Tokenomics Health Loop.</span>
 </p>
 
 
