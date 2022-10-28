@@ -19,7 +19,7 @@ On the economics, Blockchain Web Service follows a sustainable economic and grow
 
 <p align="center">
   <img src="img/BWS_HL_Components.svg" /><br/>
-<i class="fa-solid fa-quote-left"></i>&nbsp;Figure 1. The Amazon Web Services for the Blockchain(s)&nbsp;<i class="fa-solid fa-quote-right"></i>
+Figure 1. <i class="fa-solid fa-quote-left"></i>&nbsp;The Amazon Web Services for the Blockchain(s)'&nbsp;<i class="fa-solid fa-quote-right"></i>
 </p>
 
 <p align="center" style="color:gray;padding-bottom:20px; padding-top:20px;">_________</p>
@@ -118,7 +118,7 @@ At some point, company developers will have to deal with employing a credit card
 
 <p align="center">
   <img src="img/Real-TimeFees4Customer.jpeg" /><br/>
-  <strong>Figure 5. Fees trading and Blockchain Web Services token circular economy.</strong>
+  <strong>Figure 5. Customers managing Fees to call Smart Contracts.</strong>
 </p>
 
 Blockchain Web Services implements an innovative approach: the platform deals with any required funding in real-time, so users do not have to deal with it.
@@ -139,7 +139,7 @@ We incorporate a Marketplace of Smart Contracts where experienced blockchain dev
 
 <p align="center">
   <img src="img/Marketplace_Overview.jpeg" /><br/>
-  <strong>Figure 7. Fees trading and Blockchain Web Services token circular economy.</strong>
+  <strong>Figure 7. Blockchain Web services Marketplace.</strong>
 </p>
 
 ## Utility Token
@@ -165,7 +165,7 @@ Blockchain Web Services has the following actors,
 
 <p align="center">
   <img src="img/UtilityToken_CircularEconomy.jpg" /><br/>
-  <strong>Figure 8. Fees trading and Blockchain Web Services token circular economy.</strong>
+  <strong>Figure 8. Utility token circular economy.</strong>
 </p>
 
 To build a circular economy, Blockchain Web Services token will get utilized as shown in Figure 7 use cases:
@@ -186,7 +186,8 @@ Total Supply : 1.1 billion - deflationary, no minting of new tokens
 Token Allocation
 
 <p align="center">
-  <img src="img/Token_Allocation.png" />
+  <img src="img/Token_Allocation.png" /><br/>
+  <strong>Figure 9. Token Allocation.</strong>
 </p>
 
 Vesting Periods
@@ -205,7 +206,8 @@ Initial Sale Token Price
 Token Circular Loop
 
 <p align="center">
-  <img src="img/Tokenomics_Loop.png" />
+  <img src="img/Tokenomics_Loop.png" /><br/>
+  <strong>Figure 10. Tokenomics Health Loop.</strong>
 </p>
 
 
