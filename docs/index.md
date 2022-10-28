@@ -4,83 +4,75 @@
 <div style="position: fixed; top: 10px; left: 10px; border: 0;"> White Paper
 </div>
 
-(version under construction)
+October the 1st, 2022.
+<br/>
+Version 1.
 
 <p align="center" style="color:gray;padding-bottom:10px; ">Abstract</p>
 
-Blockchain Web Services is a Unified Smart Contracts API enabling companies to consume blockchain Smart Contracts as regular web services.
+Blockchain Web Services is a Unified Smart Contracts API allowing companies to consume blockchain Smart Contracts as regular web services.
+It also integrates a Marketplace for developers to publish their Smart Contracts and for companies to access hundreds of validated and secured state-of-the-art blockchain solutions. 
 
-In addition, it also incorporates a Marketplace for developers to publish their Smart Contracts and for companies to get access to hundreds of validated and secured state-of-the-art blockchain solutions.
+We aim to help society embrace the blockchain Trust & Transparency revolution by removing infrastructure complexities from business creative workflows while improving decision-making “attributes of innovation”1 (Relative Advantage, Compatibility, Complexity, Triability, and Observability).
 
-We aim to help companies build on top of Smart Contracts and embrace the blockchain revolution. We remove infrastructure complexities from creative workflows while improving decision-making "attributes of innovation"<sup>1</sup> (Relative Advantage, Compatibility, Complexity, Triability, and Observability).
-
-Regarding sustainability, Blockchain Web Services follows a sustainable economic and growth loop: our ERC20 Ethereum token funds the platform's-building and rewards the community for extending it, while the revenue grows exponentially when new companies use the Unified Smart Contracts API.
-
-<p align="center" style="color:gray;padding-bottom:20px; padding-top:20px;">_________</p>
-
-## Introduction
-
-Blockchain technologies are rising at an incredible rate. The 1st generation (aka Bitcoin) delivered the required trust for financial transactions; Just a few years later, a 2nd generation (aka Ethereum) stretched to countless scenarios through Smart Contracts. Today, a set of new initiatives is already pushing hard to support scalability and mature growth.
-
-But the initial hype on Smart Contracts is getting weighed by the blockchain ecosystem complexities, and challenges arise when discussing market adoption.
-
-<p align="center" style="padding-bottom:10px; padding-top:20px;">
-  <img src="img/Gartner_Blockchain_Market-Growth.jpeg" /><br/>
-<span style="font-size:14px">Gartner - Despite the fast growth of the blockchain ecosystem,<br/> its complexity makes it difficult to navigate for business leaders <sup>(2)</sup>.</span>
-</p>
-
-<mark>[extend/improve]<br/>
-improve overall understanding of following:
-</mark>
-
-The learning curves are still massive for companies planning to go blockchain, and the absence of unified standards is still a leading blocker. While the portfolio of blockchain(s) layered infrastructures<sup>(3)</sup> and Smart Contracts is growing fast, companies require a stable ecosystem to focus on their value proposal and improve implementation cost efficiency (does a contract that does the same thing already exist<sup>(4)</sup>?).
-
-
-
-
-### Trust and Transparency
-
-<mark>[create]
-<br/>
-public blockchains as the solution to go vs. private blockchains, as it's all about trust and transparency (transparency = public)!
-</mark>
-
-
-## Problem Solving Proposition
-
-<mark>[extend/improve]<br/>
-|| add more intro text
-</mark>
-
-Blockchain Web Services provides a solution to raise blockchain adoption by delivering:
-
- <ul class="fa-ul">
-  <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span>A Unified Smart Contracts API for developers and companies to use public Blockchain(s) as any Web Service they are already used to.</li>
-  <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span>Real-time Blockchain fees trading to transparently manage funds required to call Smart Contracts<sup>(5)</sup> .</li>
-  <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span>Platform built-in Smart Contracts for the most demanded use cases (initial launch is planned to include Database primitives — read and write data to the blockchain(s), Data Assets, and Supply Chain solutions).</li> 
-  <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span>A Marketplace for developers to get rewarded when adding new Smart Contracts and for companies to find and consume Smart Contracts easily.</li>
-</ul>
-
-<br/>
+On the economics, Blockchain Web Service follows a sustainable economic and growth loop, where our ERC20 Ethereum token funds the platform’s development, rewards the community for extending it, and the revenue grows exponentially as more companies use the API.
 
 <p align="center">
   <img src="img/BWS_HL_Components.svg" /><br/>
 <i class="fa-solid fa-quote-left"></i>&nbsp;The Amazon Web Services for the Blockchain(s)&nbsp;<i class="fa-solid fa-quote-right"></i>
 </p>
 
+<p align="center" style="color:gray;padding-bottom:20px; padding-top:20px;">_________</p>
+
+## Introduction
+
+The 1st generation of Blockchain (aka Bitcoin) delivered the required trust for financial transactions; Just a few years later, a 2nd generation (aka Ethereum) stretched to countless scenarios through Smart Contracts. Today, a set of new initiatives is already pushing hard to support scalability and mature growth.
+
+But the initial hype on Smart Contracts is getting weighed by the blockchain ecosystem complexities, and challenges arise when discussing market adoption.
+
+
+<p align="center" style="padding-bottom:10px; padding-top:20px;">
+  <img src="img/Gartner_SmartContracts.jpeg" /><br/>
+<span style="font-size:14px">Gartner - Despite the fast growth of the blockchain ecosystem,<br/> its complexity makes it difficult to navigate for business leaders <sup>(2)</sup>.</span>
+</p>
+
+
+While the portfolio of blockchain infrastructures<sup>(3)</sup> and the number of deployed Smart Contracts is growing fast, companies are reluctant to start their journey as it is too complex for them to manage the technology. 
+Which Blockchain should I choose? How do I manage and secure my Wallet? How do I pay network recurrent Fees? Should I build my Smart Contracts from scratch? Are there state-of-the-art Solutions already built that I could use? 
+
+Blockchain Web Services brings an answer to those questions.
+
+## Problem Solving Proposition
+
+To accelerate the Smart Contracts market, we intend Blockchain Web Services to provide:
+
+ <ul class="fa-ul">
+  <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span><strong>A Unified API platform</strong> for developers and companies to call public Blockchain(s) Smart Contracts as any Web Service they are already used to.</li>
+  <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span><strong>A Marketplace</strong> for developers to extend the platform offering and for companies to find and consume Smart Contracts easily..</li>
+  <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span><strong>Built-in Smart Contracts</strong> for the most demanded use cases (initial launch is planned to include Database primitives — read and write data to the blockchain(s), NFT (Non-Fungible Tokens) & Data Assets management Smart Contracts, and a Supply Chain solution to build auditable company workflows).</li> 
+ 
+</ul>
+
+<br/>
+
 ### A Unified Blockchain(s) API
 
-<mark>[extend/improve]<br/>
-|| add intro text
-|| include API economy text, references and market volume
-</mark>
+APIs are the preferred technology to build applications, and the reason the global API market size was worth USD 2.4 billion in 2021, and it is expected to reach USD 14 billion by 2030.
 
-Figure 1 shows Blockchain Web Services Unified API aims:
+<p align="center" style="padding-bottom:10px; padding-top:20px;">
+  <img src="img/API_MarketSize.jpg" /><br/>
+<span style="font-size:14px">API Market Size and Forecast.</span>
+</p>
 
-- Consuming a Smart Contract should be as easy as calling any other web service.
-- The use of blockchain private addresses or secrets is only required when adding value to the solution proposal.
-- The same interface is used to call a Smart Contract in Ethereum, Polygon, Cardano, or any other supported blockchain.
-- Calling the API does not require buying any coin or token.
+We want that technology also to drive Blockchain Smart Contracts growth, and we are building Blockchain Web Services API to fulfill the following principles:
+
+- Consuming a Smart Contract should be as easy as calling any other Web Service (Figure 4).
+- The same API interface should be available to call a Smart Contract in Ethereum, Polygon, Cardano, or any other supported blockchain.
+- Executing Blockchain Web Services API calls should not require buying coins or tokens.
+- The use of blockchain private wallets should only be required if adding value to the solution proposal.
+
+To show how Blockchain Web Services implements such principles, Figure 4 reveals an example of the platform API service. 
+Any company or developer can start using Blockchain Web Services API with no Blockchain or Smart Contract previous knowledge and without the need to have and secure a Wallet or to exchange USD to pay transaction fees.
 
 <br/>
 
@@ -117,79 +109,101 @@ $.ajax({
 
 ### Realtime Fees Trading
 
+To execute Smart Contracts and write into Blockchain, you need fuel5. It is a fee required to execute transactions, like the fee you pay when using your credit card to support the network. 
 
-<mark>[improve writing ]</mark>
+As an example, if a company wants to use Smart Contracts to write its document’s signatures in the blockchain to add transparency and trust value to its portfolio, every Smart Contract signing call will require funds to be available to pay for the blockchain network fees (Figure 5). 
 
-To execute Smart Contracts and write into Blockchain, you need fuel - that will cost you some money <sup>(5)</sup>. If a company wants to write in Blockchain their contract's signatures, every signature operation call will require the company to have some funds available. If they use the Ethereum blockchain, they will have to manage how to buy some ETH just before every call (fiat exchange value may go up or down in time).
+At some point, company developers will have to deal with employing a credit card or bank account to buy ETH recurrently and estimate how much gas they require at any time. 
 
-Blockchain Web Services executes any required funding real-time so users don't have to deal with it.
 
 <p align="center">
-  <img src="img/Real-TimeFees.svg" /><br/>
+  <img src="img/Real-TimeFees4Customer.jpeg" /><br/>
   <strong>Figure 2: Fees trading and Blockchain Web Services token circular economy.</strong>
 </p>
 
-<mark>[extend/improve]<br/>
-|| add more/improved text </mark>
+Blockchain Web Services implements an innovative approach: the platform deals with any required funding in real-time, so users do not have to deal with it.
 
-Platform customers pay a bill at the end of the period as they currently do when consuming any other online service.
+<p align="center">
+  <img src="img/Real-TimeFees.jpeg" /><br/>
+  <strong>Figure 2: Fees trading and Blockchain Web Services token circular economy.</strong>
+</p>
 
+Blockchain Web Services customers pay a bill at the end of the period as they currently do when utilizing any other online service or API. 
 
 
 ## A Smart Contract Marketplace Community
 
-<mark>[replace/extend]</mark>
+To build a loop of sustained platform growth, Blockchain Web Services’ offering needs to grow as fast as new blockchain opportunities arise. 
 
-As previously mentioned, we will provide solutions that satisfy some of the market's most demanded use cases. We will start our journey by adding Database primitives to read and write data to the blockchain(s) and move up by adding a Supply Chain Management API or offering a Data/AI assets solution, among others.
+We incorporate a Marketplace of Smart Contracts where experienced blockchain developers will publish their work (and get a profit from it), and companies will find best-in-class solutions that are easy to use through our platform Smart Contracts API approach.
 
-Even more exciting, we want to engage ourselves in the community-embracing approach the blockchain revolution has introduced. 
-
-We will build a Marketplace of Smart Contracts where experienced blockchain developers will publish their work and be able to get a profit from it - and companies will be able to consume an extended set of solutions as part of Blockchain Web Services API. 
-
+<p align="center">
+  <img src="img/Marketplace_Overview.jpeg" /><br/>
+  <strong>Figure 2: Fees trading and Blockchain Web Services token circular economy.</strong>
+</p>
 
 ## Utility Token
 
 We propose Blockchain Web Services to rule a token operating under the following principles:
 
-- We want the community to help, participate, fund, and get rewarded for promoting and extending the platform.
+- Circular token economy should support <strong>sustained growth</strong>.
 
-- We aim to work for the vision we committed to — a massive increase in blockchain adoption through companies and governments consuming platform solutions, and token dynamics are conceived such that health rises with usage volume.
+- We aim to work for the vision we are committed to — <strong>a massive increase in blockchain adoption</strong> through companies, governments, and developers using our platform.
+
+- We want <strong>the community to help, participate, fund, and get rewarded</strong> for promoting and extending the platform.
 
 ### Token Use Cases 
 
-Blockchain Web Services token will get utilized for:
+Blockchain Web Services has the following actors, 
 
-- API consumers (platform customers) will require the token to execute Smart Contracts API calls.
+-	Platform customers calling the API as part of their Blockchain services offering.
 
-<p align="center">
-  <img src="img/API_Calls_Token_Fees.svg" />
-</p>
+-	Smart Contract developers and teams building new platform solutions (extending the API).
 
-- Marketplace Smart Contracts creators (Smart Contracts solution developers) will get a token reward whenever a platform customer consumes their solution.
+-	The platform team, whose objective is to develop the built-in solution APIs and engage the community.
 
-<p align="center">
-  <img src="img/Marketplace_API_Calls_Token_Rewards.svg" />
-</p>
-
-- Smart Contract developers will get funds to add new solutions to the platform.
 
 <p align="center">
-  <img src="img/Marketplace_Solution_Selection.svg" />
+  <img src="img/UtilityToken_CircularEconomy.jpg" />
 </p>
 
-- Fund the development and launch of the platform.
+To build a circular economy, Blockchain Web Services token will get utilized as shown in Figure 7 use cases:
+
+•	Every API call consuming a Smart Contract will require paying a fee in our utility token (such fee charge will also get transparently managed by the platform).
+
+•	Marketplace Smart Contracts creators (developers) will get token rewards every time a platform customer consumes their solution.
+
+•	Smart Contract developers’ community will get funds to add innovative solutions to the platform.
+
+•	Token will fund the development, launch, and growth of the platform.
 
 ### Tokenomics 
 
-<mark>[under construction]</mark>
 
-We aim to boost the overall Blockchain adoption, meaning we want the community to benefit from the values it implies. And we want the same community to be able to participate and be part of the journey with us. 
+Token type : ERC-20 
+Total Supply : 1.1 billion - deflationary, no minting of new tokens
+Token Allocation
 
-#### Token Launch Events
+<p align="center">
+  <img src="img/Token_Allocation.png" />
+</p>
 
-There will be a Seed, a Pre-Launch, and a Public launch event.
+Vesting Periods
 
-The public launch will run one year after the Seed event - the roadmap is running as planned, but we want a tangible token valuation when the public launch arrives.
+The founder's allocation is subject to a nine-month lockup post-network launch. After the lockup period ends, these tokens will vest monthly for another two years.
+
+Early-stage investors have a six-month lockup post-network launch. After the lockup period ends, these tokens will vest monthly for another six months.
+
+Initial Sale Token Price
+
+Seed	Private	Public
+$0.12	$0.45	$0.60
+
+Token Circular Loop
+
+<p align="center">
+  <img src="img/Tokenomics_Loop.png" />
+</p>
 
 
 <p align="center" style="color:gray;padding-bottom:20px; padding-top:20px;">_________</p>
