@@ -33,7 +33,7 @@ But the initial hype on Smart Contracts is getting weighed by the blockchain eco
 
 <p align="center" style="padding-bottom:10px; padding-top:20px;">
   <img src="img/Gartner_SmartContracts.svg" /><br/>
-<span style="font-size:14px">Figure 2. Gartner - Despite the fast growth of the blockchain ecosystem,<br/> its complexity makes it difficult to navigate for business leaders <sup>(2)</sup>.</span>
+<strong>Figure 2. Gartner - Despite the fast growth of the blockchain ecosystem,<br/> its complexity makes it difficult to navigate for business leaders <sup>(2)</sup>.</strong>
 </p>
 
 While the portfolio of blockchain infrastructures<sup>(3)</sup> and the number of deployed Smart Contracts is growing fast, companies are reluctant to start their journey as it is too complex for them to manage the technology. 
@@ -58,7 +58,7 @@ APIs are the preferred technology to build applications, and the reason the glob
 
 <p align="center" style="padding-bottom:10px; padding-top:20px;">
   <img src="img/API_MarketSize.jpg" /><br/>
-<span style="font-size:14px">Figure 3. API Market Size and Forecast.</span>
+  <strong>Figure 3. API Market Size and Forecast.</strong>
 </p>
 
 We want that technology also to drive Blockchain Smart Contracts growth, and we are building Blockchain Web Services API to fulfill the following principles:
@@ -66,7 +66,7 @@ We want that technology also to drive Blockchain Smart Contracts growth, and we 
  <ul class="fa-ul">
   <li style="padding-bottom:10px;"><span class="fa-li"><i class="fa-regular fa-square-check"></i></span>Consuming a Smart Contract should be as easy as calling any other Web Service (Figure 4).</li>
   <li style="padding-bottom:10px;"><span class="fa-li"><i class="fa-regular fa-square-check"></i></span>The same API interface should be available to call a Smart Contract in Ethereum, Polygon, Cardano, or any other supported blockchain.</li>
-  <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span>Executing Blockchain Web Services API calls should not require buying coins or tokens.</li> 
+  <li style="padding-bottom:10px;"><span class="fa-li"><i class="fa-regular fa-square-check"></i></span>Executing Blockchain Web Services API calls should not require buying coins or tokens.</li> 
   <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span>The use of blockchain private wallets should only be required if adding value to the solution proposal.</li> 
 </ul>
 
@@ -177,9 +177,13 @@ To build a circular economy, Blockchain Web Services token will get utilized as 
 ### Tokenomics 
 
 
-<strong>Token type</strong> : ERC-20
+<strong>Token type</strong> 
 
-<strong>Total Supply</strong> : 1.1 billion - deflationary, no minting of new tokens
+ERC-20
+
+<strong>Total Supply</strong>
+
+1.1 billion - deflationary, no minting of new tokens
 
 <strong>Token Allocation</strong>
 
