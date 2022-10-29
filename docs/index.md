@@ -6,7 +6,7 @@
 
 October the 1st, 2022.
 <br/>
-Version 1.
+Version 0.2<br/>
 <br/><br/>
 
 <p align="center" style="color:gray;padding-bottom:10px; ">Abstract</p>
