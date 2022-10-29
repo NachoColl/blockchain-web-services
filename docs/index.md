@@ -13,7 +13,7 @@ Version 0.2<br/>
 
 Blockchain Web Services is a Unified Smart Contracts API allowing companies to consume blockchain Smart Contracts as regular web services.
 
-It also integrates a Marketplace for developers to publish their Smart Contracts and for companies to access hundreds of validated and secured state-of-the-art blockchain solutions. 
+In addition to this, it also integrates a Marketplace for developers to publish their Smart Contracts and for companies to access hundreds of validated and secured state-of-the-art blockchain solutions. 
 
 We aim to help society embrace the blockchain Trust & Transparency revolution by removing infrastructure complexities from business creative workflows while improving decision-making “attributes of innovation”<sup>1</sup> (Relative Advantage, Compatibility, Complexity, Triability, and Observability).
 
@@ -28,7 +28,7 @@ On the economics, Blockchain Web Service follows a sustainable economic and grow
 
 ## Introduction
 
-The 1st generation of Blockchain (aka Bitcoin) delivered the required trust for financial transactions; Just a few years later, a 2nd generation (aka Ethereum) stretched to countless scenarios through Smart Contracts. Today, a set of new initiatives is already pushing hard to support scalability and mature growth.
+The 1st generation of Blockchain (aka Bitcoin) delivered the required trust for financial transactions; Just a few years later, a 2nd generation (aka Ethereum) stretched to countless scenarios through Smart Contracts. Today, new initiatives are already pushing hard to support scalability and mature growth.
 
 But the initial hype on Smart Contracts is getting weighed by the blockchain ecosystem complexities, and challenges arise when discussing market adoption. 
 
@@ -127,7 +127,9 @@ Customers call the platform API as much as required, wihout having to worry abou
 
 ## A Smart Contract Marketplace Community
 
-To build a loop of sustained platform growth, Blockchain Web Services’ offering needs to grow as fast as new blockchain opportunities arise. 
+Blockchain communities are an essential element to driving continued growth.
+
+When it comes to Smart Contracts, a unified approach from both developers as well as the companies looking for their services is essentiali in order for all parties to effectively grow and expand. It was in a recent article that Jack Dorsey, billionaire entrepreneur, said that it was the “network and community” behind cryptocurrency and blockchain projects which he sees as being the most crucial for advancement.
 
 We incorporate a Marketplace of Smart Contracts where experienced blockchain developers will publish their work (and get a profit from it), and companies will find best-in-class solutions that are easy to use through our platform Smart Contracts API approach.
 
@@ -137,6 +139,8 @@ We incorporate a Marketplace of Smart Contracts where experienced blockchain dev
 </p>
 
 ## Utility Token
+
+Our goal is to boost overall blockchain adoption, whereby trust and transparency are maximized in order of benefit the community in as many ways as possible. We are hopeful that the community will be able to be a big part of the journey with us going forward.
 
 We propose Blockchain Web Services to rule a token operating under the following principles:
 
@@ -187,7 +191,7 @@ ERC-20
 
 <strong>Token Allocation</strong>
 
-We intend token to support platform sustained growth, the reason most tokens are allocated to the product development (that will include Marketing and Business Consultancy Services), and Network Rewards (community rewards).
+We intend tokens to support the platform's sustained growth, the reason most tokens are allocated to product development (that will include Marketing and Business Consultancy Services) and Network Rewards (community rewards).
 
 <p align="center" style="padding-bottom:10px; padding-top:20px;">
   <img src="img/Token_Allocation.png" /><br/>
