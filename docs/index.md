@@ -55,7 +55,7 @@ To accelerate the Smart Contracts market adoption, we intend Blockchain Web Serv
 
 ### A Unified Blockchain(s) API
 
-APIs are the preferred technology to build applications, and the reason <strong>the global API market size is expected to reach USD 14 billion by 2030</api> and was worth USD 2.4 billion in 2021.
+APIs are the preferred technology to build applications, and the reason <strong>the global API market size is expected to reach USD 14 billion by 2030</strong> and was worth USD 2.4 billion in 2021.
 
 <p align="center" style="padding-bottom:10px; padding-top:20px;">
   <img src="img/API_MarketSize.jpg" /><br/>
