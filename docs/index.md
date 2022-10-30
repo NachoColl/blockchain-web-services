@@ -11,17 +11,17 @@ Version 0.2<br/>
 
 <p align="center" style="color:gray;padding-bottom:10px; ">Abstract</p>
 
-Blockchain Web Services is a Unified smart contracts API allowing companies to consume blockchain smart contracts as regular web services.
+Blockchain Web Services is a unified smart contracts API allowing companies to consume blockchain smart contracts as regular web services.
 
 In addition to this, it also integrates a marketplace for developers to publish their smart contracts and for companies to access hundreds of validated and secured state-of-the-art blockchain solutions. 
 
-We aim to help society embrace the blockchain Trust & Transparency revolution by removing infrastructure complexities from business creative workflows while improving decision-making “attributes of innovation”<sup>1</sup> (Relative Advantage, Compatibility, Complexity, Triability, and Observability).
+We aim to help society embrace the blockchain revolution by removing infrastructure complexities from business creative workflows while improving decision-making “attributes of innovation”<sup>1</sup> (Relative Advantage, Compatibility, Complexity, Triability, and Observability).
 
-On the economics, blockchain web service follows a sustainable economic and growth loop, where our ERC20 Ethereum token funds the platform’s development, rewards the community for extending it, and the revenue grows exponentially as more companies use the API.
+On the economics, Blockchain Web Services follows a sustainable economic and growth loop, where our ERC20 Ethereum token funds the platform’s development, rewards the community for extending it, and the revenue grows exponentially as more companies use the API.
 
 <p align="center">
   <img src="img/BWS_HL_Components.svg" /><br/>
-  <span style="font-size:14px">Figure 1. <i class="fa-solid fa-quote-left"></i>&nbsp;The Amazon web services for the blockchain(s)&nbsp;<i class="fa-solid fa-quote-right"></i></span>
+  <span style="font-size:14px">Figure 1. <i class="fa-solid fa-quote-left"></i>&nbsp;The Amazon Web Services for the blockchain(s)&nbsp;<i class="fa-solid fa-quote-right"></i></span>
 </p>
 
 <p align="center" style="color:gray;padding-bottom:20px; padding-top:20px;">_________</p>
@@ -50,12 +50,12 @@ To accelerate the smart contracts market adoption, we intend Blockchain Web Serv
  <ul class="fa-ul">
   <li style="padding-bottom:10px;"><span class="fa-li"><i class="fa-regular fa-square-check"></i></span><strong>A unified API platform</strong> for developers and companies to call public blockchain smart contracts as easily as any web service they are already used to.</li>
   <li style="padding-bottom:10px;"><span class="fa-li"><i class="fa-regular fa-square-check"></i></span><strong>A marketplace</strong> for developers to extend the platform offering and for companies to find and consume smart contracts easily.</li>
-  <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span><strong>Built-in smart contracts</strong> for the most demanded use cases (initial launch is planned to include Database primitives — read and write data to the blockchain(s), NFT (Non-Fungible Tokens) & Data Assets management smart contracts, and a Supply Chain solution to build auditable company workflows).</li> 
+  <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span><strong>Built-in smart contracts</strong> for the most demanded use cases (initial launch is planned to include database primitives — read and write data to the blockchain(s), NFT (Non-Fungible Tokens), data assets management smart contracts, and a supply chain solution to build auditable company workflows).</li> 
 </ul>
 
 ### A Unified blockchain(s) API
 
-APIs are the preferred technology for building applications, and for this reason <strong>the global API market size is expected to reach USD 14 billion by 2030</strong> and was worth USD 2.4 billion in 2021.
+APIs are the preferred technology for building applications, and for this reason the global API market size is expected to reach USD 14 billion by 2030 and was worth USD 2.4 billion in 2021.
 
 <p align="center" style="padding-bottom:10px; padding-top:20px;">
   <img src="img/API_MarketSize.jpg" /><br/>
@@ -115,21 +115,20 @@ At some point, company developers will have to deal with employing a credit card
   <span style="font-size:14px">Figure 5. Customers managing Fees to call smart contracts.</span>
 </p>
 
-Blockchain Web Services implements an innovative approach: <strong>our platform trades with any required funding in real-time</strong>, so users do not have to deal with it.
+Blockchain Web Services implements an innovative approach: our platform trades with any required funding in real-time, so users do not have to deal with it.
 
 <p align="center" style="padding-bottom:10px; padding-top:20px;">
   <img width="80%" src="img/Real-TimeFees.jpeg" /><br/>
   <span style="font-size:14px">Figure 6. Fees trading and Blockchain Web Services token circular economy.</span>
 </p>
 
-Customers call the platform API as often as required, wihout having to worry about blockchain fundings, and pay a bill at the end of the period. This is similar to what customers currently do when utilizing any other online service or API. 
-
+Customers call the platform API as often as required, and pay a bill at the end of the period.
 
 ## A smart contract Marketplace Community
 
 Blockchain communities are an essential element to driving continued growth.
 
-When it comes to smart contracts, a unified approach from both developers as well as the companies looking for their services is essentiali in order for all parties to effectively grow and expand. It was in a recent article that Jack Dorsey, billionaire entrepreneur, said that it was the “network and community” behind cryptocurrency and blockchain projects which he sees as being the most crucial for advancement.
+When it comes to smart contracts, a unified approach from both developers as well as the companies looking for their services is essential in order for all parties to effectively grow and expand. It was in a recent article that Jack Dorsey, billionaire entrepreneur, said that it was the “network and community” behind cryptocurrency and blockchain projects which he sees as being the most crucial for advancement.
 
 We incorporate a marketplace of smart contracts, where experienced blockchain developers will publish their work (and get a profit from it), and companies will find best-in-class solutions that are easy to use through our API approach.
 
@@ -144,17 +143,17 @@ Our goal is to boost overall blockchain adoption, whereby trust and transparency
 
 We propose Blockchain Web Services to rule a token operating under the following principles:
 
-- A circular token economy should support <strong>sustained growth</strong>.
+- A circular token economy should support sustained growth.
 
-- We aim to work for the vision we are committed to — <strong>a massive increase in blockchain adoption</strong> through companies, governments, and developers using our platform.
+- We aim to work for the vision we are committed to — a massive increase in blockchain adoption< through companies, governments, and developers using our platform.
 
-- The <strong>popularity of token dynamics' results from an increase in usage volume</strong> and real-world added value.
+- The popularity of token dynamics' results from an increase in usage volume and real-world added value.
 
-- We want <strong>the community to help, participate, fund, and get rewarded</strong> for promoting and extending the platform.
+- We want the community to help, participate, fund, and get rewarded for promoting and extending the platform.
 
 ### Token Use Cases 
 
-Blockchain Web Services has the following actors, 
+Blockchain Web Services has the following actors (as shown in Figure 8), 
 
 -	Platform customers calling the API as part of their blockchain services offering.
 
@@ -168,20 +167,27 @@ Blockchain Web Services has the following actors,
   <span style="font-size:14px">Figure 8. Utility token circular economy.</span>
 </p>
 
-In order to build a circular economy, a Blockchain Web Services token will get utilized as shown in the Figure 7 use cases:
+In order to build a circular economy, BWS token will get utilized as follows:
 
--	<strong>Every API call consuming a smart contract will require a payment fee</strong> in our utility token (such fee will also get transparently managed by the platform).
+-	Every API call consuming a smart contract will require a payment fee in our utility token (such fee will also get transparently managed by the platform).
 
--	Marketplace <strong>smart contract creators (developers) will get token rewards</strong> every time a platform customer consumes their solution.
+-	Marketplace smart contract creators (developers) will get token rewards every time a platform customer consumes their solution.
 
--	The smart contract <strong>developer’ community will get funds to add innovative solutions</strong> to the platform.
+-	The smart contract developer’ community will get funds to add innovative solutions to the platform.
 
 -	Tokens will fund the development, launch, and growth of the platform.
 
 ### Tokenomics 
 
+<strong>Token Name</strong> 
 
-<strong>Token type</strong> 
+Blockchain Web Services
+
+<strong>Token Symbol</strong>
+
+BWS 
+
+<strong>Token Type</strong> 
 
 ERC-20
 
@@ -200,9 +206,9 @@ We intend to have tokens support the platform's sustained growth. Thi is the rea
 
 <strong>Vesting Periods</strong>
 
-The founder's allocation is subject to a nine-month lockup post-network launch. After the lockup period ends, these tokens will vest monthly for another two years.
+The founder's allocation is subject to a one-year lockup post-network launch. After the lockup period ends, these tokens will vest monthly for another two years.
 
-Early-stage investors have a six-month lockup post-network launch. After the lockup period ends, these tokens will vest monthly for another six months.
+Early-stage investors have a nine-month lockup post-network launch. After the lockup period ends, these tokens will vest monthly for another six months.
 
 <strong>Initial Sale Token Price</strong>
 
