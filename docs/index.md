@@ -124,7 +124,7 @@ Blockchain Web Services implements an innovative approach: our platform trades w
 
 Customers call the platform API as often as required, and pay a bill at the end of the period.
 
-## A smart contract Marketplace Community
+### A smart contract Marketplace Community
 
 Blockchain communities are an essential element to driving continued growth.
 
