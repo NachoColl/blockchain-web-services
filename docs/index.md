@@ -197,7 +197,7 @@ ERC-20
 
 <strong>Token Allocation</strong>
 
-We intend to have tokens support the platform's sustained growth. Thi is the reason most tokens are allocated to product development (which will include marketing and business consultancy services) and Network Rewards (community rewards).
+We intend to have tokens support the platform's sustained growth, and this is the reason most of the tokens are allocated to product development, which also includes marketing and consultancy activities, and network rewards.
 
 <p align="center" style="padding-bottom:10px; padding-top:20px;">
   <img src="img/Token_Allocation.png" /><br/>
