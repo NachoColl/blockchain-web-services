@@ -34,7 +34,7 @@ But the initial hype on Smart Contracts is getting weighed by the blockchain eco
 
 While the portfolio of blockchain infrastructures<sup>(3)</sup> and the number of deployed Smart Contracts is growing fast, companies are reluctant to start their journey as it is too complex for them to manage the technology requirements. 
 
-Which Blockchain should I choose? How do I manage my Wallet and pay recurrent network fees? Should I build my Smart Contracts from scratch? Can we build on top of Blockchain as we're used to developing applications today? Are there state-of-the-art blockchain solutions ready to use and improve cost-efficiency? 
+Which Blockchain should I choose? Is there any difference between a Pubic and a Private blockchain? How do I manage my Wallet and pay recurrent network fees? Should I build my Smart Contracts from scratch? How can we build on top of Blockchain as we're used to developing applications today? Are there state-of-the-art blockchain solutions ready to use and improve cost-efficiency? 
 
 Blockchain Web Services brings an answer and a solution to those questions.
 
