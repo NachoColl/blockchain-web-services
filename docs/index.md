@@ -11,64 +11,64 @@ Version 0.2<br/>
 
 <p align="center" style="color:gray;padding-bottom:10px; ">Abstract</p>
 
-Blockchain Web Services is a Unified Smart Contracts API allowing companies to consume blockchain Smart Contracts as regular web services.
+Blockchain Web Services is a Unified smart contracts API allowing companies to consume blockchain smart contracts as regular web services.
 
-In addition to this, it also integrates a Marketplace for developers to publish their Smart Contracts and for companies to access hundreds of validated and secured state-of-the-art blockchain solutions. 
+In addition to this, it also integrates a marketplace for developers to publish their smart contracts and for companies to access hundreds of validated and secured state-of-the-art blockchain solutions. 
 
 We aim to help society embrace the blockchain Trust & Transparency revolution by removing infrastructure complexities from business creative workflows while improving decision-making “attributes of innovation”<sup>1</sup> (Relative Advantage, Compatibility, Complexity, Triability, and Observability).
 
-On the economics, Blockchain Web Service follows a sustainable economic and growth loop, where our ERC20 Ethereum token funds the platform’s development, rewards the community for extending it, and the revenue grows exponentially as more companies use the API.
+On the economics, blockchain web service follows a sustainable economic and growth loop, where our ERC20 Ethereum token funds the platform’s development, rewards the community for extending it, and the revenue grows exponentially as more companies use the API.
 
 <p align="center">
   <img src="img/BWS_HL_Components.svg" /><br/>
-  <span style="font-size:14px">Figure 1. <i class="fa-solid fa-quote-left"></i>&nbsp;The Amazon Web Services for the Blockchain(s)&nbsp;<i class="fa-solid fa-quote-right"></i></span>
+  <span style="font-size:14px">Figure 1. <i class="fa-solid fa-quote-left"></i>&nbsp;The Amazon web services for the blockchain(s)&nbsp;<i class="fa-solid fa-quote-right"></i></span>
 </p>
 
 <p align="center" style="color:gray;padding-bottom:20px; padding-top:20px;">_________</p>
 
 ## Introduction
 
-The 1st generation of Blockchain (aka Bitcoin) delivered the required trust for financial transactions; Just a few years later, a 2nd generation (aka Ethereum) stretched to countless scenarios through Smart Contracts. Today, new initiatives are already pushing hard to support scalability and mature growth.
+The first generation of blockchain (aka Bitcoin) delivered the required trust for financial transactions; Just a few years later, a second generation (aka Ethereum) stretched to countless scenarios through smart contracts. Today, new initiatives are already pushing hard to support scalability and mature growth.
 
-But the initial hype on Smart Contracts is getting weighed by the blockchain ecosystem complexities, and challenges arise when discussing market adoption. 
+But the initial hype on smart contracts is getting weighed by the blockchain ecosystem complexities, and challenges arise when discussing market adoption. 
 
-While the portfolio of blockchain infrastructures<sup>(3)</sup> and the number of deployed Smart Contracts is growing fast, companies are reluctant to start their journey as it is too complex for them to manage the technology requirements. 
+While the portfolio of blockchain infrastructures<sup>(3)</sup> and the number of deployed smart contracts are growing fast, companies are reluctant to start their journey as it is too complex for them to manage the technology requirements. 
 
-Which Blockchain should I choose? Is there any difference between a Pubic and a Private blockchain? How do I manage my Wallet and pay recurrent network fees? Should I build my Smart Contracts from scratch? How can we build on top of Blockchain as we're used to developing applications today? Are there state-of-the-art blockchain solutions ready to use and improve cost-efficiency? 
+Which blockchain should I choose? Is there any difference between a Pubic and a Private blockchain? How do I manage my Wallet and pay recurrent network fees? Should I build my smart contracts from scratch? How can we build on top of blockchain as we're used to developing applications today? Are there state-of-the-art blockchain solutions ready to use and improve cost-efficiency? 
 
 Blockchain Web Services brings an answer and a solution to those questions.
 
 <p align="center" style="padding-bottom:10px; padding-top:20px;">
   <img style="padding-bottomn:5px;" src="img/Gartner_SmartContracts.svg" width="80%" /><br/>
-  <span style="font-size:14px;">Figure 2. Gartner Hype Cycle for Blockchain and Web3, 2022 <sup>(2)</sup>.</span>
+  <span style="font-size:14px;">Figure 2. Gartner Hype Cycle for blockchain and Web3, 2022 <sup>(2)</sup>.</span>
 </p>
 
 ## Problem Solving Proposition
 
-To accelerate the Smart Contracts market adoption, we intend Blockchain Web Services to provide:
+To accelerate the smart contracts market adoption, we intend Blockchain Web Services to provide the following:
 
  <ul class="fa-ul">
-  <li style="padding-bottom:10px;"><span class="fa-li"><i class="fa-regular fa-square-check"></i></span><strong>A Unified API platform</strong> for developers and companies to call public Blockchain(s) Smart Contracts as any Web Service they are already used to.</li>
-  <li style="padding-bottom:10px;"><span class="fa-li"><i class="fa-regular fa-square-check"></i></span><strong>A Marketplace</strong> for developers to extend the platform offering and for companies to find and consume Smart Contracts easily.</li>
-  <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span><strong>Built-in Smart Contracts</strong> for the most demanded use cases (initial launch is planned to include Database primitives — read and write data to the blockchain(s), NFT (Non-Fungible Tokens) & Data Assets management Smart Contracts, and a Supply Chain solution to build auditable company workflows).</li> 
+  <li style="padding-bottom:10px;"><span class="fa-li"><i class="fa-regular fa-square-check"></i></span><strong>A unified API platform</strong> for developers and companies to call public blockchain smart contracts as easily as any web service they are already used to.</li>
+  <li style="padding-bottom:10px;"><span class="fa-li"><i class="fa-regular fa-square-check"></i></span><strong>A marketplace</strong> for developers to extend the platform offering and for companies to find and consume smart contracts easily.</li>
+  <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span><strong>Built-in smart contracts</strong> for the most demanded use cases (initial launch is planned to include Database primitives — read and write data to the blockchain(s), NFT (Non-Fungible Tokens) & Data Assets management smart contracts, and a Supply Chain solution to build auditable company workflows).</li> 
 </ul>
 
-### A Unified Blockchain(s) API
+### A Unified blockchain(s) API
 
-APIs are the preferred technology to build applications, and the reason <strong>the global API market size is expected to reach USD 14 billion by 2030</strong> and was worth USD 2.4 billion in 2021.
+APIs are the preferred technology for building applications, and for this reason <strong>the global API market size is expected to reach USD 14 billion by 2030</strong> and was worth USD 2.4 billion in 2021.
 
 <p align="center" style="padding-bottom:10px; padding-top:20px;">
   <img src="img/API_MarketSize.jpg" /><br/>
   <span style="font-size:14px">Figure 3. API Market Size and Forecast.</span>
 </p>
 
-We want that technology also to drive Blockchain Smart Contracts growth and accelerate adoption, and we are building Blockchain Web Services API to fulfill the following principles:
+We want that technology to also drive the growth of blockchain smart contracts and accelerate adoption, and we are building Blockchain Web Services API to fulfill the following principles:
 
  <ul class="fa-ul">
-  <li style="padding-bottom:10px;"><span class="fa-li"><i class="fa-regular fa-square-check"></i></span>Consuming a Smart Contract should be as easy as calling any other Web Service (Figure 4).</li>
-  <li style="padding-bottom:10px;"><span class="fa-li"><i class="fa-regular fa-square-check"></i></span>The same API interface should be used to call a Smart Contract in Ethereum, Polygon, Cardano, or any other supported blockchain.</li>
+  <li style="padding-bottom:10px;"><span class="fa-li"><i class="fa-regular fa-square-check"></i></span>Consuming a smart contract should be as easy as calling any other web service (Figure 4).</li>
+  <li style="padding-bottom:10px;"><span class="fa-li"><i class="fa-regular fa-square-check"></i></span>The same API interface should be used to call a smart contract in Ethereum, Polygon, Cardano, or any other supported blockchain.</li>
   <li style="padding-bottom:10px;"><span class="fa-li"><i class="fa-regular fa-square-check"></i></span>Executing Blockchain Web Services API calls should not require buying coins or tokens.</li> 
-  <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span>The use of blockchain private wallets should only be required if adding value to the solution proposal.</li> 
+  <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span>The use of blockchain private wallets should only be required if it adds value to the solution proposal.</li> 
 </ul>
 
 <pre><code class="js">var parameters = {
@@ -104,15 +104,15 @@ $.ajax({
 
 #### Realtime Fees Trading
 
-To execute Smart Contracts and write into Blockchain, you need fuel<sup>5</sup>. It is a fee required to execute transactions, like the fee you pay when using your credit card to support the network. 
+To execute smart contracts and write into blockchain, you need fuel<sup>5</sup>. This is a fee required to execute transactions, like the fee you pay when using your credit card to support the network. 
 
-As an example, if a company wants to use Smart Contracts to write its document’s signatures in the blockchain (to add transparency and trust), every Smart Contract signing call will require funds to be available to pay for the blockchain network fees (Figure 5). 
+For example, if a company wants to use smart contracts to write its document’s signatures in the blockchain (to add transparency and trust), every smart contract signing call will require funds to be available to pay for the blockchain network fees (Figure 5). 
 
 At some point, company developers will have to deal with employing a credit card or bank account to buy ETH recurrently and estimate how much gas they require at any time. 
 
 <p align="center" style="padding-bottom:10px; padding-top:20px;">
   <img width="80%" src="img/Real-TimeFees4Customer.jpeg" /><br/>
-  <span style="font-size:14px">Figure 5. Customers managing Fees to call Smart Contracts.</span>
+  <span style="font-size:14px">Figure 5. Customers managing Fees to call smart contracts.</span>
 </p>
 
 Blockchain Web Services implements an innovative approach: <strong>our platform trades with any required funding in real-time</strong>, so users do not have to deal with it.
@@ -122,20 +122,20 @@ Blockchain Web Services implements an innovative approach: <strong>our platform 
   <span style="font-size:14px">Figure 6. Fees trading and Blockchain Web Services token circular economy.</span>
 </p>
 
-Customers call the platform API as much as required, wihout having to worry about blockchain fundings, and pay a bill at the end of the period as they currently do when utilizing any other online service or API. 
+Customers call the platform API as often as required, wihout having to worry about blockchain fundings, and pay a bill at the end of the period. This is similar to what customers currently do when utilizing any other online service or API. 
 
 
-## A Smart Contract Marketplace Community
+## A smart contract Marketplace Community
 
 Blockchain communities are an essential element to driving continued growth.
 
-When it comes to Smart Contracts, a unified approach from both developers as well as the companies looking for their services is essentiali in order for all parties to effectively grow and expand. It was in a recent article that Jack Dorsey, billionaire entrepreneur, said that it was the “network and community” behind cryptocurrency and blockchain projects which he sees as being the most crucial for advancement.
+When it comes to smart contracts, a unified approach from both developers as well as the companies looking for their services is essentiali in order for all parties to effectively grow and expand. It was in a recent article that Jack Dorsey, billionaire entrepreneur, said that it was the “network and community” behind cryptocurrency and blockchain projects which he sees as being the most crucial for advancement.
 
-We incorporate a Marketplace of Smart Contracts where experienced blockchain developers will publish their work (and get a profit from it), and companies will find best-in-class solutions that are easy to use through our platform Smart Contracts API approach.
+We incorporate a marketplace of smart contracts, where experienced blockchain developers will publish their work (and get a profit from it), and companies will find best-in-class solutions that are easy to use through our API approach.
 
 <p align="center" style="padding-bottom:10px; padding-top:20px;">
   <img width="80%" src="img/Marketplace_Overview.jpeg" /><br/>
-  <span style="font-size:14px">Figure 7. Blockchain Web services Marketplace.</span>
+  <span style="font-size:14px">Figure 7. Blockchain Web Services Marketplace.</span>
 </p>
 
 ## Utility Token
@@ -144,11 +144,11 @@ Our goal is to boost overall blockchain adoption, whereby trust and transparency
 
 We propose Blockchain Web Services to rule a token operating under the following principles:
 
-- Circular token economy should support <strong>sustained growth</strong>.
+- A circular token economy should support <strong>sustained growth</strong>.
 
 - We aim to work for the vision we are committed to — <strong>a massive increase in blockchain adoption</strong> through companies, governments, and developers using our platform.
 
-- The <strong>token dynamics' popularity results from an increase in usage volume</strong> and real-world added value.
+- The <strong>popularity of token dynamics' results from an increase in usage volume</strong> and real-world added value.
 
 - We want <strong>the community to help, participate, fund, and get rewarded</strong> for promoting and extending the platform.
 
@@ -156,9 +156,9 @@ We propose Blockchain Web Services to rule a token operating under the following
 
 Blockchain Web Services has the following actors, 
 
--	Platform customers calling the API as part of their Blockchain services offering.
+-	Platform customers calling the API as part of their blockchain services offering.
 
--	Smart Contract developers and teams building new platform solutions (extending the API).
+-	smart contract developers and teams building new platform solutions (extending the API).
 
 -	The platform team, whose objective is to develop the built-in solution APIs and engage the community.
 
@@ -168,15 +168,15 @@ Blockchain Web Services has the following actors,
   <span style="font-size:14px">Figure 8. Utility token circular economy.</span>
 </p>
 
-To build a circular economy, Blockchain Web Services token will get utilized as shown in Figure 7 use cases:
+In order to build a circular economy, a Blockchain Web Services token will get utilized as shown in the Figure 7 use cases:
 
--	<strong>Every API call consuming a Smart Contract will require paying a fee</strong> in our utility token (such fee charge will also get transparently managed by the platform).
+-	<strong>Every API call consuming a smart contract will require a payment fee</strong> in our utility token (such fee will also get transparently managed by the platform).
 
--	Marketplace <strong>Smart Contracts creators (developers) will get token rewards</strong> every time a platform customer consumes their solution.
+-	Marketplace <strong>smart contract creators (developers) will get token rewards</strong> every time a platform customer consumes their solution.
 
--	Smart Contract <strong>developers’ community will get funds to add innovative solutions</strong> to the platform.
+-	The smart contract <strong>developer’ community will get funds to add innovative solutions</strong> to the platform.
 
--	Token will fund the development, launch, and growth of the platform.
+-	Tokens will fund the development, launch, and growth of the platform.
 
 ### Tokenomics 
 
@@ -191,7 +191,7 @@ ERC-20
 
 <strong>Token Allocation</strong>
 
-We intend tokens to support the platform's sustained growth, the reason most tokens are allocated to product development (that will include Marketing and Business Consultancy Services) and Network Rewards (community rewards).
+We intend to have tokens support the platform's sustained growth. Thi is the reason most tokens are allocated to product development (which will include marketing and business consultancy services) and Network Rewards (community rewards).
 
 <p align="center" style="padding-bottom:10px; padding-top:20px;">
   <img src="img/Token_Allocation.png" /><br/>
@@ -269,8 +269,8 @@ Tokens are bought for network usage and spent on network growth, creating a virt
     - Supply Chain Management
     - Data Assets / AI Workflows Integration
 - Blockchain Web Services ADOPTION growth plan threads:
-  - **Blockchain Consulting** to help businesses implement blockchain through Blockchain Web Services 
-  - **Smart Contracts Marketplace** to involve Smart Contracts developers to add their solutions.
+  - **blockchain Consulting** to help businesses implement blockchain through Blockchain Web Services 
+  - **smart contracts Marketplace** to involve smart contracts developers to add their solutions.
 
 
 <script src="https://kit.fontawesome.com/ed4fd3e862.js" crossorigin="anonymous"></script>
@@ -284,10 +284,10 @@ Tokens are bought for network usage and spent on network growth, creating a virt
 
 (1) Diffusion of Innovations - Everett M. Rogers
 
-(2) Gartner Hype Cycle for Blockchain and Web3, 2022 - Gartner Research - https://blogs.gartner.com/avivah-litan/2022/07/22/gartner-hype-cycle-for-blockchain-and-web3-2022/ 
+(2) Gartner Hype Cycle for blockchain and Web3, 2022 - Gartner Research - https://blogs.gartner.com/avivah-litan/2022/07/22/gartner-hype-cycle-for-blockchain-and-web3-2022/ 
 
-(3) Blockchain Layer 1 vs. Layer 2 Scaling Solutions - Binance Academy - https://academy.binance.com/en/articles/blockchain-layer-1-vs-layer-2-scaling-solutions
+(3) blockchain Layer 1 vs. Layer 2 Scaling Solutions - Binance Academy - https://academy.binance.com/en/articles/blockchain-layer-1-vs-layer-2-scaling-solutions
 
 (4) smart contract best practices - Cardano Foundation - https://docs.cardano.org/plutus/sc-best-practices
 
-(5) How Gas Fees Work on the Ethereum Blockchain - JAKE FRANKENFIELD - www.investopedia.com/terms/g/gas-ethereum.asp
+(5) How Gas Fees Work on the Ethereum blockchain - JAKE FRANKENFIELD - www.investopedia.com/terms/g/gas-ethereum.asp
