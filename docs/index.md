@@ -11,7 +11,7 @@ Version 0.2<br/>
 
 <p align="center" style="color:gray;padding-bottom:10px; ">Abstract</p>
 
-Blockchain Web Services is a unified smart contracts API allowing companies to consume blockchain smart contracts as regular web services.
+Blockchain Web Services is a unified API allowing companies to consume blockchain smart contracts as regular web services.
 
 In addition to this, it also integrates a marketplace for developers to publish their smart contracts and for companies to access hundreds of validated and secured state-of-the-art blockchain solutions. 
 
