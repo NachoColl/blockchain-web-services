@@ -32,9 +32,7 @@ The first generation of blockchain (aka Bitcoin) delivered the required trust fo
 
 But the initial hype on smart contracts is getting weighed by the blockchain ecosystem complexities, and challenges arise when discussing market adoption. 
 
-While the portfolio of blockchain infrastructures<sup>(3)</sup> and the number of deployed smart contracts are growing fast, companies are reluctant to start their journey as it is too complex for them to manage the technology requirements. 
-
-Among other blockers, customers have to deal with:
+While the portfolio of infrastructures<sup>(3)</sup> and the number of deployed smart contracts are growing fast, companies are reluctant to start their journey. Among other blockers, customers have to deal with:
 
 - finding experienced Smart Contract developers,
 - having to build their solution from scratch,
