@@ -151,7 +151,7 @@ We propose Blockchain Web Services to rule a token operating under the following
 
 - A circular token economy should support sustained growth.
 
-- We aim to work for the vision we are committed to — a massive increase in blockchain adoption< through companies, governments, and developers using our platform.
+- We aim to work for the vision we are committed to — a massive increase in blockchain adoption through companies, governments, and developers using our platform.
 
 - The popularity of token dynamics' results from an increase in usage volume and real-world added value.
 
