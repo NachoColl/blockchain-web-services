@@ -34,9 +34,17 @@ But the initial hype on smart contracts is getting weighed by the blockchain eco
 
 While the portfolio of blockchain infrastructures<sup>(3)</sup> and the number of deployed smart contracts are growing fast, companies are reluctant to start their journey as it is too complex for them to manage the technology requirements. 
 
-Which blockchain should I choose? Is there any difference between a Pubic and a Private blockchain? How do I manage my Wallet and pay recurrent network fees? Should I build my smart contracts from scratch? How can we build on top of blockchain as we're used to developing applications today? Are there state-of-the-art blockchain solutions ready to use and improve cost-efficiency? 
+Among other blockers, customers have to deal with:
 
-Blockchain Web Services brings an answer and a solution to those questions.
+- finding experienced Smart Contract developers,
+- having to build their solution from scratch,
+- deciding which blockchain to use and get locked with,
+- managing and securing their blockchain identities, or, 
+- paying network fees every time they execute a transaction.
+
+The roadmap for getting any business value is too long; therefore, many companies decide blockchain needs to be more mature and easy to consume to get on board.
+
+Blockchain Web Services brings an answer and a solution to all those blockchain adoption barriers.
 
 <p align="center" style="padding-bottom:10px; padding-top:20px;">
   <img style="padding-bottomn:5px;" src="img/Gartner_SmartContracts.svg" width="80%" /><br/>
