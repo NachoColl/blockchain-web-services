@@ -15,8 +15,8 @@ Blockchain Web Services is a unified API allowing companies to consume blockchai
 
 In addition to this, it also integrates a marketplace for developers to publish their smart contracts and for companies to access hundreds of validated and secured state-of-the-art blockchain solutions. 
 
-<p align="center">
-  <img src="img/BWS_Overview_Circles.svg" width="60%" /><br/>
+<p align="center" style="padding-bottom:10px; padding-top:20px;">
+  <img src="img/BWS_Overview_Circles.svg" width="30%" /><br/>
   <span style="font-size:14px">Figure 1. Blockchain Web Services</span>
 </p>
 
