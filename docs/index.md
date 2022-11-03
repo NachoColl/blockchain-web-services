@@ -119,14 +119,14 @@ To execute smart contracts and write into blockchain, you need fuel<sup>5</sup>.
 
 For example, if a company wants to use smart contracts to write its document’s signatures in the blockchain (to add transparency and trust), every smart contract signing call will require funds to be available to pay for the blockchain network fees (Figure 6). 
 
-At some point, company developers will have to deal with employing a credit card or bank account to buy ETH recurrently and estimate how much gas they require at any time. 
-
 <p align="center" style="padding-bottom:10px; padding-top:20px;">
   <img width="80%" src="img/Real-TimeFees4Customer.jpeg" /><br/>
   <span style="font-size:14px">Figure 6. Customers managing Fees to call smart contracts.</span>
 </p>
 
-Blockchain Web Services implements an innovative approach: our platform trades with any required funding in real-time, so users do not have to deal with it.
+At some point, company developers will have to deal with employing a credit card or bank account to buy ETH recurrently and estimate how much gas they require at any time. 
+
+Blockchain Web Services implements an innovative approach. Our platform trades with any required funding in real-time, so users do not have to deal with it.
 
 <p align="center" style="padding-bottom:10px; padding-top:20px;">
   <img width="80%" src="img/Real-TimeFees.jpeg" /><br/>
