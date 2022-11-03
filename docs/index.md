@@ -16,7 +16,7 @@ Blockchain Web Services is a unified API allowing companies to consume blockchai
 In addition to this, it also integrates a marketplace for developers to publish their smart contracts and for companies to access hundreds of validated and secured state-of-the-art blockchain solutions. 
 
 <p align="center">
-  <img src="img/BWS_Overview_Circles.svg" /><br/>
+  <img src="img/BWS_Overview_Circles.svg" width="60%" /><br/>
   <span style="font-size:14px">Figure 1. Blockchain Web Services</span>
 </p>
 
@@ -25,7 +25,7 @@ We aim to help society embrace the blockchain revolution by removing infrastruct
 On the economics, Blockchain Web Services follows a sustainable economic and growth loop, where our ERC20 Ethereum token funds the platform’s development, rewards the community for extending it, and the revenue grows exponentially as more companies use the API.
 
 <p align="center">
-  <img src="img/BWS_HL_Components.svg"  width="80%" /><br/>
+  <img src="img/BWS_HL_Components.svg"  /><br/>
   <span style="font-size:14px">Figure 2. <i class="fa-solid fa-quote-left"></i>&nbsp;The Amazon Web Services for the blockchain(s)&nbsp;<i class="fa-solid fa-quote-right"></i></span>
 </p>
 
