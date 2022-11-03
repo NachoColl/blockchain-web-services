@@ -59,24 +59,19 @@ To accelerate the smart contracts market adoption, we intend Blockchain Web Serv
   <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span><strong>Built-in smart contracts</strong> for the most demanded use cases (initial launch is planned to include database primitives — read and write data to the blockchain(s), NFT (Non-Fungible Tokens), data assets management smart contracts, and a supply chain solution to build auditable company workflows).</li> 
 </ul>
 
-<p align="center" style="padding-bottom:10px; padding-top:20px;">
-  <img src="img/BWS_Overview_Circles.svg" width="30%" /><br/>
-  <span style="font-size:14px">Figure 3. Blockchain Web Services</span>
-</p>
-
 ### A Unified blockchain(s) API
 
 APIs are the preferred technology for building applications, and for this reason the global API market size is expected to reach USD 14 billion by 2030 and was worth USD 2.4 billion in 2021.
 
 <p align="center" style="padding-bottom:10px; padding-top:20px;">
   <img src="img/API_MarketSize.jpg" /><br/>
-  <span style="font-size:14px">Figure 4. API Market Size and Forecast.</span>
+  <span style="font-size:14px">Figure 3. API Market Size and Forecast.</span>
 </p>
 
 We want that technology to also drive the growth of blockchain smart contracts and accelerate adoption, and we are building Blockchain Web Services API to fulfill the following principles:
 
  <ul class="fa-ul">
-  <li style="padding-bottom:10px;"><span class="fa-li"><i class="fa-regular fa-square-check"></i></span>Consuming a smart contract should be as easy as calling any other web service (Figure 5).</li>
+  <li style="padding-bottom:10px;"><span class="fa-li"><i class="fa-regular fa-square-check"></i></span>Consuming a smart contract should be as easy as calling any other web service (Figure 4).</li>
   <li style="padding-bottom:10px;"><span class="fa-li"><i class="fa-regular fa-square-check"></i></span>The same API interface should be used to call a smart contract in Ethereum, Polygon, Cardano, or any other supported blockchain.</li>
   <li style="padding-bottom:10px;"><span class="fa-li"><i class="fa-regular fa-square-check"></i></span>Executing Blockchain Web Services API calls should not require buying coins or tokens.</li> 
   <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span>The use of blockchain private wallets should only be required if it adds value to the solution proposal.</li> 
@@ -110,18 +105,18 @@ $.ajax({
   },
 });</code></pre>
 <p align="center">
-<span style="font-size:14px">Figure 5. A Unified API Interface call example.</span>
+<span style="font-size:14px">Figure 4. A Unified API Interface call example.</span>
 </p>
 
 #### Realtime Fees Trading
 
 To execute smart contracts and write into blockchain, you need fuel<sup>5</sup>. This is a fee required to execute transactions, like the fee you pay when using your credit card to support the network. 
 
-For example, if a company wants to use smart contracts to write its document’s signatures in the blockchain (to add transparency and trust), every smart contract signing call will require funds to be available to pay for the blockchain network fees (Figure 6). 
+For example, if a company wants to use smart contracts to write its document’s signatures in the blockchain (to add transparency and trust), every smart contract signing call will require funds to be available to pay for the blockchain network fees (Figure 5). 
 
 <p align="center" style="padding-bottom:10px; padding-top:20px;">
   <img width="80%" src="img/Real-TimeFees4Customer.jpeg" /><br/>
-  <span style="font-size:14px">Figure 6. Customers managing Fees to call smart contracts.</span>
+  <span style="font-size:14px">Figure 5. Customers managing Fees to call smart contracts.</span>
 </p>
 
 At some point, company developers will have to deal with employing a credit card or bank account to buy ETH recurrently and estimate how much gas they require at any time. 
@@ -130,7 +125,7 @@ Blockchain Web Services implements an innovative approach. Our platform trades w
 
 <p align="center" style="padding-bottom:10px; padding-top:20px;">
   <img width="80%" src="img/Real-TimeFees.jpeg" /><br/>
-  <span style="font-size:14px">Figure 7. Fees trading and Blockchain Web Services token circular economy.</span>
+  <span style="font-size:14px">Figure 6. Fees trading and Blockchain Web Services token circular economy.</span>
 </p>
 
 Customers call the platform API as often as required, and pay a bill at the end of the period.
@@ -145,7 +140,7 @@ We incorporate a marketplace of smart contracts, where experienced blockchain de
 
 <p align="center" style="padding-bottom:10px; padding-top:20px;">
   <img width="80%" src="img/Marketplace_Overview.jpeg" /><br/>
-  <span style="font-size:14px">Figure 8. Blockchain Web Services Marketplace.</span>
+  <span style="font-size:14px">Figure 7. Blockchain Web Services Marketplace.</span>
 </p>
 
 ## Utility Token
@@ -164,7 +159,7 @@ We propose Blockchain Web Services to rule a token operating under the following
 
 ### Token Use Cases 
 
-Blockchain Web Services has the following actors (as shown in Figure 9), 
+Blockchain Web Services has the following actors (as shown in Figure 8), 
 
 -	Platform customers calling the API as part of their blockchain services offering.
 
@@ -175,7 +170,7 @@ Blockchain Web Services has the following actors (as shown in Figure 9),
 
 <p align="center" style="padding-bottom:10px; padding-top:20px;">
   <img width="80%" src="img/UtilityToken_CircularEconomy.jpg" /><br/>
-  <span style="font-size:14px">Figure 9. Utility token circular economy.</span>
+  <span style="font-size:14px">Figure 8. Utility token circular economy.</span>
 </p>
 
 In order to build a circular economy, BWS token will get utilized as follows:
@@ -212,7 +207,7 @@ We intend to have tokens support the platform's sustained growth, and this is th
 
 <p align="center" style="padding-bottom:10px; padding-top:20px;">
   <img src="img/Token_Allocation.png" /><br/>
-  <span style="font-size:14px">Figure 10. Token Allocation.</span>
+  <span style="font-size:14px">Figure 9. Token Allocation.</span>
 </p>
 
 <strong>Vesting Periods</strong>
@@ -234,7 +229,7 @@ Tokens are bought for network usage and spent on network growth, creating a virt
 
 <p align="center" style="padding-bottom:10px; padding-top:20px;">
   <img src="img/Tokenomics_Loop.png" /><br/>
-  <span style="font-size:14px">Figure 11. Tokenomics Health Loop.</span>
+  <span style="font-size:14px">Figure 10. Tokenomics Health Loop.</span>
 </p>
 
 
