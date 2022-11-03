@@ -15,18 +15,13 @@ Blockchain Web Services is a unified API allowing companies to consume blockchai
 
 In addition to this, it also integrates a marketplace for developers to publish their smart contracts and for companies to access hundreds of validated and secured state-of-the-art blockchain solutions. 
 
-<p align="center" style="padding-bottom:10px; padding-top:20px;">
-  <img src="img/BWS_Overview_Circles.svg" width="30%" /><br/>
-  <span style="font-size:14px">Figure 1. Blockchain Web Services</span>
-</p>
-
 We aim to help society embrace the blockchain revolution by removing infrastructure complexities from business creative workflows while improving decision-making “attributes of innovation”<sup>1</sup> (Relative Advantage, Compatibility, Complexity, Triability, and Observability).
 
 On the economics, Blockchain Web Services follows a sustainable economic and growth loop, where our ERC20 Ethereum token funds the platform’s development, rewards the community for extending it, and the revenue grows exponentially as more companies use the API.
 
 <p align="center">
   <img src="img/BWS_HL_Components.svg"  /><br/>
-  <span style="font-size:14px">Figure 2. <i class="fa-solid fa-quote-left"></i>&nbsp;The Amazon Web Services for the blockchain(s)&nbsp;<i class="fa-solid fa-quote-right"></i></span>
+  <span style="font-size:14px">Figure 1. <i class="fa-solid fa-quote-left"></i>&nbsp;The Amazon Web Services for the blockchain(s)&nbsp;<i class="fa-solid fa-quote-right"></i></span>
 </p>
 
 <p align="center" style="color:gray;padding-bottom:20px; padding-top:20px;">_________</p>
@@ -45,7 +40,7 @@ Blockchain Web Services brings an answer and a solution to those questions.
 
 <p align="center" style="padding-bottom:10px; padding-top:20px;">
   <img style="padding-bottomn:5px;" src="img/Gartner_SmartContracts.svg" width="80%" /><br/>
-  <span style="font-size:14px;">Figure 3. Gartner Hype Cycle for blockchain and Web3, 2022 <sup>(2)</sup>.</span>
+  <span style="font-size:14px;">Figure 2. Gartner Hype Cycle for blockchain and Web3, 2022 <sup>(2)</sup>.</span>
 </p>
 
 ## Problem Solving Proposition
@@ -57,6 +52,11 @@ To accelerate the smart contracts market adoption, we intend Blockchain Web Serv
   <li style="padding-bottom:10px;"><span class="fa-li"><i class="fa-regular fa-square-check"></i></span><strong>A marketplace</strong> for developers to extend the platform offering and for companies to find and consume smart contracts easily.</li>
   <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span><strong>Built-in smart contracts</strong> for the most demanded use cases (initial launch is planned to include database primitives — read and write data to the blockchain(s), NFT (Non-Fungible Tokens), data assets management smart contracts, and a supply chain solution to build auditable company workflows).</li> 
 </ul>
+
+<p align="center" style="padding-bottom:10px; padding-top:20px;">
+  <img src="img/BWS_Overview_Circles.svg" width="30%" /><br/>
+  <span style="font-size:14px">Figure 3. Blockchain Web Services</span>
+</p>
 
 ### A Unified blockchain(s) API
 
