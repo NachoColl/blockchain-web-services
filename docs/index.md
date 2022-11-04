@@ -30,15 +30,7 @@ On the economics, Blockchain Web Services follows a sustainable economic and gro
 
 The first generation of blockchain (aka Bitcoin) delivered the required trust for financial transactions; Just a few years later, a second generation (aka Ethereum) stretched to countless scenarios through smart contracts. Today, new initiatives are already pushing hard to support scalability and mature growth.
 
-But the initial hype on smart contracts is getting weighed by the blockchain ecosystem complexities, and challenges arise when discussing market adoption. 
-
-While the portfolio of infrastructures<sup>(3)</sup> and the number of deployed smart contracts are growing fast, companies are reluctant to start their journey. Among other blockers, customers have to deal with:
-
-- finding experienced Smart Contract developers,
-- having to build their solution from scratch,
-- deciding which blockchain to use and get locked with,
-- managing and securing their blockchain identities, or, 
-- paying network fees every time they execute a transaction.
+But the initial hype on smart contracts is getting weighed by the blockchain ecosystem complexities<sup>(3)</sup>, and challenges arise when discussing market adoption. Among other blockers, today, customers have to build their solution from scratch, find experienced developers, decide the infrastructure to use, secure their identity or manage how to pay network fees every time they execute a transaction.
 
 The roadmap for getting any business value is too long; therefore, many companies decide blockchain needs to be more mature and easy to consume to get on board.
 
