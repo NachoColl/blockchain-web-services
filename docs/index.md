@@ -48,8 +48,9 @@ To accelerate the smart contracts market adoption, we intend Blockchain Web Serv
  <ul class="fa-ul">
   <li style="padding-bottom:10px;"><span class="fa-li"><i class="fa-regular fa-square-check"></i></span><strong>A unified API platform</strong> for developers and companies to call public blockchain smart contracts as easily as any web service they are already used to.</li>
   <li style="padding-bottom:10px;"><span class="fa-li"><i class="fa-regular fa-square-check"></i></span><strong>A marketplace</strong> for developers to extend the platform offering and for companies to find and consume smart contracts easily.</li>
-  <li><span class="fa-li"><i class="fa-regular fa-square-check"></i></span><strong>Built-in smart contracts</strong> for the most demanded use cases (initial launch is planned to include database primitives — read and write data to the blockchain(s), NFT (Non-Fungible Tokens), data assets management smart contracts, and a supply chain solution to build auditable company workflows).</li> 
 </ul>
+
+The marketplace incorporates built-in smart contracts for the most demanded use cases to get market traction from day one (database primitives, NFT (Non-Fungible Tokens), data assets management, and a supply chain solution to build auditable company workflows).
 
 ### A Unified blockchain(s) API
 
